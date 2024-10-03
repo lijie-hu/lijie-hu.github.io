@@ -8,7 +8,7 @@ author_profile: true
 
 ## Theoretical Foundations of Usable XAI
 
-<img src='/images/500x300.png'>
+<img src='/images/framework1.pdf'>
 
 
 ## Towards Useful XAI in Large Models
