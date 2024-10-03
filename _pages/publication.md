@@ -12,7 +12,7 @@ author_profile: true
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 
 ### Explainable Artificial Intelligence (XAI)
-- <p><p style="color: #C89933">[NeurIPS]</p> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
+- <p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
 Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
