@@ -60,6 +60,6 @@ Talks
   * *"Towards Faithful Explainable AI"*
   * Apr. 2023
 
-* <b>AAAI 2023</b>
+* <b>The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)</b>
   * *"Stable and Explainable Attention"*
   * Feb. 2023
