@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Lijie Hu (胡丽杰)"
+name                     : &name "Lijie Hu"
 description              : &description "Large Language Models, Explainable AI, Differential Privacy"
 url                      : https://lijie-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "lijie-hu/lijie-hu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Lijie Hu  "
+  name             : "Lijie Hu (胡丽杰)"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Large Language Models, Explainable AI, Differential Privacy"
   location         : "Thuwal, Saudi Arabia"
