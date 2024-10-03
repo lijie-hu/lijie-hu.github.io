@@ -40,6 +40,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 ### Large Language Models / Large Multimodals (LLM/MLLM)
+
 <li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
@@ -57,6 +58,7 @@ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Proc
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
 ### Privacy-preserving Artificial Intelligence 
+
 <li><p><a style="color: #C89933">[EMNLP]</a> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]<br>
 <u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>  
@@ -94,6 +96,7 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 <li><p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
 Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p></ol>
+
 
 <hr />
 
