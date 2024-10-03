@@ -17,7 +17,7 @@ author_profile: true
 - <p>A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
 <b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
 
-- <p>Semi-supervised Concept Bottleneck Models. [ArXiv] [Code ]<br>
+- <p>Semi-supervised Concept Bottleneck Models. [ArXiv] [Code]<br>
 <b>Lijie Hu</b>, <u>Tianhao Huang</u>, <u>Huanyi Xie</u>, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
 
 - <p>Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code] <br>
@@ -31,7 +31,7 @@ author_profile: true
 <ol>
 <h2>Explainable Artificial Intelligence (XAI)</h2>
 
-<li><p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
+<li><p><a style="color: #C89933"> [NeurIPS] </a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
