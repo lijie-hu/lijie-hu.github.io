@@ -37,7 +37,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 
 <li><p><a style="color: #C89933">[TKDE]</a> Towards Stable and Explainable Attention Mechanisms.<br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
-Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
+Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p></ol>
 
 ### Large Language Models / Large Multimodals (LLM/MLLM)
 
@@ -95,8 +95,7 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 
 <li><p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
-Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
-</ol>
+Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p></ol>
 
 
 <hr />
