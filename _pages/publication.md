@@ -93,3 +93,16 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 - <p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, Lijie Hu, and Di Wang.<br>
 Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
+
+## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
+- <p> Editable Concept Bottleneck Models. [ArXiv] [Code]<br>
+<b>Lijie Hu* </b>, Chenyang Ren*, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
+
+- <p> A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code]<br>
+<b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
+
+- <p> Semi-supervised Concept Bottleneck Models. [ArXiv] [Code]<br>
+<b>Lijie Hu</b>, Tianhao Huang, Huanyi Xie, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
+
+- <p> Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code]<br>
+Jia Li*, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.</p>
