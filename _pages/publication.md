@@ -9,8 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-### Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
-## Explainable Artificial Intelligence (XAI)
+## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
+
+### Explainable Artificial Intelligence (XAI)
 - [NeurIPS] Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code]
 Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang.
 The Conference on Neural Information Processing Systems (NeurIPS 2024).
