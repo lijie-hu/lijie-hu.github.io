@@ -94,6 +94,8 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 Jinyan Su, Lijie Hu, and Di Wang.<br>
 Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
 
+<hr />
+
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 - <p> Editable Concept Bottleneck Models. [ArXiv] [Code]<br>
 <b>Lijie Hu* </b>, Chenyang Ren*, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
