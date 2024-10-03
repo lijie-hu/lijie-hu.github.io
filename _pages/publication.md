@@ -12,16 +12,17 @@ author_profile: true
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 
 ### Explainable Artificial Intelligence (XAI)
-- <p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
+<ol>
+- <li><p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
 Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
-- <p><a style="color: #C89933">[ICML]</a> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br>
+- <li><p><a style="color: #C89933">[ICML]</a> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br>
 Lijie Hu*, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
 The 41st International Conference on Machine Learning (ICML 2024). <br>
 <b style="color: #C00000">Selected as a Spotlight paper(3.5% acceptance rate).</b></p>
 
-- <p><a style="color: #C89933">[ICLR]</a> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video] <br>
+- <li><p><a style="color: #C89933">[ICLR]</a> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video] <br>
 Songning Lai*, Lijie Hu*†, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
 The 12th International Conference on Learning Representations (ICLR 2024).</p>
 
@@ -93,6 +94,8 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 - <p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, Lijie Hu, and Di Wang.<br>
 Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
+
+</ol>
 
 <hr />
 
