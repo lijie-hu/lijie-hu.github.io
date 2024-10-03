@@ -16,10 +16,10 @@ author_profile: true
 Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
-- <p style="color: #C89933">[ICML]</p> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br />
-Lijie Hu*, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br />
+- <p><a style="color: #C89933">[ICML]</a> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br>
+Lijie Hu*, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
 The 41st International Conference on Machine Learning (ICML 2024). <br>
-Selected as a Spotlight paper (3.5% acceptance rate).
+<b style="color: #C00000">Selected as a Spotlight paper<\b>(3.5% acceptance rate).<\p>
 
 - <p style="color: #C89933">[ICLR]</p> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video]
 Songning Lai*, Lijie Hu*†, Junxiao Wang, Laure Berti-Equille, and Di Wang.
