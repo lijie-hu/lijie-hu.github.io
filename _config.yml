@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ph.D Student"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lijie Hu"
 description              : &description "Large Language Models, Explainable AI, Differential Privacy"
