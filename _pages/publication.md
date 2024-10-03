@@ -102,8 +102,8 @@ Proceedings of The 33rd International Conference on Algorithmic Learning Theory 
 
 <h2> Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)</h2>
 
--<p> Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
-<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
+- Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
+<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.
 
 -<p> A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
 <b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
