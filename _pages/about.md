@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Lijie Hu (胡丽杰)"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Biography
 
 Hello! I am Lijie Hu, a fourth-year Ph.D. student in Computer Science at King Abdullah University of Science and Technology (KAUST) since Spring 2021, and I am very fortunate to be advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a> in <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
 
