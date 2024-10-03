@@ -49,3 +49,13 @@ Experience
   * Visiting Student
   * Mar. 2019 - Jun. 2019
   * Advisor: Prof. Giuseppe Fenza and Prof. Carmen De Maio
+
+Talks
+======
+* <b>Ant Group</b>
+  * *"Towards Faithful Explainable AI"*
+  * Apr. 2023
+
+* <b>AAAI 2023</b>
+  * *"Stable and Explainable Attention"*
+  * Feb. 2023
