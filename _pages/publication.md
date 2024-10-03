@@ -100,16 +100,16 @@ Proceedings of The 33rd International Conference on Algorithmic Learning Theory 
 
 <hr />
 
-<h2> Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)</h2>
+## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 
-- Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
+* Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.
 
--<p> A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
-<b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
+* A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
+<b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.
 
--<p> Semi-supervised Concept Bottleneck Models. [ArXiv] [Code ]<br>
-<b>Lijie Hu</b>, <u>Tianhao Huang</u>, <u>Huanyi Xie</u>, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
+* Semi-supervised Concept Bottleneck Models. [ArXiv] [Code ]<br>
+<b>Lijie Hu</b>, <u>Tianhao Huang</u>, <u>Huanyi Xie</u>, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.
 
--<p> Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code] <br>
-<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.</p>
+* Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code] <br>
+<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.
