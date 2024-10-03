@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<hr />
-
 Education
 ======
 * <b>King Abdullah University of Science and Technology</b>
