@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 <ol>
-<b>Explainable Artificial Intelligence (XAI)</b>
+<head>Explainable Artificial Intelligence (XAI)</head>
 
 <li><p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
@@ -39,7 +39,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
-<b>Large Language Models / Large Multimodals (LLM/MLLM)</b>
+<head>Large Language Models / Large Multimodals (LLM/MLLM)</head>
 
 <li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
@@ -57,7 +57,7 @@ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Proc
 <u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
-<b>Privacy-preserving Artificial Intelligence</b>
+<head>Privacy-preserving Artificial Intelligence</head>
 
 <li><p><a style="color: #C89933">[EMNLP]</a> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]<br>
 <u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
@@ -100,7 +100,7 @@ Proceedings of The 33rd International Conference on Algorithmic Learning Theory 
 
 <hr />
 
-## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
+<head> Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)</head>
 
 - <p> Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
