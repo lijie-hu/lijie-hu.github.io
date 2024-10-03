@@ -11,6 +11,8 @@ Hello! I am Lijie Hu, a fourth-year Ph.D. student in Computer Science at King Ab
 
 My research interests are Explainable AI and Privacy-preserving AI. Specifically, my research goal is to build faithful XAI systems that are easily understood by users and are robust in various environments, especially for large models (e.g., large language models and large multimodal). I am also interested in applying the XAI to real-world scenarios (e.g., healthcare, recommender systems, traffic forecasting, materials, etc.). 
 
+<hr />
+
 # 🔥 News
 - *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 
