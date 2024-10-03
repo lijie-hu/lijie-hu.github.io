@@ -14,7 +14,7 @@ author_profile: true
 ### Explainable Artificial Intelligence (XAI)
 <ol>
 <li><p><a style="color: #C89933">[NeurIPS]</a> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
-<b>Lijie Hu*</b>, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
+<b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
 <li><p><a style="color: #C89933">[ICML]</a> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br>
@@ -23,7 +23,7 @@ The 41st International Conference on Machine Learning (ICML 2024). <br>
 <b style="color: #C00000">Selected as a Spotlight paper(3.5% acceptance rate).</b></p>
 
 <li><p><a style="color: #C89933">[ICLR]</a> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video] <br>
-Songning Lai*, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
+<u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
 The 12th International Conference on Learning Representations (ICLR 2024).</p>
 
 <li><p><a style="color: #C89933">[EMNLP]</a> UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause. [Link] [Code] <br>
@@ -36,16 +36,16 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b style="color: #C00000">Selected as an Oral paper.</b></p>
 
 <li><p><a style="color: #C89933">[TKDE]</a> Towards Stable and Explainable Attention Mechanisms.<br>
-<b>Lijie Hu*</b>, Xinhai Wang*, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
+<b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 ### Large Language Models / Large Multimodals (LLM/MLLM)
 <li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
-Keyuan Cheng*, Gang Lin*, Haoyang Fei*, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
+<u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
 <li><p><a style="color: #C89933">[COLM]</a> MONAL: Model Autophagy Analysis for Modeling Human-AI Interactions. [Link] [ArXiv] [Code]<br>
-Shu Yang*, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
+<u>Shu Yang*</u>, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
 <li><p><a style="color: #C89933">[EMNLP]</a> Dissecting Fine-Tuning Unlearning in Large Language Models. [Link] [ArXiv] [Code]<br>
@@ -53,12 +53,12 @@ Yihuai Hong, Yuelin Zou, <b>Lijie Hu</b>, Ziqian Zeng, Di Wang, Haiqin Yang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>
 
 <li><p><a style="color: #C89933">[ACM MM]</a> SATO: Stable Text-to-Motion Framework. [Link] [ArXiv] [Code]<br>
-Wenshuo Chen, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
+<u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
 ### Privacy-preserving Artificial Intelligence 
 <li><p><a style="color: #C89933">[EMNLP]</a> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]<br>
-Tianhao Huang*, Tao Yang*, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
+<u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>  
 
 <li><p><a style="color: #C89933">[EACL]</a> Differentially Private Natural Language Models: Recent Advances and Future Directions. [Link] [ArXiv] [Video]<br>
@@ -100,14 +100,14 @@ Proceedings of The 33rd International Conference on Algorithmic Learning Theory 
 <hr />
 
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
-- <p> Editable Concept Bottleneck Models. [ArXiv] [Code]<br>
-<b>Lijie Hu* </b>, Chenyang Ren*, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
+- <p> Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
+<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
 
-- <p> A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code]<br>
+- <p> A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
 <b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
 
-- <p> Semi-supervised Concept Bottleneck Models. [ArXiv] [Code]<br>
-<b>Lijie Hu</b>, Tianhao Huang, Huanyi Xie, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
+- <p> Semi-supervised Concept Bottleneck Models. [ArXiv] [Code ]<br>
+<b>Lijie Hu</b>, <u>Tianhao Huang</u>, <u>Huanyi Xie</u>, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
 
-- <p> Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code]<br>
-Jia Li*, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.</p>
+- <p> Fair Text-to-Image Diffusion via Fair Mapping. [ArXiv] [Code] <br>
+<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.</p>
