@@ -21,7 +21,7 @@ repository               : "lijie-hu/lijie-hu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lijie Hu  "
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Large Language Models, Explainable AI, Differential Privacy"
