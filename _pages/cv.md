@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <b>King Abdullah University of Science and Technology</b>
+  * Ph.D. Candidate in Computer Science
+  * Jan. 2021 - Present
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>Renmin University of China</b>
+  * M.S. in Mathematics
+  * Sep. 2017 - Jun. 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Minzu University of China</b>
+  * B.S. in Mathematics
+  * Sep. 2013 - Jun. 2017
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Ant Group</b>
+  * Research Intern
+  * Jun. 2023 - Oct. 2023
+  * Mentor: Dr. Lu Yu
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* <b>Technical University Darmstadt</b>
+  * Visiting Student
+  * Jun. 2022 - Aug. 2022
+  * Advisor: Prof. Ivan Habernal
+
+* <b>Lehigh University</b>
+  * Remote Visiting Student
+  * Feb. 2022 - Dec. 2022
+  * Advisor: Prof. Lichao Sun
+
+* <b>NEC Laboratories China</b>
+  * Research Intern
+  * Jul. 2020 - Jan. 2021
+  * Mentor: Dr. Yu Wu and  Dr. Wenjuan Wei
+
+* <b>University of Salerno</b>
+  * Visiting Student
+  * Mar. 2019 - Jun. 2019
+  * Advisor: Prof. Giuseppe Fenza and Prof. Carmen De Maio
