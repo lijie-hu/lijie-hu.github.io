@@ -13,6 +13,31 @@ My research interests are Explainable AI and Privacy-preserving AI. Specifically
 
 <hr />
 
+# Fundings
+- <p>*2024-2025*: "Towards Faithful Transformers and Attention Mechanisms" <br>
+Co-PIs: Prof. Di Wang, Lijie Hu <br>
+SDAIA-KAUST Center of Excellence in Data Science and AI (SDAIA-KAUST), $53,326 USD. </pr>
+
+
+# 🎖 Honors and Awards
+
+- ICLR 2024 Travel Award.
+
+- AISTATS 2023 Top Reviewer.
+
+- AAAI 2023 Travel Award.
+
+- CEMSE Dean's List Award, KAUST, 2022, 2024.
+
+- Invited to The ACM Transactions on Database Systems special issue on Best of PODS 2022.
+
+- Beijing Honored Graduates (Top 5%), 2017.
+
+- Merit Student of Beijing (Top 1%), 2016.
+
+- China National Scholarship (Top 2‰), 2014, 2015. 
+
+
 # 🔥 News
 - *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 
