@@ -39,7 +39,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
-<b>Large Language Models / Large Multimodals (LLM/MLLM)</b>
+<b><a style="color: #C89933">Large Language Models / Large Multimodals (LLM/MLLM)</a></b>
 
 <li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
