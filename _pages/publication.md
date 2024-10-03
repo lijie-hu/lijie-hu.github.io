@@ -11,7 +11,7 @@ author_profile: true
 
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 
-- <p>Editable Concept Bottleneck Models. [ArXiv] [Code] <br>
+- <p>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] <br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
 
 - <p>A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  [ArXiv] [Code] <br>
