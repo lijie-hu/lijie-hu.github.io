@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<hr />
 
 Education
 ======
@@ -22,6 +24,8 @@ Education
 * <b>Minzu University of China</b>
   * B.S. in Mathematics
   * Sep. 2013 - Jun. 2017
+
+<hr />
 
 Experience
 ======
@@ -49,6 +53,8 @@ Experience
   * Visiting Student
   * Mar. 2019 - Jun. 2019
   * Advisor: Prof. Giuseppe Fenza and Prof. Carmen De Maio
+
+<hr />
 
 Talks
 ======
