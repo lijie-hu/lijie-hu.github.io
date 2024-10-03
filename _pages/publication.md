@@ -11,14 +11,14 @@ author_profile: true
 
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 
-### <p style="color: #C89933">Explainable Artificial Intelligence (XAI)</p>
-- <p style="color: #2B9EB3">[NeurIPS]</p> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br />
-Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br />
-The Conference on Neural Information Processing Systems (NeurIPS 2024).
+### Explainable Artificial Intelligence (XAI)
+- <p><p style="color: #C89933">[NeurIPS]</p> Towards Multi-dimensional Explanation Alignment for Medical Classification. [Link] [Code] <br>
+Lijie Hu*, Songning Lai*, Wenshuo Chen*, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
+The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
 - <p style="color: #C89933">[ICML]</p> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br />
 Lijie Hu*, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br />
-The 41st International Conference on Machine Learning (ICML 2024). <br />
+The 41st International Conference on Machine Learning (ICML 2024). <br>
 Selected as a Spotlight paper (3.5% acceptance rate).
 
 - <p style="color: #C89933">[ICLR]</p> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video]
