@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Teaching Assistant
-- Machine Learning, 
-  - Spring 2022, Spring 2023, Spring 2024
+- Machine Learning 
   - King Abdullah University of Science and Technology (KAUST)
+  - Spring 2022, Spring 2023, Spring 2024
 - Calculus
-  - Fall 2017, Spring 2018
   - Renmin University of China
+  - Fall 2017, Spring 2018
