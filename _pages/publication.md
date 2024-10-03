@@ -20,7 +20,7 @@ The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 <li><p><a style="color: #C89933">[ICML]</a> Improving Interpretation Faithfulness for Vision Transformers. [Link] [ArXiv] [Code] [Video] <br>
 <b>Lijie Hu*</b>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
 The 41st International Conference on Machine Learning (ICML 2024). <br>
-<b style="color: #C00000">Selected as a Spotlight paper(3.5% acceptance rate).</b></p>
+<b style="color: #C00000">Selected as a Spotlight paper (3.5% acceptance rate).</b></p>
 
 <li><p><a style="color: #C89933">[ICLR]</a> Faithful Vision-Language Interpretation via Concept Bottleneck Models. [Link] [Code] [Video] <br>
 <u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
@@ -37,11 +37,11 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 
 <li><p><a style="color: #C89933">[TKDE]</a> Towards Stable and Explainable Attention Mechanisms.<br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
-Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p></ol>
+Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 ### Large Language Models / Large Multimodals (LLM/MLLM)
 
-<ol start="7"><li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
+<li><p><a style="color: #C89933">[COLM]</a> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] [ArXiv] [Code]<br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
@@ -55,11 +55,11 @@ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Proc
 
 <li><p><a style="color: #C89933">[ACM MM]</a> SATO: Stable Text-to-Motion Framework. [Link] [ArXiv] [Code]<br>
 <u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
-The 32nd ACM Multimedia Conference (ACM MM 2024).</p></ol>
+The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
-### Privacy-preserving Artificial Intelligence 
+### Privacy-preserving Artificial Intelligence
 
-<ol start="11"><li><p><a style="color: #C89933">[EMNLP]</a> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]<br>
+<li><p><a style="color: #C89933">[EMNLP]</a> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]<br>
 <u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>  
 
@@ -95,7 +95,7 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 
 <li><p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
-Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p></ol>
+Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
 
 
 <hr />
