@@ -93,9 +93,7 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 
 <li><p><a style="color: #C89933">[ALT]</a> Faster Rates of Differentially Private Stochastic Convex Optimization. [Link]<br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
-Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p>
-
-</ol>
+Proceedings of The 33rd International Conference on Algorithmic Learning Theory (ALT 2022).</p></ol>
 
 <hr />
 
