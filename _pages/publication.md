@@ -35,7 +35,7 @@ author_profile: true
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Improving Interpretation Faithfulness for Vision Transformers. [Link] <a href="https://arxiv.org/abs/2311.17983">[ArXiv]</a> <a href="https://github.com/kaustpradalab/FViT">[Code]</a> <a href="https://www.youtube.com/watch?v=xn-ROyhsB6A">[Video]</a> </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Improving Interpretation Faithfulness for Vision Transformers. <a href="https://openreview.net/pdf?id=YdwwWRX20q">[Link]</a> <a href="https://arxiv.org/abs/2311.17983">[ArXiv]</a> <a href="https://github.com/kaustpradalab/FViT">[Code]</a> <a href="https://www.youtube.com/watch?v=xn-ROyhsB6A">[Video]</a> </i><br>
 <b>Lijie Hu*</b>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
 The 41st International Conference on Machine Learning (ICML 2024). <br>
 <b style="color: #C00000">Selected as a Spotlight paper (3.5% acceptance rate).</b></p>
