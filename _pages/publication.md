@@ -12,7 +12,7 @@ author_profile: true
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 
 - <p><i>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
-<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
+<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Cheng-Long Wang, and Di Wang.</p>
 
 - <p><i>Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.  [ArXiv] [Code] </i><br>
 <b>Lijie Hu*</b>, Liang Liu*, Shu Yang*, Xin CHEN, Muhammad Asif Ali, Mengdi Li, and Di Wang.</p>
