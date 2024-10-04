@@ -14,8 +14,8 @@ author_profile: true
 - <p><i>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, Zhengyu Hu, Cheng-Long Wang, and Di Wang.</p>
 
-- <p><i>A Hopfieldian View-based Interpretation for Chain-of-Thought Reasoning.  <a href="https://arxiv.org/abs/2406.12255" >[ArXiv]</a> [Code] </i><br>
-<b>Lijie Hu</b>, Liang Liu, Shu Yang, Xin CHEN, Hongru Xiao, Mengdi Li, Pan Zhou, Muhammad Asif Ali, and Di Wang.</p>
+- <p><i>Understanding Reasoning in Chain-of-Thought from the Hopfieldian View.  [ArXiv] [Code] </i><br>
+<b>Lijie Hu*</b>, Liang Liu*, Shu Yang*, Xin CHEN, Muhammad Asif Ali, Mengdi Li, and Di Wang.</p>
 
 - <p><i>Semi-supervised Concept Bottleneck Models. <a href="https://arxiv.org/abs/2406.18992" >[ArXiv]</a> [Code]</i><br>
 <b>Lijie Hu</b>, <u>Tianhao Huang</u>, <u>Huanyi Xie</u>, Chenyang Ren, Zhengyu Hu, Lu Yu, and Di Wang.</p>
