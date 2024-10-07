@@ -16,10 +16,10 @@ Education
   * Jan. 2021 - Present
 
 * <b>Renmin University of China</b>
-  * M.S. in Mathematics, <u>2020</u>
+  * M.S. in Mathematics, <i>2020</i>
 
 * <b>Minzu University of China</b>
-  * B.S. in Mathematics, <u>2017</u>
+  * B.S. in Mathematics, <i>2017</i>
 
 <hr />
 
