@@ -14,6 +14,9 @@ author_profile: true
 - <p><i>Understanding Reasoning in Chain-of-Thought from the Hopfieldian View. <a href="https://arxiv.org/abs/2410.03595">[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu*</b>, Liang Liu*, Shu Yang*, Xin CHEN, Muhammad Asif Ali, Mengdi Li, and Di Wang.</p>
 
+- <p><i>Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
+Zhuoran Zhang, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.</p>
+
 - <p><i>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Hui Xiong, Jingfeng Zhang, and Di Wang.</p>
 
