@@ -70,7 +70,7 @@ The 1st Conference on Language Modeling (COLM 2024).</p>
 <u>Shu Yang*</u>, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> Dissecting Fine-Tuning Unlearning in Large Language Models. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Dissecting Fine-Tuning Unlearning in Large Language Models. [Link] <a href="https://arxiv.org/pdf/2410.06606">[ArXiv]</a> [Code]</i><br>
 Yihuai Hong, Yuelin Zou, <b>Lijie Hu</b>, Ziqian Zeng, Di Wang, Haiqin Yang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>
 
