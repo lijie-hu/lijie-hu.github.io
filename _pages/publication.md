@@ -47,7 +47,7 @@ The 41st International Conference on Machine Learning (ICML 2024). <br>
 <u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
 The 12th International Conference on Learning Representations (ICLR 2024).</p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause. [Link] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause. [Link] <a href="https://arxiv.org/pdf/2404.00403">[ArXiv]</a> [Code] </i><br>
 Guimin Hu, Zhihong Zhu, Daniel Hershcovich, <b>Lijie Hu</b>, Hasti Seifi, and Jiayuan Xie.<br>
 Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Findings).</p>
 
@@ -62,11 +62,11 @@ Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
-<li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. [Link] <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
+<li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
-<li><p><i><b style="color: #C89933">[COLM]</b> MONAL: Model Autophagy Analysis for Modeling Human-AI Interactions. [Link] <a href="https://arxiv.org/abs/2402.11271">[ArXiv]</a> [Code]</i><br>
+<li><p><i><b style="color: #C89933">[COLM]</b> MONAL: Model Autophagy Analysis for Modeling Human-AI Interactions. <a href="https://openreview.net/forum?id=FX4fUThO9H#discussion">[Link]</a> <a href="https://arxiv.org/abs/2402.11271">[ArXiv]</a> [Code]</i><br>
 <u>Shu Yang*</u>, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
