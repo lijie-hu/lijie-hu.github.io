@@ -80,7 +80,7 @@ The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
 <h2>Privacy-preserving Artificial Intelligence</h2>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> Private Language Models via Truncated Laplacian Mechanism. [Link] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Private Language Models via Truncated Laplacian Mechanism. [Link] <a href="https://arxiv.org/abs/2410.08027">[ArXiv]</a> [Code]</i><br>
 <u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).</p>  
 
