@@ -17,6 +17,9 @@ author_profile: true
 - <p><i>Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
 Zhuoran Zhang, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.</p>
 
+- <p><i>What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs. <a href="https://arxiv.org/abs/2410.10863">[ArXiv]</a> [Code] </i><br>
+Shu Yang, Shenzhe Zhu, Ruoxuan Bao, Liang Liu, Yu Cheng, Mengdi Li, <b>Lijie Hu†</b>, and Di Wang.</p>
+
 - <p><i>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Hui Xiong, Jingfeng Zhang, and Di Wang.</p>
 
