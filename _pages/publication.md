@@ -58,7 +58,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 
 <li><p><i><b style="color: #C89933">[TKDE]</b> Towards Stable and Explainable Attention Mechanisms.</i><br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
-Major Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
+Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
