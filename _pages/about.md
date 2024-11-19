@@ -15,6 +15,8 @@ My research interests are Explainable AI and Privacy-preserving AI. Specifically
 - <b>Towards Useful XAI in Large Models:</b> cognitive neuroscience, hallucination, jailbreaking, privacy, copyright
 - <b>Towards Usable XAI for Science:</b> healthcare, traffic, material science, marine science
 
+<b style="color: #C00000">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out!</b></p>
+
 <hr />
 
 
