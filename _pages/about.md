@@ -11,11 +11,11 @@ Hello! I am Lijie Hu, a fourth-year Ph.D. student in Computer Science at King Ab
 
 My research interests are Explainable AI and Privacy-preserving AI. Specifically, my research goals are to develop <b>Usable XAI-as-a-Service systems (Usable XAI)</b> and <b>Useful Explainable AI toolkits (Useful XAI)</b>. Here usable refers to providing a service for model understanding characterized by faithfulness. Useful means the toolkit can serve as a guide for boosting performance and enhancing the trustworthiness of deep learning models. My research has helped to realize these goals by making progress in the following three directions:
 
-- <b>Theoretical Foundations of Usable XAI:</b> stability, controllability, consistency
+- <b>Theoretical Foundations of Usable XAI:</b> stability(<a href="https://openreview.net/pdf?id=YdwwWRX20q">[ICML'24 Spotlight]</a>,<a href="https://openreview.net/pdf?id=rp0EdI8X4e">[ICLR'24]</a>,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26517">[AAAI'24 Oral]</a>), controllability(<a href="https://arxiv.org/abs/2411.11667">[ArXiv1]</a>,<a href="https://arxiv.org/abs/2405.15476" >[ArXiv2]</a>), consistency(<a href="https://arxiv.org/abs/2410.21494">[NeurIPS'24]</a>)
 - <b>Towards Useful XAI in Large Models:</b> cognitive neuroscience, hallucination, jailbreaking, privacy, copyright
-- <b>Towards Usable XAI for Science:</b> healthcare, traffic, material science, marine science
+- <b>Towards Usable XAI for Science:</b> healthcare(<a href="https://openreview.net/pdf?id=rp0EdI8X4e">[ICLR'24]</a>,<a href="https://arxiv.org/abs/2410.21494">[NeurIPS'24]</a>), traffic, material science, marine science
 
-<b style="color: #C00000">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out!</b></p>
+<b style="color: #C00000">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out!</b>
 
 <hr />
 
