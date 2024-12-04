@@ -54,10 +54,17 @@ Experience
 
 Talks
 ======
+* <b>Shanghai Jiao Tong University</b>
+  * *"Towards Usable and Useful Explainable AI"*, 2024/12.
+
+* <b>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</b>
+  * *"Private Language Models via Truncated Laplacian Mechanism"*, 2024/11.
+
+* <b>Harbin Institute of Technology</b>
+  * *"Towards Usable and Useful Explainable AI"*, 2024/07.
+
 * <b>Ant Group</b>
-  * *"Towards Faithful Explainable AI"*
-  * Apr. 2023
+  * *"Towards Faithful Explainable AI"*, 2023/04.
 
 * <b>The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)</b>
-  * *"Stable and Explainable Attention"*
-  * Feb. 2023
+  * *"Stable and Explainable Attention"*, 2023/02.
