@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Organizer
+- <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon</a>
+
 ### <a href="https://aaai.org/about-aaai/aaai-officers-and-committees/">AAAI Student Committee</a>
 
 ### Program Committee Member/Reviewer
