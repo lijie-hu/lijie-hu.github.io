@@ -23,10 +23,6 @@ Zhuoran Zhang, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wa
 - <p><i>What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs. <a href="https://arxiv.org/abs/2410.10863">[ArXiv]</a> </i><br>
 Shu Yang, Shenzhe Zhu, Ruoxuan Bao, Liang Liu, Yu Cheng, Mengdi Li, <b>Lijie Hu†</b>, and Di Wang.</p>
 
-- <p><i>Fair Text-to-Image Diffusion via Fair Mapping. <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
-<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.</p>
-
-
 <hr />
 
 
@@ -61,6 +57,14 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Large Language Models / Large Multimodals (LLM/MLLM)</h2>
+
+<li><p><i>Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
+<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
+The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
+
+<li><p><i>Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. [Link] [ArXiv] [Code] </i><br>
+Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<be>
+The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
 
 <li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
