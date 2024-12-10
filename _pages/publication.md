@@ -58,12 +58,12 @@ Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
-<li><p><i>Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
 <u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
 
-<li><p><i>Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. [Link] [ArXiv] [Code] </i><br>
-Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<be>
+<li><p><i><b style="color: #C89933">[AAAI]</b> Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. [Link] [ArXiv] [Code] </i><br>
+Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
 
 <li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
