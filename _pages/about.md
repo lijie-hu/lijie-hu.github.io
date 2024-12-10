@@ -36,6 +36,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉 Two papers have been accepted at the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)!
 - *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 - *2024.09*: &nbsp;🎉 Three papers (2 Main, 1 Findings) have been accepted at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)!
 - *2024.07*: &nbsp;🎉 Our paper "SATO: Stable Text-to-Motion Framework" has been accepted at The 32nd ACM Multimedia Conference (ACM MM 2024)!
