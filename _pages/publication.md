@@ -23,12 +23,10 @@ Zhuoran Zhang, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wa
 - <p><i>What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs. <a href="https://arxiv.org/abs/2410.10863">[ArXiv]</a> </i><br>
 Shu Yang, Shenzhe Zhu, Ruoxuan Bao, Liang Liu, Yu Cheng, Mengdi Li, <b>Lijie Hu†</b>, and Di Wang.</p>
 
-<hr />
-
 
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 <ol>
-<h2>Explainable Artificial Intelligence (XAI)</h2>
+<h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
@@ -56,7 +54,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
-<h2>Large Language Models / Large Multimodals (LLM/MLLM)</h2>
+<h2>Useful XAI in Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
 <li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
 <u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
@@ -83,7 +81,7 @@ Proceedings of the 2024 Conference on Empirical Methods in Natural Language Proc
 <u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
-<h2>Privacy-preserving Artificial Intelligence</h2>
+<h2>Privacy-preserving Machine Learning</h2>
 
 <li><p><i><b style="color: #C89933">[EMNLP]</b> Private Language Models via Truncated Laplacian Mechanism. [Link] <a href="https://arxiv.org/abs/2410.08027">[ArXiv]</a> [Code]</i><br>
 <u>Tianhao Huang*</u>, <u>Tao Yang*</u>, Ivan Habernal, <b>Lijie Hu</b>, and Di Wang.<br>
