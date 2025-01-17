@@ -35,7 +35,7 @@ The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 <li><p><i><b style="color: #C89933">[ICML]</b> Improving Interpretation Faithfulness for Vision Transformers. <a href="https://openreview.net/pdf?id=YdwwWRX20q">[Link]</a> <a href="https://arxiv.org/abs/2311.17983">[ArXiv]</a> <a href="https://github.com/kaustpradalab/FViT">[Code]</a> <a href="https://www.youtube.com/watch?v=xn-ROyhsB6A">[Video]</a> </i><br>
 <b>Lijie Hu*</b>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
 The 41st International Conference on Machine Learning (ICML 2024). <br>
-<b style="color: #C00000">Selected as a Spotlight paper (3.5% acceptance rate).</b></p>
+<b style="color: #C00000">Selected as a Spotlight paper (~3.5% acceptance rate).</b></p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Faithful Vision-Language Interpretation via Concept Bottleneck Models. <a href="https://openreview.net/pdf?id=rp0EdI8X4e">[Link]</a> <a href="https://github.com/kaustpradalab/FVLC">[Code]</a> <a href="https://iclr.cc/virtual/2024/poster/17682">[Video]</a> </i><br>
 <u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
@@ -58,11 +58,13 @@ Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
 <u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
-The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
+The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
+<b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
 <li><p><i><b style="color: #C89933">[AAAI]</b> Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. [Link] [ArXiv] [Code] </i><br>
 Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
-The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025).</p>
+The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
+<b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
 <li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
