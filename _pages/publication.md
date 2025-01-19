@@ -41,7 +41,7 @@ The 41st International Conference on Machine Learning (ICML 2024). <br>
 <u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
 The 12th International Conference on Learning Representations (ICLR 2024).</p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause. [Link] <a href="https://arxiv.org/pdf/2404.00403">[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause. <a href="https://aclanthology.org/2024.findings-emnlp.302/">[Link]</a> <a href="https://arxiv.org/pdf/2404.00403">[ArXiv]</a> <a href="https://github.com/LeMei/causal-unimeec">[Code]</a> </i><br>
 Guimin Hu, Zhihong Zhu, Daniel Hershcovich, <b>Lijie Hu</b>, Hasti Seifi, and Jiayuan Xie.<br>
 Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Findings).</p>
 
@@ -74,12 +74,12 @@ The 1st Conference on Language Modeling (COLM 2024).</p>
 <u>Shu Yang*</u>, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> Dissecting Fine-Tuning Unlearning in Large Language Models. [Link] <a href="https://arxiv.org/pdf/2410.06606">[ArXiv]</a> [Code]</i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Dissecting Fine-Tuning Unlearning in Large Language Models. <a href="https://aclanthology.org/2024.emnlp-main.228/">[Link]</a> <a href="https://arxiv.org/pdf/2410.06606">[ArXiv]</a> <a href="https://github.com/yihuaihong/Dissecting-FT-Unlearning">[Code]</a></i><br>
 Yihuai Hong, Yuelin Zou, <b>Lijie Hu</b>, Ziqian Zeng, Di Wang, Haiqin Yang.<br>
 Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main).<br>
 <b style="color: #C00000">Selected as Oral presentation.</b></p>
 
-<li><p><i><b style="color: #C89933">[ACM MM]</b> SATO: Stable Text-to-Motion Framework. [Link] <a href="https://arxiv.org/abs/2405.01461">[ArXiv]</a> <a href="https://github.com/sato-team/Stable-Text-to-motion-Framework">[Code]</a></i><br>
+<li><p><i><b style="color: #C89933">[ACM MM]</b> SATO: Stable Text-to-Motion Framework. <a href="https://dl.acm.org/doi/10.1145/3664647.3681034">[Link]</a> <a href="https://arxiv.org/abs/2405.01461">[ArXiv]</a> <a href="https://github.com/sato-team/Stable-Text-to-motion-Framework">[Code]</a></i><br>
 <u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
