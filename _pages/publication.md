@@ -56,6 +56,10 @@ Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Useful XAI in Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
+<li><p><i><b style="color: #C89933">[NAACL]</b> Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning. [Link] [ArXiv] [Code] </i><br>
+<u>Lin Zhang </u>, <b>Lijie Hu</b>, and Di Wang.<br>
+Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings). </b></p>
+
 <li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
 <u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
