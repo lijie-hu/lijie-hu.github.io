@@ -50,9 +50,9 @@ Findings of the 2024 Conference on Empirical Methods in Natural Language Process
 The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b style="color: #C00000">Selected as an Oral paper.</b></p>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> Towards Stable and Explainable Attention Mechanisms.</i><br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> Towards Stable and Explainable Attention Mechanisms. [Link] [ArXiv] [Code]</i><br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
-Minor Revision, IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
+Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Useful XAI in Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
