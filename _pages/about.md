@@ -46,6 +46,7 @@ Don’t miss out—everyone is welcome to participate!
 <hr />
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Our paper "Towards Stable and Explainable Attention Mechanisms" has been accepted at IEEE Transactions on Knowledge and Data Engineering (TKDE)!
 - *2025.01*: &nbsp;🎉 Our paper "Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning" has been accepted at Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings)!
 - *2025.01*: &nbsp;🎉 Our paper "Backdooring Vision-Language Models with Out-Of-Distribution Data" has been accepted at The 13th International Conference on Learning Representations (ICLR 2025)!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
