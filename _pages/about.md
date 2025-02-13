@@ -22,11 +22,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 
 
 <b>Join the AAAI 2025 Hackathon!</b>
-We’re excited to announce the AAAI 2025 Hackathon, a premier event showcasing innovation and collaboration in AI. Whether you’re a seasoned developer or just getting started, this is your chance to contribute, learn, and network with experts in the field.
-
-<a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">👉 Click here for more details and to register!</a>
-
-Don’t miss out—everyone is welcome to participate!
+We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon</a>, a premier event showcasing innovation and collaboration in AI. Whether you’re a seasoned developer or just getting started, this is your chance to contribute, learn, and network with experts in the field. Don’t miss out—everyone is welcome to participate!
 
 
 <hr />
@@ -46,6 +42,7 @@ Don’t miss out—everyone is welcome to participate!
 <hr />
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Our paper "Drive: Dependable robust interpretable visionary ensemble framework in autonomous driving" has been accepted at ICRA 2025!
 - *2025.01*: &nbsp;🎉 Our paper "Towards Stable and Explainable Attention Mechanisms" has been accepted at IEEE Transactions on Knowledge and Data Engineering (TKDE)!
 - *2025.01*: &nbsp;🎉 Our paper "Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning" has been accepted at Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings)!
 - *2025.01*: &nbsp;🎉 Our paper "Backdooring Vision-Language Models with Out-Of-Distribution Data" has been accepted at The 13th International Conference on Learning Representations (ICLR 2025)!
@@ -61,7 +58,7 @@ Don’t miss out—everyone is welcome to participate!
 
 <!-- *2024.07*: &nbsp;🎉 Two papers have been accepted at The 1st Conference on Language Modeling (COLM 2024)!
 - *2024.05*: &nbsp;🎉 Our paper "Improving Interpretation Faithfulness for Vision Transformers" has been accepted at The 41st International Conference on Machine Learning (ICML 2024)!
-- *2024.04*: &nbsp;🎉 Our paper "Faster Rates of Differentially Private Stochastic Convex Optimization" has been accepted at Journal of Machine Learning Research (JMLR)!
+- *2024.04*: &nbsp;🎉 Our paper "Faster Rates of Differentially Private Stochastic Convex Optimization" has been accepted by the Journal of Machine Learning Research (JMLR)!
 - *2024.03*: &nbsp;🎉 I am honored to receive the ICLR 2024 Travel Grant.
 - *2024.02*: &nbsp;🎉 I am honored to have been elected to the AAAI Student Committee!
 - *2024.01*: &nbsp;🎉 Our paper "Differentially Private Natural Language Models: Recent Advances and Future Directions" has been accepted at The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)! 
