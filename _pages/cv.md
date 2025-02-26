@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "CV"
+#title: "Talks"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,19 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+Talks
 ======
-* <b>King Abdullah University of Science and Technology</b>
-  * Ph.D. Candidate in Computer Science
-  * Jan. 2021 - Present
 
-* <b>Renmin University of China</b>
-  * M.S. in Mathematics, <i>2020</i>
+### Invited Talks
 
-* <b>Minzu University of China</b>
-  * B.S. in Mathematics, <i>2017</i>
+* Department of Data Science, New Jersey Institute of Technology (NJIT), February 2025.
+
+* Machine Learning Research Department, MBZUAI, February 2025.
+
+* Department of Computer Science, University of Victoria, Canada, February 2025.
+
+* School of Data Science, Chinese University of Hong Kong, Shenzhen, January 2025.
+
+* Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University, December 2024.
+
+* School of Artificial Intelligence, Beihang University, December 2024.
+
+* Department of Intelligence, Harbin Institute of Technology, Shenzhen, December 2024.
+
+* Department of Computer Science and Engineering, Shanghai Jiao Tong University, December 2024.
+
+* School of Environment, Harbin Institute of Technology, July 2024.
+
+* Ant Group, April 2023.
+
+### Conference Talks
+
+* "Private Language Models via Truncated Laplacian Mechanism," EMNLP 2024, Miami, Florida, November 2024.
+
+* "Stable and Explainable Attention," AAAI 2023, February 2023.
 
 <hr />
+
 
 Experience
 ======
@@ -52,27 +73,14 @@ Experience
 
 <hr />
 
-Talks
+Education
 ======
+* <b>King Abdullah University of Science and Technology</b>
+  * Ph.D. Candidate in Computer Science
+  * Jan. 2021 - Present
 
-### Invited Talks
+* <b>Renmin University of China</b>
+  * M.S. in Mathematics, <i>2020</i>
 
-* School of Data Science, Chinese University of Hong Kong, Shenzhen, January 2025.
-
-* Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University, December 2024.
-
-* School of Artificial Intelligence, Beihang University, December 2024.
-
-* Department of Intelligence, Harbin Institute of Technology, Shenzhen, December 2024.
-
-* Department of Computer Science and Engineering, Shanghai Jiao Tong University, December 2024.
-
-* School of Environment, Harbin Institute of Technology, July 2024.
-
-* Ant Group, April 2023.
-
-### Conference Talks
-
-* "Private Language Models via Truncated Laplacian Mechanism," EMNLP 2024, Miami, Florida, November 2024.
-
-* "Stable and Explainable Attention," AAAI 2023, February 2023.
+* <b>Minzu University of China</b>
+  * B.S. in Mathematics, <i>2017</i>
