@@ -52,11 +52,11 @@ We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-2
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
 - *2024.12*: &nbsp;🎉 Two papers have been accepted at the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)!
 - *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
-- *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
+
+<!-- *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 - *2024.09*: &nbsp;🎉 Three papers (2 Main, 1 Findings) have been accepted at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)!
 - *2024.07*: &nbsp;🎉 Our paper "SATO: Stable Text-to-Motion Framework" has been accepted at The 32nd ACM Multimedia Conference (ACM MM 2024)!
-
-<!-- *2024.07*: &nbsp;🎉 Two papers have been accepted at The 1st Conference on Language Modeling (COLM 2024)!
+- *2024.07*: &nbsp;🎉 Two papers have been accepted at The 1st Conference on Language Modeling (COLM 2024)!
 - *2024.05*: &nbsp;🎉 Our paper "Improving Interpretation Faithfulness for Vision Transformers" has been accepted at The 41st International Conference on Machine Learning (ICML 2024)!
 - *2024.04*: &nbsp;🎉 Our paper "Faster Rates of Differentially Private Stochastic Convex Optimization" has been accepted by the Journal of Machine Learning Research (JMLR)!
 - *2024.03*: &nbsp;🎉 I am honored to receive the ICLR 2024 Travel Grant.
