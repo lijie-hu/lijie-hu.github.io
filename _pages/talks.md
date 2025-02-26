@@ -11,7 +11,7 @@ author_profile: true
 ### <a href="https://aaai.org/about-aaai/aaai-officers-and-committees/">AAAI Student Committee</a>
 
 ### Program Committee Member/Reviewer
-- <b style="color: #C89933">2025:</b> ICLR, AISTATS
+- <b style="color: #C89933">2025:</b> ICLR, AISTATS, WWW, CVPR, ACL, ICML, ICCV, NeurIPS 
 - <b style="color: #C89933">2024:</b> NeurIPS, ICML, AISTATS 
 - <b style="color: #C89933">2023:</b> ACL, AISTATS, EuroS&P, EMNLP, ECAI
 - <b style="color: #C89933">2022:</b> EMNLP
@@ -29,3 +29,4 @@ author_profile: true
 - ACM Transactions on Database Systems
 - ACM Transactions on Privacy and Security
 - IEEE Transactions on Neural Networks and Learning Systems
+- Neurocomputing
