@@ -1,13 +1,9 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications_full/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Full lists are on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 
