@@ -7,8 +7,9 @@ author_profile: true
 
 ## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
-<h2><b style="color: #C89933">2025</b></h2>
 <ol>
+
+<h2><b style="color: #C89933">2025</b></h2>
 
 <li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] [ArXiv] [Code]</i><br>
 Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, <b>Lijie Hu</b>, Jiayi Shen.<br>
