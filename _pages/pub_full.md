@@ -5,7 +5,7 @@ permalink: /publications_full/
 author_profile: true
 ---
 
-# Publications ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
+## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
 ## 2025
 <ol>
@@ -39,7 +39,6 @@ The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
-
 
 ## 2024
 
