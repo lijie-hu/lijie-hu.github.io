@@ -20,11 +20,6 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 
 <b style="color: #C00000">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out! My <a href="https://drive.google.com/file/d/1GonOsGU78OC_PtERnsX7UGBVneWem7xV/view?usp=sharing">CV</a> and <a href="https://drive.google.com/file/d/1Gwc74h1GWPXfzH7_UkvyfDyFZpnl2q8D/view?usp=sharing">Research Statement</a></b>
 
-
-<b>Join the AAAI 2025 Hackathon!</b>
-We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon</a>, a premier event showcasing innovation and collaboration in AI. Whether you’re a seasoned developer or just getting started, this is your chance to contribute, learn, and network with experts in the field. Don’t miss out—everyone is welcome to participate!
-
-
 <hr />
 
 
