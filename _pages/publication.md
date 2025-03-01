@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Full lists are on <a href="https://lijie-hu.github.io/publications/">Full List</a>.</div>
+  <div class="wordwrap">Full lists are on <a href="https://lijie-hu.github.io/publications_full/">Full List</a>.</div>
 {% endif %}
 
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
