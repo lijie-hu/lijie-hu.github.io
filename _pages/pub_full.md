@@ -7,7 +7,7 @@ author_profile: true
 
 ## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
-## 2025
+<h2><b style="color: #C89933">2025</b></h2>
 <ol>
 
 <li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] [ArXiv] [Code]</i><br>
@@ -40,7 +40,7 @@ Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
-## 2024
+<h2><b style="color: #C89933">2024</b></h2>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
@@ -89,8 +89,7 @@ The 12th International Conference on Learning Representations (ICLR 2024).</p>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
 Journal of Machine Learning Research, Volume 25, 114 (2024), Pages 1−41 (JMLR).</p>
 
-
-## 2023
+<h2><b style="color: #C89933">2023</b></h2>
 
 <li><p><i><b style="color: #C89933">[JMLR]</b> Generalized Linear Models in Non-interactive Local Differential Privacy with Public Data. <a href="https://jmlr.org/papers/v24/21-0523.html">[Link]</a></i><br>
 Di Wang*, <b>Lijie Hu*</b>, Huanyu Zhang, Marco Gaboardi, and Jinhui Xu.<br>
@@ -113,7 +112,7 @@ The 26th International Conference on Artificial Intelligence and Statistics (AIS
 The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 <b style="color: #C00000">Selected as an Oral paper.</b></p>
 
-## 2022
+<h2><b style="color: #C89933">2022</b></h2>
 
 <li><p><i><b style="color: #C89933">[ALT]</b> Faster Rates of Differentially Private Stochastic Convex Optimization. <a href="https://proceedings.mlr.press/v167/su22a/su22a.pdf">[Link]</a></i><br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
