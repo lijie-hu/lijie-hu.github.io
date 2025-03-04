@@ -38,7 +38,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
-- I will give a talk at the Department of Computer Science and Technology at Tsinghua University, the Department of Computer Science and Software Engineering at Concordia University, the Department of Electrical Engineering & Computer Science (EECS) at York University, School of Computing Science at Simon Fraser University, CISPA Helmholtz Center for Information Security, INSAIT(Institute for Computer Science, Artificial Intelligence and Technology), and Department of Computer Science at Aarhus in March!
+- I will give a talk at the Department of Computer Science and Technology at Tsinghua University, the Department of Computer Science and Software Engineering at Concordia University, the Department of Electrical Engineering & Computer Science (EECS) at York University, School of Computing Science at Simon Fraser University, CISPA Helmholtz Center for Information Security, INSAIT(Institute for Computer Science, Artificial Intelligence and Technology), and Department of Computer Science at Aarhus University in March!
 - *2025.02*: &nbsp;🎉 I gave a talk at the Department of Data Science, New Jersey Institute of Technology (NJIT).
 - *2025.02*: &nbsp;🎉 I gave a talk at the Machine Learning Research Department, MBZUAI, Abu Dhabi.
 - *2025.02*: &nbsp;🎉 I gave a talk at the Department of Computer Science, University of Victoria, Canada.
