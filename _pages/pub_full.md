@@ -23,7 +23,7 @@ IEEE International Conference on Robotics and Automation (ICRA 2025).</p>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
-<li><p><i><b style="color: #C89933">[ICLR]</b> Towards Stable and Explainable Attention Mechanisms. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[ICLR]</b> Backdooring Vision-Language Models with Out-Of-Distribution Data. [Link] [ArXiv] [Code]</i><br>
 Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, <b>Lijie Hu</b>, Haibin Ling, and Chao Chen.<br>
 The 13th International Conference on Learning Representations (ICLR 2025).</p>
 
