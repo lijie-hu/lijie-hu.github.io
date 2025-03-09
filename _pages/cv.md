@@ -15,6 +15,12 @@ Talks
 
 ### Invited Talks
 
+* Department of Electrical Engineering & Computer Science (EECS), York University, Canada, March 2025.
+
+* Department of Computer Science and Software Engineering, Concordia University, March 2025.
+
+* Department of Computer Science and Technology, Tsinghua University, March 2025.
+
 * Department of Data Science, New Jersey Institute of Technology (NJIT), February 2025.
 
 * Machine Learning Research Department, MBZUAI, February 2025.
