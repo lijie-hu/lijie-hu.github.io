@@ -45,10 +45,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 - *2025.02*: &nbsp;🎉 I gave a talk at the Department of Data Science, New Jersey Institute of Technology (NJIT).
 - *2025.02*: &nbsp;🎉 I gave a talk at the Machine Learning Research Department, MBZUAI, Abu Dhabi.
 - *2025.02*: &nbsp;🎉 I gave a talk at the Department of Computer Science, University of Victoria, Canada.
-- *2025.01*: &nbsp;🎉 Our paper "Drive: Dependable robust interpretable visionary ensemble framework in autonomous driving" has been accepted at ICRA 2025!
-- *2025.01*: &nbsp;🎉 Our paper "Towards Stable and Explainable Attention Mechanisms" has been accepted at IEEE Transactions on Knowledge and Data Engineering (TKDE)!
-- *2025.01*: &nbsp;🎉 Our paper "Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning" has been accepted at Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings)!
-- *2025.01*: &nbsp;🎉 Our paper "Backdooring Vision-Language Models with Out-Of-Distribution Data" has been accepted at The 13th International Conference on Learning Representations (ICLR 2025)!
+- *2025.01*: &nbsp;🎉 One paper has been accepted at ICRA 2025, IEEE TKDE, NAACL 2025, and ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
 - *2025.01*: &nbsp;🎉 I gave a talk at the School of Data Science, Chinese University of Hong Kong, Shenzhen.
 - *2025.12*: &nbsp;🎉 I gave a talk at Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University.
@@ -57,7 +54,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 - *2025.12*: &nbsp;🎉 I gave a talk at the Department of Intelligence, Harbin Institute of Technology, Shenzhen.
 - *2024.12*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
-- *2024.12*: &nbsp;🎉 Two papers have been accepted at the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)!
+- *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
 - *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
 
 <!-- *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
