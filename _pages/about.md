@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Lijie Hu, a fourth-year Ph.D. student in Computer Science at King Abdullah University of Science and Technology (KAUST) since Spring 2021, and I am very fortunate to be advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a> in <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
+Hello! I am Lijie Hu, a final-year Ph.D. student in Computer Science at King Abdullah University of Science and Technology (KAUST) since Spring 2021, and I am very fortunate to be advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a> in <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
 
 My research interests are Explainable AI and Privacy-preserving ML. Specifically, my research goals are to develop <b>Usable XAI-as-a-Service systems (Usable XAI)</b> and <b>Useful Explainable AI toolkits (Useful XAI)</b>. Here, usable refers to providing a service for model understanding characterized by faithfulness. Useful means the toolkit can serve as a guide for boosting performance and enhancing the trustworthiness of deep learning models. My research helps realize these goals by making progress in the following three directions:
 
