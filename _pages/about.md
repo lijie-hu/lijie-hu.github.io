@@ -50,7 +50,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 - *2025.01*: &nbsp;🎉 I gave a talk at the School of Data Science, Chinese University of Hong Kong, Shenzhen.
 - *2025.12*: &nbsp;🎉 I gave a talk at Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University.
 - *2025.12*: &nbsp;🎉 I gave a talk at the School of Artificial Intelligence, Beihang University.
-- *2025.12*: &nbsp;🎉 I attended the Young Talent Forum at the Department of Computer Science, Southeastern University.
+- *2025.12*: &nbsp;🎉 I attended the Young Talent Forum at the Department of Computer Science, Southeast University.
 - *2025.12*: &nbsp;🎉 I gave a talk at the Department of Intelligence, Harbin Institute of Technology, Shenzhen.
 - *2024.12*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
