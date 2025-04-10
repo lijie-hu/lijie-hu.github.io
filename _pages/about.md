@@ -38,7 +38,10 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
-- I will give a talk at the School of Computing Science at Simon Fraser University, CISPA Helmholtz Center for Information Security, INSAIT(Institute for Computer Science, Artificial Intelligence and Technology), and Department of Computer Science at Aarhus University in March!
+- *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science at Aarhus University.
+- *2025.03*: &nbsp;🎉 I gave a talk at the INSAIT(Institute for Computer Science, Artificial Intelligence and Technology).
+- *2025.03*: &nbsp;🎉 I gave a talk at the CISPA Helmholtz Center for Information Security.
+- *2025.03*: &nbsp;🎉 I gave a talk at the School of Computing Science at Simon Fraser University.
 - *2025.03*: &nbsp;🎉 I gave a talk at the Department of Electrical Engineering & Computer Science (EECS) at York University.
 - *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Software Engineering at Concordia University.
 - *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Technology at Tsinghua University.
