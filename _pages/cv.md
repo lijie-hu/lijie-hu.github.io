@@ -15,29 +15,37 @@ Talks
 
 ### Invited Talks
 
-* Department of Electrical Engineering & Computer Science (EECS), York University, Canada, March 2025.
+* Aarhus University, Department of Computer Science, March 2025.
 
-* Department of Computer Science and Software Engineering, Concordia University, March 2025.
+* INSAIT(Institute for Computer Science, Artificial Intelligence and Technology), March 2025.
 
-* Department of Computer Science and Technology, Tsinghua University, March 2025.
+* CISPA Helmholtz Center for Information Security, March 2025.
 
-* Department of Data Science, New Jersey Institute of Technology (NJIT), February 2025.
+* Simon Fraser University, School of Computing Science, March 2025.
 
-* Machine Learning Research Department, MBZUAI, February 2025.
+* York University, Department of Electrical Engineering & Computer Science (EECS), Canada, March 2025.
 
-* Department of Computer Science, University of Victoria, Canada, February 2025.
+* Concordia University, Department of Computer Science and Software Engineering, March 2025.
 
-* School of Data Science, Chinese University of Hong Kong, Shenzhen, January 2025.
+* Tsinghua University, Department of Computer Science and Technology, March 2025.
 
-* Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University, December 2024.
+* New Jersey Institute of Technology(NJIT), Department of Data Science, February 2025.
 
-* School of Artificial Intelligence, Beihang University, December 2024.
+* MBZUAI(Mohamed bin Zayed University of Artificial Intelligence), Machine Learning Research Department, February 2025.
 
-* Department of Intelligence, Harbin Institute of Technology, Shenzhen, December 2024.
+* University of Victoria, Department of Computer Science, Canada, February 2025.
 
-* Department of Computer Science and Engineering, Shanghai Jiao Tong University, December 2024.
+* Chinese University of Hong Kong(CUHK-Shenzhen), School of Data Science, January 2025.
 
-* School of Environment, Harbin Institute of Technology, July 2024.
+* Beihang University, Future Blockchain and Privacy Computing High-tech Innovation Center, December 2024.
+
+* Beihang University, School of Artificial Intelligence, December 2024.
+
+* Harbin Institute of Technology, Department of Intelligence, Shenzhen, December 2024.
+
+* Shanghai Jiao Tong University, Department of Computer Science and Engineering, December 2024.
+
+* Harbin Institute of Technology, School of Environment, July 2024.
 
 * Ant Group, April 2023.
 
