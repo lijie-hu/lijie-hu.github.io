@@ -17,7 +17,7 @@ Talks
 
 * Aarhus University, Department of Computer Science, March 2025.
 
-* INSAIT(Institute for Computer Science, Artificial Intelligence and Technology), March 2025.
+* INSAIT (Institute for Computer Science, Artificial Intelligence and Technology), March 2025.
 
 * CISPA Helmholtz Center for Information Security, March 2025.
 
@@ -29,13 +29,13 @@ Talks
 
 * Tsinghua University, Department of Computer Science and Technology, March 2025.
 
-* New Jersey Institute of Technology(NJIT), Department of Data Science, February 2025.
+* New Jersey Institute of Technology (NJIT), Department of Data Science, February 2025.
 
-* MBZUAI(Mohamed bin Zayed University of Artificial Intelligence), Machine Learning Research Department, February 2025.
+* MBZUAI (Mohamed bin Zayed University of Artificial Intelligence), Machine Learning Research Department, February 2025.
 
 * University of Victoria, Department of Computer Science, Canada, February 2025.
 
-* Chinese University of Hong Kong(CUHK-Shenzhen), School of Data Science, January 2025.
+* Chinese University of Hong Kong (CUHK-Shenzhen), School of Data Science, Shenzhen, January 2025.
 
 * Beihang University, Future Blockchain and Privacy Computing High-tech Innovation Center, December 2024.
 
