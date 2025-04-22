@@ -19,7 +19,7 @@ My research interests are Explainable AI and Privacy-preserving ML. Specifically
 For privacy-preserving machine learning, I mainly focused on private statistical estimation(<a href="https://jmlr.org/papers/v24/21-0523.html">[JMLR,a]</a>,<a href="https://jmlr.org/papers/v25/22-0079.html">[JMLR,b]</a>,<a href="https://arxiv.org/abs/2010.13520">[ECAI'23]</a>,<a href="https://proceedings.mlr.press/v206/hu23a/hu23a.pdf">[AISTATS'23]</a>,<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314000">[TKDE]</a>,<a href="https://dl.acm.org/doi/abs/10.1145/3517804.3524144">[PODS'22]</a>,<a href="https://proceedings.mlr.press/v167/su22a/su22a.pdf">[ALT'22]</a>) and its application to natural language models(<a href="https://arxiv.org/abs/2410.08027">[EMNLP'24 Oral,c]</a>,<a href="https://aclanthology.org/2024.findings-eacl.33/">[EACL'24]</a>).
 
 
-<b style="color: #C00000">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out! My <a href="https://drive.google.com/file/d/1GonOsGU78OC_PtERnsX7UGBVneWem7xV/view?usp=sharing">CV</a> and <a href="https://drive.google.com/file/d/1Gwc74h1GWPXfzH7_UkvyfDyFZpnl2q8D/view?usp=sharing">Research Statement</a></b>
+<b style="color: #C00000">If you are interested in working with me, feel free to reach out!</b> My <a href="https://drive.google.com/file/d/1GonOsGU78OC_PtERnsX7UGBVneWem7xV/view?usp=sharing">CV</a> and <a href="https://drive.google.com/file/d/1Gwc74h1GWPXfzH7_UkvyfDyFZpnl2q8D/view?usp=sharing">Research Statement</a>
 
 <hr />
 
@@ -38,24 +38,10 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science at Aarhus University.
-- *2025.03*: &nbsp;🎉 I gave a talk at the INSAIT (Institute for Computer Science, Artificial Intelligence and Technology).
-- *2025.03*: &nbsp;🎉 I gave a talk at the CISPA Helmholtz Center for Information Security.
-- *2025.03*: &nbsp;🎉 I gave a talk at the School of Computing Science at Simon Fraser University.
-- *2025.03*: &nbsp;🎉 I gave a talk at the Department of Electrical Engineering & Computer Science (EECS) at York University.
-- *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Software Engineering at Concordia University.
-- *2025.03*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Technology at Tsinghua University.
-- *2025.02*: &nbsp;🎉 I gave a talk at the Department of Data Science, New Jersey Institute of Technology (NJIT).
-- *2025.02*: &nbsp;🎉 I gave a talk at the Machine Learning Research Department, MBZUAI, Abu Dhabi.
-- *2025.02*: &nbsp;🎉 I gave a talk at the Department of Computer Science, University of Victoria, Canada.
+- *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
 - *2025.01*: &nbsp;🎉 One paper has been accepted at ICRA 2025, IEEE TKDE, NAACL 2025, and ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
-- *2025.01*: &nbsp;🎉 I gave a talk at the School of Data Science, Chinese University of Hong Kong, Shenzhen.
-- *2025.12*: &nbsp;🎉 I gave a talk at Future Blockchain and Privacy Computing High-tech Innovation Center, Beihang University.
-- *2025.12*: &nbsp;🎉 I gave a talk at the School of Artificial Intelligence, Beihang University.
 - *2025.12*: &nbsp;🎉 I attended the Young Talent Forum at the Department of Computer Science, Southeast University.
-- *2025.12*: &nbsp;🎉 I gave a talk at the Department of Intelligence, Harbin Institute of Technology, Shenzhen.
-- *2024.12*: &nbsp;🎉 I gave a talk at the Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
 - *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
 - *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
