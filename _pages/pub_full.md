@@ -11,6 +11,10 @@ author_profile: true
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. [Link] [ArXiv] [Code]</i><br>
+<b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
+Accepted at Transactions on Machine Learning Research (TMLR).</p>
+
 <li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] [ArXiv] [Code]</i><br>
 Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, <b>Lijie Hu</b>, Jiayi Shen.<br>
 The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).</p>
