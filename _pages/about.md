@@ -20,7 +20,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 
 ## Openings
 
-<b style="color: #DC1435">I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in August 2025. I am seeking several highly motivated PhD students/ Postdocs/RAs/Visiting PhD students. PhD positions begin in Fall 2025 or Fall 2026. Postdocs/RAs/Visiting PhD students can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan.</b>
+<b style="color: #C00000">I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in August 2025. I am seeking several highly motivated PhD students/ Postdocs/RAs/Visiting PhD students. PhD positions begin in Fall 2025 or Fall 2026. Postdocs/RAs/Visiting PhD students can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan.</b>
 
 <hr />
 
