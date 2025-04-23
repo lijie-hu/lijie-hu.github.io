@@ -42,7 +42,6 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
 - *2025.01*: &nbsp;🎉 One paper has been accepted at ICRA 2025, IEEE TKDE, NAACL 2025, and ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
-- *2025.12*: &nbsp;🎉 I attended the Young Talent Forum at the Department of Computer Science, Southeast University.
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
 - *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
 - *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
