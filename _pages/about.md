@@ -11,8 +11,8 @@ Hello! I am Lijie Hu, a final-year Ph.D. Candidate in Computer Science at King A
 
 My research interests are Explainable AI and Privacy-preserving ML. Specifically, my research goals are to develop <b>Usable XAI-as-a-Service systems (Usable XAI)</b> and <b>Useful Explainable AI toolkits (Useful XAI)</b>. Here, usable refers to providing a service for model understanding characterized by faithfulness. Useful means the toolkit can serve as a guide for boosting performance and enhancing the trustworthiness of deep learning models. My research helps realize these goals by making progress in the following four directions:
 
-- <b>Theoretical Foundations of Usable XAI:</b> stability(<a href="https://openreview.net/pdf?id=YdwwWRX20q">[ICML'24 Spotlight]</a>,<a href="https://openreview.net/pdf?id=rp0EdI8X4e">[ICLR'24]</a>,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26517">[AAAI'23 Oral]</a>), controllability(<a href="https://arxiv.org/abs/2411.11667">[ArXiv1]</a>,<a href="https://arxiv.org/abs/2405.15476" >[ArXiv2]</a>), consistency(<a href="https://arxiv.org/abs/2410.21494">[NeurIPS'24]</a>,<a href="https://arxiv.org/pdf/2410.06606">[EMNLP'24,a]</a>)
-- <b>Useful XAI in Large Models:</b> enhance safety([AAAI'25 Oral,a],<a href="https://arxiv.org/abs/2410.06331">[ArXiv3]</a>,<a href="https://arxiv.org/pdf/2502.09022">[NAACL'25]</a>,<a href="https://arxiv.org/abs/2311.17695" >[AAAI'25 Oral,b]</a>,<a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[COLM'24,a]</a>,<a href="https://openreview.net/forum?id=FX4fUThO9H#discussion">[COLM'24,b]</a>,<a href="https://arxiv.org/pdf/2410.06606">[EMNLP'24 Oral,b]</a>), boost model performance(<a href="https://openreview.net/pdf?id=yrnrvfXFaV">[ArXiv]</a>), steer model behavior(<a href="https://arxiv.org/pdf/2410.03595">[ArXiv]</a>)
+- <b>Theoretical Foundations of Usable XAI:</b> stability(<a href="https://openreview.net/pdf?id=YdwwWRX20q">[ICML'24 Spotlight]</a>,<a href="https://openreview.net/pdf?id=rp0EdI8X4e">[ICLR'24]</a>,<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26517">[AAAI'23 Oral]</a>), controllability(<a href="https://arxiv.org/abs/2411.11667">[ICML'25]</a>,<a href="https://arxiv.org/abs/2405.15476" >[ArXiv2]</a>), consistency(<a href="https://arxiv.org/abs/2410.21494">[NeurIPS'24]</a>,<a href="https://arxiv.org/pdf/2410.06606">[EMNLP'24,a]</a>)
+- <b>Useful XAI in Large Models:</b> enhance safety([AAAI'25 Oral,a],<a href="https://arxiv.org/abs/2410.06331">[ICML'25]</a>,<a href="https://arxiv.org/pdf/2502.09022">[NAACL'25]</a>,<a href="https://arxiv.org/abs/2311.17695" >[AAAI'25 Oral,b]</a>,<a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[COLM'24,a]</a>,<a href="https://openreview.net/forum?id=FX4fUThO9H#discussion">[COLM'24,b]</a>,<a href="https://arxiv.org/pdf/2410.06606">[EMNLP'24 Oral,b]</a>), boost model performance(<a href="https://openreview.net/pdf?id=yrnrvfXFaV">[ArXiv]</a>), steer model behavior(<a href="https://arxiv.org/pdf/2410.03595">[ArXiv]</a>)
 - <b>System for XAI:</b> acceleration
 - <b>XAI for Science:</b> healthcare(<a href="https://openreview.net/pdf?id=rp0EdI8X4e">[ICLR'24]</a>,<a href="https://arxiv.org/abs/2410.21494">[NeurIPS'24]</a>), traffic, material science, marine science
 
@@ -39,14 +39,15 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉 Two papers, "Editable Concept Bottleneck Models" and "Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing" have been accepted at ICML 2025!
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
 - *2025.01*: &nbsp;🎉 One paper has been accepted at ICRA 2025, IEEE TKDE, NAACL 2025, and ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
 - *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
 - *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
-- *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
 
-<!-- *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
+<!-- *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
+- *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 - *2024.09*: &nbsp;🎉 Three papers (2 Main, 1 Findings) have been accepted at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)!
 - *2024.07*: &nbsp;🎉 Our paper "SATO: Stable Text-to-Motion Framework" has been accepted at The 32nd ACM Multimedia Conference (ACM MM 2024)!
 - *2024.07*: &nbsp;🎉 Two papers have been accepted at The 1st Conference on Language Modeling (COLM 2024)!
