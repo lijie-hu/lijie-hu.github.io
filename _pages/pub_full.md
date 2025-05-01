@@ -11,6 +11,9 @@ author_profile: true
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[ICML]</b>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
+<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang.</p>
+
 <li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. [Link] [ArXiv] [Code]</i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
 Accepted at Transactions on Machine Learning Research (TMLR).</p>
