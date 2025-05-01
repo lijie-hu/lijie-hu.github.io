@@ -23,6 +23,10 @@ author_profile: true
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
+<li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. [Link] [ArXiv] [Code]</i><br>
+<b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
+Accepted at Transactions on Machine Learning Research (TMLR).</p>
+
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
