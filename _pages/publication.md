@@ -12,7 +12,7 @@ author_profile: true
 ## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
 
 - <p><i>Dissecting Misalignment of Multimodal Large Language Models via Influence Function. <a href="https://arxiv.org/abs/2411.11667">[ArXiv]</a> [Code] </i><br>
-<b>Lijie Hu*</b>, <u>Chenyang Ren*</u>, <u>Huanyi Xie</u>, Khouloud Saadi, Shu Yang, Jingfeng Zhang, and Di Wang.</p>
+<b>Lijie Hu*</b>, <u>Chenyang Ren*</u>, <u>Huanyi Xie</u>, Khouloud Saadi, Shu Yang, Zhen Tan, Jingfeng Zhang, and Di Wang.</p>
 
 
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
@@ -20,7 +20,8 @@ author_profile: true
 <h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
 
 <li><p><i><b style="color: #C89933">[ICML]</b>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
-<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang.</p>
+<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
+The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
@@ -51,7 +52,8 @@ Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 <h2>Useful XAI in Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
-<u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.</p>
+<u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
+The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
 <li><p><i><b style="color: #C89933">[NAACL]</b> Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning. [Link] [ArXiv] [Code] </i><br>
 <u>Lin Zhang </u>, <b>Lijie Hu</b>, and Di Wang.<br>
