@@ -19,7 +19,7 @@ author_profile: true
 <ol>
 <h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
 
-<li><p><i><b style="color: #C89933">[ICML]</b>Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang. <br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
