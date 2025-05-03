@@ -67,6 +67,7 @@ Teaching Assistant
   - Renmin University of China
   - Fall 2017, Spring 2018
 
+<hr />
 
 Experience
 ======
