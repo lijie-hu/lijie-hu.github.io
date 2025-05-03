@@ -7,22 +7,27 @@ author_profile: true
 
 I feel extremely fortunate to work with such talented students.
 
-## Postdoc
+Postdoc
+===
 
 
 
-## Ph.D. Student
+<hr />
+
+Ph.D. Student
+===
 
 
+<hr />
+
+Master Student
+===
 
 
-## Master Student
+<hr />
 
-
-
-
-
-## Collaborative Student 
+Collaborative Student 
+===
 
 - Difan Jiao (University of Toronto, M.S.), 04/2025- <br>
 
@@ -65,8 +70,8 @@ I feel extremely fortunate to work with such talented students.
 - Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D  Student), 04/2023-10/2024   <br>
 [EMNLP 2024, Oral], [TMLR]
 
+<hr />
 
-
-## Visiting Student
-
+Visiting Student
+===
 
