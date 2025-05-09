@@ -39,7 +39,8 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉 Two papers, "Editable Concept Bottleneck Models" and "Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing" have been accepted at ICML 2025!
+- *2025.05*: &nbsp;🎉 I'm happy to serve as Virtual Session Chair of NAACL 2025.
+- *2025.05*: &nbsp;🎉 Two papers, "Editable Concept Bottleneck Models" and "Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing" have been accepted at ICML 2025!
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
 - *2025.01*: &nbsp;🎉 One paper has been accepted at ICRA 2025, IEEE TKDE, NAACL 2025, and ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
