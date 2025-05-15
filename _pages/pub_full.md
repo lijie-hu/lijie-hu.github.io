@@ -11,11 +11,27 @@ author_profile: true
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ACL]</b> COMPKE: Complex Question Answering under Knowledge Editing. [Link] [ArXiv] [Code] </i><br>
+<u>Keyuan Cheng</u>, Zijian Kan, Zhuoran Zhang★, Muhammad Asif Ali, <b>Lijie Hu†</b>, Di Wang.<br>
+Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[ACL]</b> Can Language Models Be Used for Code Migration? [Link] [ArXiv] [Code] </i><br>
+<u>Keyuan Cheng</u>, Xudong Shen, Yihao Yang, Tengyue Wang, Yang Cao, Muhammad Asif Ali, Hanbin Wang, <b>Lijie Hu†</b>, Di Wang.<br>
+Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[ACL]</b> Understanding the Repeat Curse in Large Language Models from a Feature Perspective. [Link] [ArXiv] [Code] </i><br>
+Junchi Yao, Shu Yang, <b>Lijie Hu</b>, Mengdi Li, Di Wang.<br>
+Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[ACL]</b> Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements. [Link] [ArXiv] [Code] </i><br>
+Shu Yang, Shenzhe Zhu, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, <b>Lijie Hu</b>, Mengdi Li, Derek F. Wong, Di Wang.<br>
+Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. [Link] <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
 <u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. [Link] <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang.<br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
