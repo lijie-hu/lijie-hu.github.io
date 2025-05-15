@@ -12,7 +12,7 @@ author_profile: true
 <h2>2025</h2>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> COMPKE: Complex Question Answering under Knowledge Editing. [Link] [ArXiv] [Code] </i><br>
-<u>Keyuan Cheng</u>, Zijian Kan, Zhuoran Zhang★, Muhammad Asif Ali, <b>Lijie Hu†</b>, Di Wang.<br>
+<u>Keyuan Cheng</u>, Zijian Kan, Zhuoran Zhang, Muhammad Asif Ali, <b>Lijie Hu†</b>, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> Can Language Models Be Used for Code Migration? [Link] [ArXiv] [Code] </i><br>
