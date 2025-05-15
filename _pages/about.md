@@ -27,18 +27,15 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 
 # 🎖 Honors and Awards
 
-- ICLR 2024 Travel Award.
 - AISTATS 2023 Top Reviewer.
-- AAAI 2023 Travel Award.
 - CEMSE Dean's List Award, KAUST, 2022, 2024.
 - Invited to The ACM Transactions on Database Systems special issue on Best of PODS 2022.
-- Beijing Honored Graduates (Top 5%), 2017.
-- Merit Student of Beijing (Top 1%), 2016.
-- China National Scholarship (Top 2‰), 2014, 2015. 
+
 
 <hr />
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 Four papers have been accepted at the Annual Meeting of the Association for Computational Linguistics (ACL 2025)!
 - *2025.05*: &nbsp;🎉 I'm happy to serve as Virtual Session Chair of NAACL 2025.
 - *2025.05*: &nbsp;🎉 Two papers, "Editable Concept Bottleneck Models" and "Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing" have been accepted at ICML 2025!
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
