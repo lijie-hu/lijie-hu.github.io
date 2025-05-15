@@ -44,7 +44,7 @@ Collaborative Student
 [NAACL 2025]
 
 - Keyuan Cheng (South China University of Technology, B.S. -> Peking University, Ph.D. Student), 01/2024- <br>
-[COLM 2024]
+[COLM 2024], [ACL 2025 a,b]
 
 - Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 08/2023- <br>
 
