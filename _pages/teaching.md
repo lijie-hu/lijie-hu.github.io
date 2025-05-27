@@ -44,13 +44,16 @@ Collaborative Student
 [NAACL 2025]
 
 - Keyuan Cheng (South China University of Technology, B.S. -> Peking University, Ph.D. Student), 01/2024- <br>
-[COLM 2024], [ACL 2025 a,b]
+[COLM 2024], [ACL 2025 a], [ACL 2025 b]
 
 - Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 08/2023- <br>
 
 
 - Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025  <br>
 [ICML 2025]
+
+- Yuan Hua (Shandong University, B.S. -> Tsinghua University, Ph.D. Student), 12/2023-05/2024 <br>
+[ECML 2025]
 
 - Wenshuo Chen (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 12/2023-05/2024 <br>
 [NeurIPS 2024], [ACM MM 2024]
@@ -65,7 +68,7 @@ Collaborative Student
 [AAAI 2025, Oral]
 
 - Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024   <br>
-[ICLR 2024], [NeurIPS 2024]
+[ICLR 2024], [NeurIPS 2024], [ECML 2025]
 
 - Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D  Student), 04/2023-10/2024   <br>
 [EMNLP 2024, Oral], [TMLR]
