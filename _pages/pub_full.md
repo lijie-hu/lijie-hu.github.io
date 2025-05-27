@@ -11,6 +11,10 @@ author_profile: true
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[ECML]</b> Stable Vision Concept Transformers for Medical Diagnosis. [Link] [ArXiv] [Code] </i><br>
+<b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Yuan Hua*</u>, Shu Yang, Jingfeng Zhang, Di Wang. <br>
+The 2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025). </p>
+
 <li><p><i><b style="color: #C89933">[ACL]</b> COMPKE: Complex Question Answering under Knowledge Editing. [Link] [ArXiv] [Code] </i><br>
 <u>Keyuan Cheng</u>, Zijian Kan, Zhuoran Zhang, Muhammad Asif Ali, <b>Lijie Hu†</b>, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
