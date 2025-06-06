@@ -51,7 +51,7 @@ Accepted at Transactions on Machine Learning Research (TMLR).</p>
 Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, <b>Lijie Hu</b>, Jiayi Shen.<br>
 The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).</p>
 
-<li><p><i><b style="color: #C89933">[ICRA]</b> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[ICRA]</b> DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving. [Link] <a href="https://arxiv.org/pdf/2409.10330">[ArXiv]</a> </i><br>
 Songning Lai, Tianlang Xue, Hongru Xiao, <b>Lijie Hu</b>, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, and Yutao Yue.<br>
 IEEE International Conference on Robotics and Automation (ICRA 2025).</p>
 
@@ -59,27 +59,27 @@ IEEE International Conference on Robotics and Automation (ICRA 2025).</p>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
-<li><p><i><b style="color: #C89933">[ICLR]</b> Backdooring Vision-Language Models with Out-Of-Distribution Data. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[ICLR]</b> Backdooring Vision-Language Models with Out-Of-Distribution Data. <a href="https://openreview.net/pdf?id=tZozeR3VV7">[Link]</a> <a href="https://arxiv.org/pdf/2410.01264">[ArXiv]</a> </i><br>
 Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, <b>Lijie Hu</b>, Haibin Ling, and Chao Chen.<br>
 The 13th International Conference on Learning Representations (ICLR 2025).</p>
 
-<li><p><i><b style="color: #C89933">[NAACL]</b> Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning. [Link] [ArXiv] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[NAACL]</b> Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning. <a href="https://aclanthology.org/2025.findings-naacl.76.pdf">[Link]</a> <a href="https://arxiv.org/pdf/2502.09022">[ArXiv]</a> </i><br>
 <u>Lin Zhang </u>, <b>Lijie Hu</b>, and Di Wang.<br>
 Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings).</p>
 
-<li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. [Link] <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34823">[Link]</a> <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> </i><br>
 <u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
-<li><p><i><b style="color: #C89933">[AAAI]</b> Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. [Link] [ArXiv] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[AAAI]</b> Tuning-Free Accountable Intervention for LLM Deployment - A Metacognitive Approach. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34710">[Link]</a>  </i><br>
 Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
 <h2>2024</h2>
 
-<li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
 The Conference on Neural Information Processing Systems (NeurIPS 2024).</p>
 
@@ -101,11 +101,11 @@ Findings of the 2024 Conference on Empirical Methods in Natural Language Process
 <u>Wenshuo Chen</u>, Hongru Xiao, Erhang Zhang, <b>Lijie Hu</b>, Lei Wang, Mengyuan Liu, and Chen Chen.<br>
 The 32nd ACM Multimedia Conference (ACM MM 2024).</p>
 
-<li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> [Code]</i><br>
+<li><p><i><b style="color: #C89933">[COLM]</b> Multi-hop Question Answering under Temporal Knowledge Editing. <a href="https://openreview.net/forum?id=Nd950RAcCW#discussion">[Link]</a> <a href="https://arxiv.org/abs/2404.00492">[ArXiv]</a> </i><br>
 <u>Keyuan Cheng*</u>, <u>Gang Lin*</u>, <u>Haoyang Fei*</u>, Yuxuan Zhai, Lu Yu, Muhammad Asif Ali, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
-<li><p><i><b style="color: #C89933">[COLM]</b> MONAL: Model Autophagy Analysis for Modeling Human-AI Interactions. <a href="https://openreview.net/forum?id=FX4fUThO9H#discussion">[Link]</a> <a href="https://arxiv.org/abs/2402.11271">[ArXiv]</a> [Code]</i><br>
+<li><p><i><b style="color: #C89933">[COLM]</b> MONAL: Model Autophagy Analysis for Modeling Human-AI Interactions. <a href="https://openreview.net/forum?id=FX4fUThO9H#discussion">[Link]</a> <a href="https://arxiv.org/abs/2402.11271">[ArXiv]</a> </i><br>
 <u>Shu Yang*</u>, Muhammad Asif Ali*, Lu Yu, <b>Lijie Hu†</b>, and Di Wang.<br>
 The 1st Conference on Language Modeling (COLM 2024).</p>
 
