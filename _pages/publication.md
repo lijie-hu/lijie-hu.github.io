@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Selected publications by topic are on <a href="https://lijie-hu.github.io/publications_full/">Full List</a>.</div>
+  <div class="wordwrap">Selected publications by topic are on <a href="https://lijie-hu.github.io/publications_full/">Selected Publications</a>.</div>
 {% endif %}
 
 ## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
