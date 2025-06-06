@@ -15,39 +15,39 @@ author_profile: true
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[ECML]</b> Stable Vision Concept Transformers for Medical Diagnosis. [Link] [ArXiv] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ECML]</b> Stable Vision Concept Transformers for Medical Diagnosis. [Link] <a href="https://arxiv.org/abs/2506.05286">[ArXiv]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Yuan Hua*</u>, Shu Yang, Jingfeng Zhang, Di Wang. <br>
 The 2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> COMPKE: Complex Question Answering under Knowledge Editing. [Link] [ArXiv] [Code] </i><br>
-<u>Keyuan Cheng</u>, Zijian Kan, Zhuoran Zhang, Muhammad Asif Ali, <b>Lijie Hu†</b>, Di Wang.<br>
+<li><p><i><b style="color: #C89933">[ACL]</b> COMPKE: Complex Question Answering under Knowledge Editing. <a href="https://openreview.net/pdf?id=iNnlVqvjCT">[Link]</a> <a href="https://arxiv.org/pdf/2506.00829">[ArXiv]</a> <a href="https://github.com/kzjkzj666/CompKE">[Code]</a> </i><br>
+<u>Keyuan Cheng</u>, Zijian Kan, Zhixian He, Zhuoran Zhang, Muhammad Asif Ali, Ke Xu, <b>Lijie Hu†</b>, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> Can Language Models Be Used for Code Migration? [Link] [ArXiv] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ACL]</b> CODEMENV: Benchmarking Large Language Models on Code Migration. <a href="https://openreview.net/pdf?id=VdrDTsGaaZ">[Link]</a> <a href="https://arxiv.org/pdf/2506.00894">[ArXiv]</a> <a href="https://github.com/xdshen-ai/Benchmark-of-Code-Migration">[Code]</a> </i><br>
 <u>Keyuan Cheng</u>, Xudong Shen, Yihao Yang, Tengyue Wang, Yang Cao, Muhammad Asif Ali, Hanbin Wang, <b>Lijie Hu†</b>, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> Understanding the Repeat Curse in Large Language Models from a Feature Perspective. [Link] [ArXiv] [Code] </i><br>
-Junchi Yao, Shu Yang, <b>Lijie Hu</b>, Mengdi Li, Di Wang.<br>
+<li><p><i><b style="color: #C89933">[ACL]</b> Understanding the Repeat Curse in Large Language Models from a Feature Perspective. <a href="https://openreview.net/pdf?id=hswPyZ7LNA">[Link]</a> <a href="https://arxiv.org/pdf/2504.14218">[ArXiv]</a> </i><br>
+Junchi Yao, Shu Yang, Jianhua Xu, <b>Lijie Hu</b>, Mengdi Li, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements. [Link] [ArXiv] [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ACL]</b> Fraud-R1: A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements. <a href="https://openreview.net/pdf?id=AcZxMOwPm0">[Link]</a> <a href="https://arxiv.org/pdf/2502.12904">[ArXiv]</a> <a href="https://github.com/kaustpradalab/Fraud-R1">[Code]</a> </i><br>
 Shu Yang, Shenzhe Zhu, Zeyu Wu, Keyu Wang, Junchi Yao, Junchao Wu, <b>Lijie Hu</b>, Mengdi Li, Derek F. Wong, Di Wang.<br>
 Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. [Link] <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://openreview.net/pdf?id=kAWtGZIHzm">[Link]</a> <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
 <u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. [Link] <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> [Code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. <a href="https://openreview.net/pdf?id=R0R3MRD8vh">[Link]</a> <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> <a href="https://github.com/kaustpradalab/ECBM">[Code]</a> </i><br>
 <b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang.<br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
-<li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. <a href="https://openreview.net/pdf?id=Y8EspxaksH">[Link]</a> <a href="https://arxiv.org/abs/2410.06950">[ArXiv]</a> <a href="https://github.com/Skyyyy0920/FGAI">[code]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
 Accepted at Transactions on Machine Learning Research (TMLR).</p>
 
-<li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] <a href="https://arxiv.org/pdf/2411.03284">[ArXiv]</a> <a href="https://github.com/David-Li0406/SMoA">[Code]</a></i><br>
 Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, <b>Lijie Hu</b>, Jiayi Shen.<br>
 The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025).</p>
 
@@ -55,7 +55,7 @@ The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2
 Songning Lai, Tianlang Xue, Hongru Xiao, <b>Lijie Hu</b>, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, and Yutao Yue.<br>
 IEEE International Conference on Robotics and Automation (ICRA 2025).</p>
 
-<li><p><i><b style="color: #C89933">[TKDE]</b> Towards Stable and Explainable Attention Mechanisms. [Link] [ArXiv] [Code]</i><br>
+<li><p><i><b style="color: #C89933">[TKDE]</b> Towards Stable and Explainable Attention Mechanisms. <a href="https://ieeexplore.ieee.org/document/10872805">[Link]</a> <a href="https://github.com/kaustpradalab/SEATv2">[Code]</a></i><br>
 <b>Lijie Hu*</b>, <u>Xinhai Wang*</u>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
 IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
