@@ -9,12 +9,6 @@ author_profile: true
   <div class="wordwrap">Full lists are on <a href="https://lijie-hu.github.io/publications_full/">Full List</a>.</div>
 {% endif %}
 
-## Selected Preprints ("*" equal contribution, "†" corresponding author, "__" advised student)
-
-- <p><i>Dissecting Misalignment of Multimodal Large Language Models via Influence Function. <a href="https://arxiv.org/abs/2411.11667">[ArXiv]</a> [Code] </i><br>
-<b>Lijie Hu*</b>, <u>Chenyang Ren*</u>, <u>Huanyi Xie</u>, Khouloud Saadi, Shu Yang, Zhen Tan, Jingfeng Zhang, and Di Wang.</p>
-
-
 ## Selected Publications ("*" equal contribution, "†" corresponding author, "__" advised student)
 <ol>
 <h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
