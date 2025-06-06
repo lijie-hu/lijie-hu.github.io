@@ -28,13 +28,14 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 # 🎖 Honors and Awards
 
 - AISTATS 2023 Top Reviewer.
-- CEMSE Dean's List Award, KAUST, 2022, 2024.
+- CEMSE Dean's List Award, KAUST, 2022, 2024, 2025.
 - Invited to The ACM Transactions on Database Systems special issue on Best of PODS 2022.
 
 
 <hr />
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 I will be visiting and giving a talk in Shanghai AI Laboratory on 16th June, see you then!
 - *2025.05*: &nbsp;🎉 Our paper "Stable Vision Concept Transformers for Medical Diagnosis" has been accepted at ECML-PKDD 2025!
 - *2025.05*: &nbsp;🎉 Four papers have been accepted at the Annual Meeting of the Association for Computational Linguistics (ACL 2025)!
 - *2025.05*: &nbsp;🎉 I'm happy to serve as Virtual Session Chair of NAACL 2025.
