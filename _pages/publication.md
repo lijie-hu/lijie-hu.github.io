@@ -42,8 +42,6 @@ CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 
 Publications
 ===
-
-
 <ol>
 
 <h2>2025</h2>
