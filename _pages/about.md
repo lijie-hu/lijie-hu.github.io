@@ -20,7 +20,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 
 ## Openings
 
-<b style="color: #C00000">I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a Tenure-track Assistant Professor in August 2025.</b> I am seeking several highly motivated PhD students/Postdocs/RAs/Visiting PhD students. PhD positions begin in Fall 2025 or Fall 2026. Postdocs/RAs/Visiting PhD students can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan. <b> We welcome Ph.D. students committed to long-term, in-depth research. Prior publications are not required. </b>
+<b style="color: #C00000">I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a Tenure-track Assistant Professor in August 2025.</b> I am seeking several highly motivated PhD students/Postdocs/RAs/Visiting PhD students. PhD positions begin in Fall 2025 or Fall 2026. Postdocs/RAs/Visiting PhD students can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan. <b> We enthusiastically welcome Ph.D. students committed to long-term, in-depth research. Prior publications are not required. </b>
 
 <hr />
 
