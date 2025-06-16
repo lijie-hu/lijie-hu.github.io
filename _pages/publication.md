@@ -9,9 +9,11 @@ author_profile: true
   <div class="wordwrap">Selected publications by topic are on <a href="https://lijie-hu.github.io/publications_full/">Selected Publications by topic</a>.</div>
 {% endif %}
 
-## ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
-# Selected Publications
+
+Selected Publications
+======
+### ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
 - <p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://openreview.net/pdf?id=kAWtGZIHzm">[Link]</a> <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
 <u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
@@ -38,7 +40,10 @@ Proceedings of the 41st ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Datab
 CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
 
 
-# Publications
+
+Publications
+======
+### ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
 
 <ol>
 
