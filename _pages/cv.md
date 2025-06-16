@@ -15,6 +15,8 @@ Talks
 
 ### Invited Talks
 
+* Shanghai Artificial Intelligence Laboratory, June 2025.
+
 * Aarhus University, Department of Computer Science, March 2025.
 
 * INSAIT (Institute for Computer Science, Artificial Intelligence and Technology), March 2025.
