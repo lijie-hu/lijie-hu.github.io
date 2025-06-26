@@ -43,10 +43,10 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
 - *2025.01*: &nbsp;🎉 Four papers have been accepted: one to ICRA 2025, one to IEEE TKDE, one to NAACL 2025, and one to ICLR 2025!
 - *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
-- *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
-- *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
 
-<!-- *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
+<!-- *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
+- *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
+- *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
 - *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
 - *2024.09*: &nbsp;🎉 Three papers (2 Main, 1 Findings) have been accepted at the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)!
 - *2024.07*: &nbsp;🎉 Our paper "SATO: Stable Text-to-Motion Framework" has been accepted at The 32nd ACM Multimedia Conference (ACM MM 2024)!
