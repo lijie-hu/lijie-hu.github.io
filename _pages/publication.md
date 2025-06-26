@@ -84,7 +84,7 @@ The 42nd International Conference on Machine Learning (ICML 2025). </p>
 
 <li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. <a href="https://openreview.net/pdf?id=Y8EspxaksH">[Link]</a> <a href="https://arxiv.org/abs/2410.06950">[ArXiv]</a> <a href="https://github.com/Skyyyy0920/FGAI">[code]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
-Accepted at Transactions on Machine Learning Research (TMLR).</p>
+Transactions on Machine Learning Research (TMLR).</p>
 
 <li><p><i><b style="color: #C89933">[PAKDD]</b> SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents. [Link] <a href="https://arxiv.org/pdf/2411.03284">[ArXiv]</a> <a href="https://github.com/David-Li0406/SMoA">[Code]</a></i><br>
 Dawei Li, Zhen Tan, Peijia Qian, Yifan Li, Kumar Satvik Chaudhary, <b>Lijie Hu</b>, Jiayi Shen.<br>
