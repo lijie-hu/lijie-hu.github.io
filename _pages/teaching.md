@@ -71,7 +71,7 @@ Collaborative Student
 [ICLR 2024], [NeurIPS 2024], [ECML 2025]
 
 - Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D  Student), 04/2023-10/2024   <br>
-[EMNLP 2024, Oral], [TMLR]
+[EMNLP 2024, Oral], [TMLR], [ICCV 2025]
 
 <hr />
 
