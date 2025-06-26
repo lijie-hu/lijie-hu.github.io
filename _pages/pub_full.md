@@ -9,6 +9,10 @@ author_profile: true
 <ol>
 <h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
 
+<li><p><i><b style="color: #C89933">[ICCV]</b> Semi-supervised Concept Bottleneck Models. [Link] <a href="https://arxiv.org/abs/2406.18992">[ArXiv]</a> <a href="https://github.com/kaustpradalab/SSCBM">[code]</a> </i><br>
+<b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, <u>Huanyi Xie</u>, Xilin Gong, Chenyang Ren, Zhengyu Hu, Lu Yu, Ping Ma, Di Wang. <br>
+IEEE/CVF International Conference on Computer Vision (ICCV 2025). </p>
+
 <li><p><i><b style="color: #C89933">[ECML]</b> Stable Vision Concept Transformers for Medical Diagnosis. [Link] [ArXiv] [Code] </i><br>
 <b>Lijie Hu* </b>, <u>Songning Lai*</u>, <u>Yuan Hua*</u>, Shu Yang, Jingfeng Zhang, Di Wang. <br>
 The 2025 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025). </p>
