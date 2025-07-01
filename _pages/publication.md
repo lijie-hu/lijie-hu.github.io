@@ -103,11 +103,11 @@ Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, <b>Lijie Hu
 The 13th International Conference on Learning Representations (ICLR 2025).</p>
 
 <li><p><i><b style="color: #C89933">[NAACL]</b> Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning. <a href="https://aclanthology.org/2025.findings-naacl.76.pdf">[Link]</a> <a href="https://arxiv.org/pdf/2502.09022">[ArXiv]</a> </i><br>
-<u>Lin Zhang </u>, <b>Lijie Hu</b>, and Di Wang.<br>
+<u>Lin Zhang</u>, <b>Lijie Hu</b>, and Di Wang.<br>
 Findings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings).</p>
 
 <li><p><i><b style="color: #C89933">[AAAI]</b> Fair Text-to-Image Diffusion via Fair Mapping. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34823">[Link]</a> <a href="https://arxiv.org/abs/2311.17695" >[ArXiv]</a> </i><br>
-<u>Jia Li* </u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
+<u>Jia Li*</u>, <b>Lijie Hu*</b>, Jingfeng Zhang, Tianhang Zheng, Hua Zhang, and Di Wang.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
