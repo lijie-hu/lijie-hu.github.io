@@ -35,6 +35,7 @@ For privacy-preserving machine learning, I mainly focused on private statistical
 <hr />
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 Two papers have been accepted at 2025 ACM Multimedia!
 - *2025.06*: &nbsp;🎉 Our paper "Semi-supervised Concept Bottleneck Models" has been accepted at IEEE/CVF International Conference on Computer Vision (ICCV 2025)!
 - *2025.05*: &nbsp;🎉 Our paper "Stable Vision Concept Transformers for Medical Diagnosis" has been accepted at ECML-PKDD 2025!
 - *2025.05*: &nbsp;🎉 Four papers have been accepted at the Annual Meeting of the Association for Computational Linguistics (ACL 2025)!
