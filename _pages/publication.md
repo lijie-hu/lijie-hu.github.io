@@ -50,6 +50,14 @@ Publications
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[ACM MM]</b> PgM: Partitioner Guided Modal Learning Framework. [Link] [ArXiv] [code] </i><br>
+Guimin Hu, Yi Xin, <b>Lijie Hu</b>, Zhihong Zhu, Hasti Seifi. <br>
+The 33rd ACM International Conference on Multimedia (ACM MM). </p>
+
+<li><p><i><b style="color: #C89933">[ACM MM]</b> From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve. [Link] [ArXiv] [code] </i><br>
+Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, Wenshuo Chen, <b>Lijie Hu</b>, Hang Zhao, Xuming Hu, Yutao Yue. <br>
+The 33rd ACM International Conference on Multimedia (ACM MM). </p>
+
 <li><p><i><b style="color: #C89933">[ICCV]</b> Semi-supervised Concept Bottleneck Models. [Link] <a href="https://arxiv.org/abs/2406.18992">[ArXiv]</a> <a href="https://github.com/kaustpradalab/SSCBM">[code]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, <u>Huanyi Xie</u>, Xilin Gong, Chenyang Ren, Zhengyu Hu, Lu Yu, Ping Ma, Di Wang. <br>
 IEEE/CVF International Conference on Computer Vision (ICCV 2025). </p>
