@@ -92,8 +92,7 @@ Experience
 Education
 ======
 * <b>King Abdullah University of Science and Technology</b>
-  * Ph.D. Candidate in Computer Science
-  * Jan. 2021 - Present
+  * Ph.D. in Computer Science, <i>2025</i>
 
 * <b>Renmin University of China</b>
   * M.S. in Mathematics, <i>2020</i>
