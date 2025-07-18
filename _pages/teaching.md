@@ -32,6 +32,7 @@ Master Student
 
 Visiting Student/Research Assistant
 ===
+- Meng Ding (Ph.D.@UBuffalo), 08/2025- <br>
 - Mohamed Hendy (M.S.@MBZUAI), 07/2025- <br>
 - Junchi Yao (B.S.@UESTC), 07/2025- <br>
 - Zhipeng Yang (B.S.@Southeast), 06/2025- <br>
