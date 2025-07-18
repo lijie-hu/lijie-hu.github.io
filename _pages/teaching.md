@@ -19,6 +19,7 @@ Ph.D. Student
 - Difan Jiao (M.S.@University of Toronto), 2025- <br>
 - Jiahao Zhang (B.S.@Huazhong University of Science and Technology), 2025- <br>
 - Huanyi Xie (B.S.@Harbin Institute of Technology), KAUST PhD Student, co-advised with Prof. Di Wang, 2025- <br>
+- Zikang Ding (CSC Ph.D. Student, UESTC), 2025- <br>
 
 
 <hr />
