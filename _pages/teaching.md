@@ -32,14 +32,13 @@ Master Student
 
 Visiting Student/Research Assistant
 ===
-- Meng Ding (Ph.D.@UBuffalo), 08/2025- <br>
-- Mohamed Hendy (M.S.@MBZUAI), 07/2025- <br>
-- Junchi Yao (B.S.@UESTC), 07/2025- <br>
-- Zhipeng Yang (B.S.@Southeast), 06/2025- <br>
-- Wenjie Sun (M.S.@SUST), 05/2025- <br>
-- Siqi Wen (B.S.@BJTU), 05/2025- <br>
-- Jiayi Zhang (M.S.@Copenhagen), 01/2025- <br>
-- Wenshuo Dong (M.S.@Copenhagen), 01/2025- <br>
+- Mohamed Hendy (M.S.@MBZUAI) <br>
+- Junchi Yao (B.S.@UESTC) <br>
+- Zhipeng Yang (B.S.@Southeast)  <br>
+- Wenjie Sun (M.S.@SUST) <br>
+- Siqi Wen (B.S.@BJTU) <br>
+- Jiayi Zhang (M.S.@Copenhagen)  <br>
+- Wenshuo Dong (M.S.@Copenhagen) <br>
 
 
 
@@ -47,17 +46,17 @@ Visiting Student/Research Assistant
 
 Collaborative Student 
 ===
-
-- Manjiang Yu (Ph.D. Student, University of Queensland), 05/2025- <br>
-- Zhaoyi Li (Ph.D. Student, University of Science and Technology of China), 05/2025- <br>
-- Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences), 04/2025- <br>
-- Zikun Guo (Ph.D. Student, Kyungpook National University), 04/2025- <br>
-- Wenrui Zhou (Ph.D. Student, Shanghai Jiao Tong University & Shanghai AI Lab), 03/2025- <br>
-- Xiangxiang Cui (Ph.D. Student, Beijing Normal University), 10/2024- <br>
-- Xilin Gong (Ph.D. Student, University of Georgia), 08/2024- <br>
-- Zhuoran Zhang (Ph.D. Student, Peking University), 08/2024- <br>
+- Meng Ding (Ph.D. Student, University at Buffalo) <br>
+- Manjiang Yu (Ph.D. Student, University of Queensland) <br>
+- Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
+- Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
+- Zikun Guo (Ph.D. Student, Kyungpook National University) <br>
+- Wenrui Zhou (Ph.D. Student, Shanghai Jiao Tong University & Shanghai AI Lab) <br>
+- Xiangxiang Cui (Ph.D. Student, Beijing Normal University) <br>
+- Xilin Gong (Ph.D. Student, University of Georgia) <br>
+- Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
-- Keyuan Cheng (Ph.D. Student, Peking University), 01/2024- <br>
+- Keyuan Cheng (Ph.D. Student, Peking University) <br>
 [COLM 2024], [ACL 2025 a], [ACL 2025 b]
 
 
@@ -81,8 +80,8 @@ Alumni
 [TKDE]
 - Jia Li (Chinese Academy of Sciences, M.S. -> JD.com, Algorithm Engineer), 05/2023-05/2024 <br>
 [AAAI 2025, Oral]
-- Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024   <br>
+- Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024 <br>
 [ICLR 2024], [NeurIPS 2024], [ECML 2025]
-- Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D Student), 04/2023-10/2024   <br>
+- Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D Student), 04/2023-10/2024 <br>
 [EMNLP 2024, Oral], [TMLR], [ICCV 2025]
 
