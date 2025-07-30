@@ -10,13 +10,12 @@ I feel extremely fortunate to work with such talented students.
 Postdoc
 ===
 
-Waiting for you!
+
 
 <hr />
 
 Ph.D. Student
 ===
-- Difan Jiao (M.S.@University of Toronto), 2025- <br>
 - Jiahao Zhang (B.S.@Huazhong University of Science and Technology), 2025- <br>
 - Huanyi Xie (B.S.@Harbin Institute of Technology), KAUST PhD Student, co-advised with Prof. Di Wang, 2025- <br>
 - Zikang Ding (CSC Ph.D. Student, UESTC), 2025- <br>
@@ -66,9 +65,10 @@ Collaborative Student
 
 Alumni 
 ===
-- Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025  <br>
+- Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 2025 <br>
+- Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
 [NAACL 2025]
-- Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025  <br>
+- Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025 <br>
 [ICML 2025]
 - Yuan Hua (Shandong University, B.S. -> Tsinghua University, Ph.D. Student), 12/2023-05/2024 <br>
 [ECML 2025]
