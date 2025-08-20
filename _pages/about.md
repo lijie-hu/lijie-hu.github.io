@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Lijie Hu! I am an Assistant Professor of the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a>. I got my Ph.D. in Computer Science at King Abdullah University of Science and Technology (KAUST) in 2025, where I was very fortunate to be advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a> in <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Before that, I received my Master's degree in Mathematics from Renmin University of China.
+Hi, I am Lijie Hu! I am an Assistant Professor in the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/"> Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>. I received my Ph.D. in Computer Science from King Abdullah University of Science and Technology (KAUST) in 2025, where I had the privilege of being advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a>, who leads the <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Prior to that, I obtained my Master’s degree in Mathematics from Renmin University of China
 
 My research interests are Explainable AI and Privacy-preserving ML. Specifically, my research goals are to develop <b>Usable XAI-as-a-Service systems (Usable XAI)</b> and <b>Useful Explainable AI toolkits (Useful XAI)</b>. Here, usable refers to providing a service for model understanding characterized by faithfulness. Useful means the toolkit can serve as a guide for boosting performance and enhancing the trustworthiness of deep learning models. My research helps realize these goals by making progress in the following four directions:
 
@@ -35,6 +35,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 Two papers have been accepted at Empirical Methods in Natural Language Processing (EMNLP 2025)!
 - *2025.07*: &nbsp;🎉 Two papers have been accepted at 2025 ACM Multimedia!
 - *2025.06*: &nbsp;🎉 Our paper "Semi-supervised Concept Bottleneck Models" has been accepted at IEEE/CVF International Conference on Computer Vision (ICCV 2025)!
 - *2025.05*: &nbsp;🎉 Our paper "Stable Vision Concept Transformers for Medical Diagnosis" has been accepted at ECML-PKDD 2025!
@@ -42,10 +43,11 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 - *2025.05*: &nbsp;🎉 I'm happy to serve as Virtual Session Chair of NAACL 2025.
 - *2025.05*: &nbsp;🎉 Two papers, "Editable Concept Bottleneck Models" and "Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing" have been accepted at ICML 2025!
 - *2025.04*: &nbsp;🎉 Our paper "Faithful Interpretation for Graph Neural Networks" has been accepted at TMLR!
-- *2025.01*: &nbsp;🎉 Four papers have been accepted: one to ICRA 2025, one to IEEE TKDE, one to NAACL 2025, and one to ICLR 2025!
-- *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
 
-<!-- *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
+
+<!-- *2025.01*: &nbsp;🎉 Four papers have been accepted: one to ICRA 2025, one to IEEE TKDE, one to NAACL 2025, and one to ICLR 2025!
+- *2025.01*: &nbsp;🎉 Two papers are selected as Oral Presentation in AAAI 2025, see you in Philadelphia!
+- *2024.12*: &nbsp;🎉 We’re excited to announce the <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">AAAI 2025 Hackathon!</a>
 - *2024.12*: &nbsp;🎉 Two papers have been accepted at AAAI 2025!
 - *2024.10*: &nbsp;🎉 Two papers are selected as Oral Presentation in EMNLP 2024, see you in Miami!
 - *2024.09*: &nbsp;🎉 Our paper "Towards Multi-dimensional Explanation Alignment for Medical Classification" has been accepted at The Conference on Neural Information Processing Systems (NeurIPS 2024)!
