@@ -49,6 +49,10 @@ Accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>Useful XAI in Large Language Models / Large Multimodals (LLM/MLLM)</h2>
 
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] [ArXiv] [code] </i><br>
+<u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu†</b>, Di Wang. <br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
+
 <li><p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
 <u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
 The 42nd International Conference on Machine Learning (ICML 2025). </p>
