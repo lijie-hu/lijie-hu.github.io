@@ -50,6 +50,14 @@ Publications
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] [ArXiv] [code] </i><br>
+<u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu†</b>, Di Wang. <br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation. [Link] [ArXiv] [code] </i><br>
+Tong Li, Shu Yang, Junchao Wu, Jiyao Wei, <b>Lijie Hu</b>, Mengdi Li, Derek F. Wong, Joshua R. Oltmanns, Di Wang. <br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
+
 <li><p><i><b style="color: #C89933">[ACM MM]</b> PgM: Partitioner Guided Modal Learning Framework. [Link] [ArXiv] [code] </i><br>
 Guimin Hu, Yi Xin, <b>Lijie Hu</b>, Zhihong Zhu, Hasti Seifi. <br>
 The 33rd ACM International Conference on Multimedia (ACM MM 2025). </p>
