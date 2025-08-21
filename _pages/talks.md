@@ -10,11 +10,15 @@ author_profile: true
 
 ### <a href="https://aaai.org/about-aaai/aaai-officers-and-committees/">AAAI Student Committee</a>
 
-### Area Chair/Session Chair
+### Area Chair
+- <b style="color: #C89933">2026:</b> ICLR
+
+### Session Chair
 - Virtual Session Chair, NAACL 2025
 
 ### Program Committee Member/Reviewer
-- <b style="color: #C89933">2025:</b> ICLR, AISTATS, WWW, CVPR, ACL, ICML, ICCV, COLM, NeurIPS 
+- <b style="color: #C89933">2026:</b> AAAI
+- <b style="color: #C89933">2025:</b> ICLR, AISTATS, WWW, CVPR, ACL, ICML, ICCV, COLM, NeurIPS, EMNLP
 - <b style="color: #C89933">2024:</b> NeurIPS, ICML, AISTATS 
 - <b style="color: #C89933">2023:</b> ACL, AISTATS, EuroS&P, EMNLP, ECAI
 - <b style="color: #C89933">2022:</b> EMNLP
