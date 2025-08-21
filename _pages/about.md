@@ -35,6 +35,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of The Fourteenth International Conference on Learning Representations (ICLR 2026)!
 - *2025.08*: &nbsp;🎉 Two papers have been accepted at Empirical Methods in Natural Language Processing (EMNLP 2025)!
 - *2025.07*: &nbsp;🎉 Two papers have been accepted at 2025 ACM Multimedia!
 - *2025.06*: &nbsp;🎉 Our paper "Semi-supervised Concept Bottleneck Models" has been accepted at IEEE/CVF International Conference on Computer Vision (ICCV 2025)!
