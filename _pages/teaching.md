@@ -67,7 +67,7 @@ Alumni
 ===
 - Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 2025 <br>
 - Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
-[NAACL 2025]
+[NAACL 2025], [NeurIPS 2025]
 - Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025 <br>
 [ICML 2025]
 - Yuan Hua (Shandong University, B.S. -> Tsinghua University, Ph.D. Student), 12/2023-05/2024 <br>
