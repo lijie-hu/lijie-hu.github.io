@@ -12,6 +12,7 @@ author_profile: true
 
 ### Area Chair
 - <b style="color: #C89933">2026:</b> ICLR
+- <b style="color: #C89933">2025:</b> ACML
 
 ### Session Chair
 - Virtual Session Chair, NAACL 2025
