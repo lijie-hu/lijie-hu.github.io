@@ -50,6 +50,10 @@ Publications
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] [ArXiv] [code] </i><br>
+Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, Pan Zhou, Di Wang. <br>
+Conference on Neural Information Processing Systems (NeurIPS 2025). </p>
+
 <li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] [ArXiv] [code] </i><br>
 <u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu†</b>, Di Wang. <br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
