@@ -9,6 +9,10 @@ author_profile: true
 <ol>
 <h2>Usable Explainable Artificial Intelligence (Usable XAI)</h2>
 
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] [ArXiv] [code] </i><br>
+Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, Pan Zhou, Di Wang. <br>
+Conference on Neural Information Processing Systems (NeurIPS 2025). </p>
+
 <li><p><i><b style="color: #C89933">[ICCV]</b> Semi-supervised Concept Bottleneck Models. [Link] <a href="https://arxiv.org/abs/2406.18992">[ArXiv]</a> <a href="https://github.com/kaustpradalab/SSCBM">[code]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, <u>Huanyi Xie</u>, Xilin Gong, Chenyang Ren, Zhengyu Hu, Lu Yu, Ping Ma, Di Wang. <br>
 IEEE/CVF International Conference on Computer Vision (ICCV 2025). </p>
