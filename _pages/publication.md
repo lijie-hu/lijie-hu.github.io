@@ -50,19 +50,23 @@ Publications
 
 <h2>2025</h2>
 
-<li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. [Link] [ArXiv] [code] </i><br>
+Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
+Revision, Advanced Science. </p>
+
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] <a href="https://arxiv.org/abs/2502.06852">[ArXiv]</a> [code] </i><br>
 Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, Pan Zhou, Di Wang. <br>
 Conference on Neural Information Processing Systems (NeurIPS 2025). </p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] <a href="https://arxiv.org/abs/2505.17712">[ArXiv]</a> [code] </i><br>
 <u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu†</b>, Di Wang. <br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[EMNLP]</b> Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation. [Link] <a href="https://arxiv.org/abs/2502.17899">[ArXiv]</a> [code] </i><br>
 Tong Li, Shu Yang, Junchao Wu, Jiyao Wei, <b>Lijie Hu</b>, Mengdi Li, Derek F. Wong, Joshua R. Oltmanns, Di Wang. <br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[ACM MM]</b> PgM: Partitioner Guided Modal Learning Framework. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ACM MM]</b> PgM: Partitioner Guided Modal Learning Framework. [Link] <a href="https://arxiv.org/abs/2507.11661">[ArXiv]</a> [code] </i><br>
 Guimin Hu, Yi Xin, <b>Lijie Hu</b>, Zhihong Zhu, Hasti Seifi. <br>
 The 33rd ACM International Conference on Multimedia (ACM MM 2025). </p>
 
