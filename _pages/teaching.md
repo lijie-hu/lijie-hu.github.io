@@ -59,7 +59,7 @@ Collaborative Student
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
 - Keyuan Cheng (Ph.D. Student, Peking University) <br>
-[COLM 2024], [ACL 2025 a], [ACL 2025 b]
+[COLM 2024], [ACL 2025 a], [ACL 2025 b] <br>
 ......
 
 
@@ -68,7 +68,7 @@ Collaborative Student
 
 Alumni 
 ===
-- Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 2025 <br>
+- Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 04/2025-09/2025 <br>
 - Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
 [NAACL 2025], [NeurIPS 2025]
 - Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025 <br>
@@ -86,5 +86,5 @@ Alumni
 - Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024 <br>
 [ICLR 2024], [NeurIPS 2024], [ECML 2025]
 - Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D Student), 04/2023-10/2024 <br>
-[EMNLP 2024, Oral], [TMLR], [ICCV 2025]
+[EMNLP 2024, Oral], [TMLR], [ICCV 2025] <br>
 ......
