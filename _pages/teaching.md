@@ -17,47 +17,50 @@ Postdoc
 Ph.D. Student
 ===
 - Jiahao Zhang (B.S.@Huazhong University of Science and Technology), 2025- <br>
-- Huanyi Xie (B.S.@Harbin Institute of Technology), KAUST PhD Student, co-advised with Prof. Di Wang, 2025- <br>
-- Zikang Ding (CSC Ph.D. Student, UESTC), 2025- <br>
-
 
 <hr />
 
 Master Student
 ===
-
+- Xinyue Bi (B.S.@U Ottawa), 2025- <br>
+- Daniil Ognev (B.S.@CUHK), 2025- <br>
 
 <hr />
 
-Visiting Student/Research Assistant
+Visiting Student
 ===
-- Mohamed Hendy (M.S.@MBZUAI) <br>
+- Zikang Ding (CSC Ph.D. Student, UESTC) <br>
+- Meng Ding (Ph.D. Student, University at Buffalo) <br>
+- Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Junchi Yao (B.S.@UESTC) <br>
+
+
+Research Assistant
+===
+- Liuxuan Jiao (B.S.@Cambridge) <br>
+- Zeqing Zhang (B.S.@Tsinghua) <br>
+- Wenhao Hu (M.S.@UESTC) <br>
+- Wenshuo Dong (M.S.@Copenhagen) <br>
 - Zhipeng Yang (B.S.@Southeast)  <br>
 - Wenjie Sun (M.S.@SUST) <br>
-- Siqi Wen (B.S.@BJTU) <br>
-- Jiayi Zhang (M.S.@Copenhagen)  <br>
-- Wenshuo Dong (M.S.@Copenhagen) <br>
-
+......
 
 
 <hr />
 
 Collaborative Student 
 ===
-- Meng Ding (Ph.D. Student, University at Buffalo) <br>
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
 - Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
 - Zikun Guo (Ph.D. Student, Kyungpook National University) <br>
-- Wenrui Zhou (Ph.D. Student, Shanghai Jiao Tong University & Shanghai AI Lab) <br>
-- Xiangxiang Cui (Ph.D. Student, Beijing Normal University) <br>
+- Wenrui Zhou (Ph.D. Student, HKUST) <br>
 - Xilin Gong (Ph.D. Student, University of Georgia) <br>
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
 - Keyuan Cheng (Ph.D. Student, Peking University) <br>
 [COLM 2024], [ACL 2025 a], [ACL 2025 b]
-
+......
 
 
 <hr />
@@ -84,4 +87,4 @@ Alumni
 [ICLR 2024], [NeurIPS 2024], [ECML 2025]
 - Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D Student), 04/2023-10/2024 <br>
 [EMNLP 2024, Oral], [TMLR], [ICCV 2025]
-
+......
