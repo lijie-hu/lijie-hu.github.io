@@ -45,7 +45,7 @@ Research Assistant
 - Wenhao Hu (M.S.@UESTC) <br>
 - Peng Cui (M.S.@HKUST) <br>
 - Wenshuo Dong (M.S.@Copenhagen) <br>
-- Wenjie Sun (M.S.@SUST) <br>
+- Wenjie Sun (M.S.@SUSTech) <br>
 - Xinyan Jiang (M.S.@CAS) <br>
 ......
 
