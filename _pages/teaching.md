@@ -35,6 +35,8 @@ Visiting Student
 - Junchi Yao (B.S.@UESTC) <br>
 
 
+<hr />
+
 Research Assistant
 ===
 - Liuxuan Jiao (B.S.@Cambridge) <br>
