@@ -41,10 +41,12 @@ Research Assistant
 ===
 - Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
+- Guangyu Li (B.S.@USTC) <br>
 - Wenhao Hu (M.S.@UESTC) <br>
+- Peng Cui (M.S.@HKUST) <br>
 - Wenshuo Dong (M.S.@Copenhagen) <br>
-- Zhipeng Yang (B.S.@Southeast)  <br>
 - Wenjie Sun (M.S.@SUST) <br>
+- Xinyan Jiang (M.S.@CAS) <br>
 ......
 
 
