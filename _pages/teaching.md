@@ -16,14 +16,8 @@ Postdoc
 
 Ph.D. Student
 ===
-- Jiahao Zhang (B.S.@Huazhong University of Science and Technology), 2025- <br>
-
-<hr />
-
-Master Student
-===
-- Xinyue Bi (B.S.@U Ottawa), 2025- <br>
-- Daniil Ognev (B.S.@CUHK), 2025- <br>
+- Jiahao Zhang (B.S.@HUST), 2025- <br>
+- Mahardika Krisna Ihsani, co-supervised with Kentaro Inui, 2025- <br>
 
 <hr />
 
@@ -33,6 +27,18 @@ Visiting Student
 - Meng Ding (Ph.D. Student, University at Buffalo) <br>
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Junchi Yao (B.S.@UESTC) <br>
+
+<hr />
+
+Master Student
+===
+- Xinyue Bi (B.S.@U Ottawa), 2025- <br>
+- Daniil Ognev (B.S.@CUHK), 2025- <br>
+- Changjiang Han, co-supervised with Steve Liu, 2025- <br>
+- Mohamed Mahmoud Mohamed Hendy, co-supervised with Nils Lukas, 2025- <br>
+- Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
+- Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br>
+- Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br>
 
 
 <hr />
@@ -57,8 +63,8 @@ Collaborative Student
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
 - Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
-- Zikun Guo (Ph.D. Student, Kyungpook National University) <br>
 - Wenrui Zhou (Ph.D. Student, HKUST) <br>
+- Xinyue Xu (Ph.D. Student, HKUST) <br>
 - Xilin Gong (Ph.D. Student, University of Georgia) <br>
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
