@@ -7,6 +7,7 @@ author_profile: true
 
 ## Instructor
 - ML8506 Interpretable AI
+  - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
   - Spring 2026
 
 
