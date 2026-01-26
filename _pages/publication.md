@@ -10,38 +10,6 @@ author_profile: true
 
 
 
-<hr />
-
-Selected Publications
-===
-### ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
-
-- <p><i><b style="color: #C89933">[ICML]</b> Locate-then-edit for Multi-hop Factual Recall under Knowledge Editing. <a href="https://openreview.net/pdf?id=kAWtGZIHzm">[Link]</a> <a href="https://arxiv.org/abs/2410.06331">[ArXiv]</a> [Code] </i><br>
-<u>Zhuoran Zhang</u>, Yongxiang Li, Zijian Kan, Keyuan Cheng, <b>Lijie Hu†</b>, Di Wang.<br>
-The 42nd International Conference on Machine Learning (ICML 2025). </p>
-
-- <p><i><b style="color: #C89933">[ICML]</b> Editable Concept Bottleneck Models. <a href="https://openreview.net/pdf?id=R0R3MRD8vh">[Link]</a> <a href="https://arxiv.org/abs/2405.15476" >[ArXiv]</a> <a href="https://github.com/kaustpradalab/ECBM">[Code]</a> </i><br>
-<b>Lijie Hu* </b>, <u>Chenyang Ren*</u>, <u>Zhengyu Hu*</u>, Hongbin Lin, Cheng-Long Wang, Zhen Tan, Weimin Lyu, Jingfeng Zhang, Hui Xiong, Di Wang.<br>
-The 42nd International Conference on Machine Learning (ICML 2025). </p>
-
-- <p><i><b style="color: #C89933">[ICML]</b> Improving Interpretation Faithfulness for Vision Transformers. <a href="https://openreview.net/pdf?id=YdwwWRX20q">[Link]</a> <a href="https://arxiv.org/abs/2311.17983">[ArXiv]</a> <a href="https://github.com/kaustpradalab/FViT">[Code]</a> <a href="https://www.youtube.com/watch?v=xn-ROyhsB6A">[Video]</a> </i><br>
-<b>Lijie Hu*</b>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang. <br>
-The 41st International Conference on Machine Learning (ICML 2024). <br>
-<b style="color: #C00000">Selected as a Spotlight paper (~3.5% acceptance rate).</b></p>
-
-- <p><i><b style="color: #C89933">[AAAI]</b> SEAT: Stable and Explainable Attention. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26517">[Link]</a> <a href="https://arxiv.org/pdf/2211.13290.pdf">[ArXiv]</a> <a href="https://github.com/kaustpradalab/SEAT">[Code]</a> <a href="https://underline.io/events/380/sessions/14306/lecture/67934-seat-stable-and-explainable-attention?tab=Video">[Video]</a></i><br>
-<b>Lijie Hu*</b>, Yixin Liu*, Ninghao Liu, Mengdi Huai, Lichao Sun, and Di Wang.<br>
-The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
-<b style="color: #C00000">Selected as an Oral paper.</b></p>
-
-- <p><i><b style="color: #C89933">[PODS]</b> High Dimensional Differentially Private Stochastic Optimization with Heavy-tailed Data. <a href="https://dl.acm.org/doi/abs/10.1145/3517804.3524144">[Link]</a> <a href="https://arxiv.org/abs/2107.11136">[ArXiv]</a> <a href="https://dl.acm.org/doi/10.1145/3517804.3524144">[Video]</a></i><br>
-<b>Lijie Hu</b>, Shuo Ni, Hanshen Xiao, and Di Wang.<br>
-Proceedings of the 41st ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems (PODS 2022).<br>
-<b style="color: #C00000">Invited to The ACM Transactions on Database Systems special issue on Best of PODS 2022.</b><br>
-CCS Workshop on Privacy Preserving Machine Learning 2021.</p>
-
-<hr />
-
 Publications
 ===
 ### ("*" equal contribution, "†" corresponding author, "__" students mentored by me)
