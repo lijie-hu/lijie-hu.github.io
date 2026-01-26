@@ -16,7 +16,7 @@ Publications
 
 <ol>
 
-<h2>2025</h2>
+<h2>2026</h2>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Controlling Repetition in Protein Language Models. [Link] [ArXiv] [code] </i><br>
 <u>Jiahao Zhang*</u>, <u>Zeqing Zhang*</u>, Di Wang, <b>Lijie Hu†</b>. <br>
