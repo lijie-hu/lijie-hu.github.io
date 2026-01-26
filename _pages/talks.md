@@ -15,7 +15,7 @@ author_profile: true
 - <b style="color: #C89933">2025:</b> ACML
 
 ### Action Editor
-- ARR(ACL Rolling Review)
+- ARR (ACL Rolling Review)
 
 ### Session Chair
 - Virtual Session Chair, NAACL 2025
