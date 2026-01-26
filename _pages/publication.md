@@ -18,6 +18,37 @@ Publications
 
 <h2>2025</h2>
 
+<li><p><i><b style="color: #C89933">[ICLR]</b> Controlling Repetition in Protein Language Models. [Link] [ArXiv] [code] </i><br>
+<u>Jiahao Zhang*</u>, <u>Zeqing Zhang*</u>, Di Wang, <b>Lijie Hu†</b>. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[ICLR]</b> The Price of Amortized Inference in Sparse Autoencoders. [Link] [ArXiv] [code] </i><br>
+<u>Wenjie Sun</u>, Di Wang, <b>Lijie Hu†</b>. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[ICLR]</b> Dissecting Representation Misalignment in Contrastive Learning via Influence Function. [Link] [ArXiv] [code] </i><br>
+<u>Huanyi Xie*</u>, <u>Chenyang Ren*</u>, Khouloud Saadi, Shu Yang, Zhen Tan, Jingfeng Zhang, <b>Lijie Hu†</b>, Di Wang. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[ICLR]</b> Evaluating Data Influence in Meta Learning. [Link] [ArXiv] [code] </i><br>
+<u>Chenyang Ren*</u>, <u>Huanyi Xie*</u>, Shu Yang, Meng Ding, Dongrui Liu, <b>Lijie Hu†</b>, Di Wang. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[ICLR]</b> Predicting LLM Output Length via Entropy-Guided Representations. [Link] [ArXiv] [code] </i><br>
+Huanyi Xie, Yubin Chen, Liangyu Wang, <b>Lijie Hu</b>, Di Wang. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[ICLR]</b> Dual-Kernel Adapter: Expanding Spatial Horizons for Data-Constrained Medical Image Analysis. [Link] [ArXiv] [code] </i><br>
+Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, <b>Lijie Hu</b>, Di Wang, Lu Liu, Tianjin Huang. <br>
+The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
+
+<li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. [Link] [ArXiv] [code] </i><br>
+<u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
+The Web Conference (WWW 2026). </p>
+
+
+<h2>2025</h2>
+
 <li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. [Link] [ArXiv] [code] </i><br>
 Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
 Revision, Advanced Science. </p>
@@ -27,7 +58,7 @@ Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, 
 Conference on Neural Information Processing Systems (NeurIPS 2025). </p>
 
 <li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding How Value Neurons Shape the Generation of Specified Values in LLMs. [Link] <a href="https://arxiv.org/abs/2505.17712">[ArXiv]</a> [code] </i><br>
-<u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu†</b>, Di Wang. <br>
+<u>Yi Su</u>, Jiayi Zhang, Shu Yang, Xinhai Wang, <b>Lijie Hu</b>, Di Wang. <br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). </p>
 
 <li><p><i><b style="color: #C89933">[EMNLP]</b> Can Large Language Models Identify Implicit Suicidal Ideation? An Empirical Evaluation. [Link] <a href="https://arxiv.org/abs/2502.17899">[ArXiv]</a> [code] </i><br>
