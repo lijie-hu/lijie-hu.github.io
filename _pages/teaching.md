@@ -17,6 +17,7 @@ Postdoc
 Ph.D. Student
 ===
 - Jiahao Zhang (B.S.@HUST), 2025- <br>
+[ICLR 2026]
 - Mahardika Krisna Ihsani, co-supervised with Kentaro Inui, 2025- <br>
 
 <hr />
@@ -28,6 +29,7 @@ Visiting Student
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Junchi Yao (B.S.@UESTC) <br>
 - Wenjie Sun (M.S.@SUSTech) <br>
+[ICLR 2026]
 
 <hr />
 
@@ -47,8 +49,10 @@ Master Student
 Research Assistant
 ===
 - Hongji Li (B.S.@LZU) <br>
+[WWW 2026]
 - Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
+[ICLR 2026]
 - Guangyu Li (B.S.@USTC) <br>
 - Peng Cui (M.S.@HKUST) <br>
 - Wenshuo Dong (M.S.@Copenhagen) <br>
@@ -62,6 +66,7 @@ Research Assistant
 Collaborative Student 
 ===
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
+[WWW 2026]
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
 - Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
 - Wenrui Zhou (Ph.D. Student, HKUST) <br>
@@ -83,7 +88,7 @@ Alumni
 - Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
 [NAACL 2025], [NeurIPS 2025]
 - Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025 <br>
-[ICML 2025]
+[ICML 2025], [ICLR 2026, a], [ICLR 2026, b]
 - Yuan Hua (Shandong University, B.S. -> Tsinghua University, Ph.D. Student), 12/2023-05/2024 <br>
 [ECML 2025]
 - Wenshuo Chen (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 12/2023-05/2024 <br>
@@ -92,6 +97,8 @@ Alumni
 [COLM 2024]
 - Xinhai Wang (Xi’an Jiaotong University, B.S. -> KAUST, M.S. Student), 08/2023-11/2023  <br>
 [TKDE]
+- Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 07/2023-08/2025
+[ICLR 2026, a], [ICLR 2026, b], [ICLR 2026, c]
 - Jia Li (Chinese Academy of Sciences, M.S. -> JD.com, Algorithm Engineer), 05/2023-05/2024 <br>
 [AAAI 2025, Oral]
 - Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024 <br>
