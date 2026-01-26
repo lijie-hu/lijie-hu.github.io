@@ -40,7 +40,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 - *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL!
 - *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML!
 - *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair of EACL!
-- *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair/Action Editor of ARR (ACL Rolling Review)!
+- *2025.10*: &nbsp;🎉 I'm happy to serve as Action Editor of ARR (ACL Rolling Review)!
 - *2025.09*: &nbsp;🎉 Our paper "EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification" has been accepted at NeurIPS 2025!
 - *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ICLR 2026!
 - *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ACML 2025!
