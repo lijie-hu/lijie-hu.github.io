@@ -35,7 +35,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉 Six paper has been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang!
+- *2025.01*: &nbsp;🎉 Six papers have been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang!
 - *2025.01*: &nbsp;🎉 One paper has been accepted at WWW 2026! Congratulations to Manjiang and Hongji!
 - *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL!
 - *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML!
