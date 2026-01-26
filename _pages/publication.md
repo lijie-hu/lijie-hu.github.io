@@ -8,7 +8,7 @@ author_profile: true
   <div class="wordwrap">Selected publications by topic are on <a href="https://lijie-hu.github.io/publications_full/">Selected Publications by topic</a>.</div>
 {% endif %}
 
-
+<hr />
 
 Publications
 ===
