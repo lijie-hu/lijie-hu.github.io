@@ -46,6 +46,7 @@ Master Student
 
 Research Assistant
 ===
+- Hongji Li (B.S.@LZU) <br>
 - Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 - Guangyu Li (B.S.@USTC) <br>
