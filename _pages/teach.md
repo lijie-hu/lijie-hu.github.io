@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor
+- ML8506 Interpretable AI
+  - Spring 2026
+
+
 ## Teaching Assistant
 - Machine Learning 
   - King Abdullah University of Science and Technology (KAUST)
