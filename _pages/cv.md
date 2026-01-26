@@ -15,6 +15,8 @@ Talks
 
 ### Invited Talks
 
+* University of Science and Technology of China, January 2026.
+
 * Shanghai Artificial Intelligence Laboratory, June 2025.
 
 * Aarhus University, Department of Computer Science, March 2025.
