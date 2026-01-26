@@ -27,6 +27,7 @@ Visiting Student
 - Meng Ding (Ph.D. Student, University at Buffalo) <br>
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Junchi Yao (B.S.@UESTC) <br>
+- Wenjie Sun (M.S.@SUSTech) <br>
 
 <hr />
 
@@ -48,11 +49,10 @@ Research Assistant
 - Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 - Guangyu Li (B.S.@USTC) <br>
-- Wenhao Hu (M.S.@UESTC) <br>
 - Peng Cui (M.S.@HKUST) <br>
 - Wenshuo Dong (M.S.@Copenhagen) <br>
-- Wenjie Sun (M.S.@SUSTech) <br>
 - Xinyan Jiang (M.S.@CAS) <br>
+- Jizhi Zhang (B.S.@NJU) <br>
 ......
 
 
