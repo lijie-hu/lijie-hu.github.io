@@ -97,7 +97,7 @@ Alumni
 [COLM 2024]
 - Xinhai Wang (Xi’an Jiaotong University, B.S. -> KAUST, M.S. Student), 08/2023-11/2023  <br>
 [TKDE]
-- Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 07/2023-08/2025
+- Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 07/2023-08/2025 <br>
 [ICLR 2026, a], [ICLR 2026, b], [ICLR 2026, c]
 - Jia Li (Chinese Academy of Sciences, M.S. -> JD.com, Algorithm Engineer), 05/2023-05/2024 <br>
 [AAAI 2025, Oral]
