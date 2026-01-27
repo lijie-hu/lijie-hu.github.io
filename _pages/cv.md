@@ -15,7 +15,7 @@ Talks
 
 ### Invited Talks
 
-* University of Science and Technology of China, January 2026.
+* University of Science and Technology of China, December 2025.
 
 * Shanghai Artificial Intelligence Laboratory, June 2025.
 
