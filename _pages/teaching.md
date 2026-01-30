@@ -27,6 +27,7 @@ Visiting Student
 - Zikang Ding (CSC Ph.D. Student, UESTC) <br>
 - Meng Ding (Ph.D. Student, University at Buffalo) <br>
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
+- Xinyue Xu (Ph.D. Student, HKUST) <br>
 - Junchi Yao (B.S.@UESTC) <br>
 - Wenjie Sun (M.S.@SUSTech) <br>
 [ICLR 2026]
@@ -70,7 +71,6 @@ Collaborative Student
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
 - Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
 - Wenrui Zhou (Ph.D. Student, HKUST) <br>
-- Xinyue Xu (Ph.D. Student, HKUST) <br>
 - Xilin Gong (Ph.D. Student, University of Georgia) <br>
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
