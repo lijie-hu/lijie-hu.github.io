@@ -18,6 +18,10 @@ Publications
 
 <h2>2026</h2>
 
+<li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. [Link] [ArXiv] [code] </i><br>
+Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
+Advanced Science. </p>
+
 <li><p><i><b style="color: #C89933">[ICLR]</b> Controlling Repetition in Protein Language Models. [Link] [ArXiv] [code] </i><br>
 <u>Jiahao Zhang*</u>, <u>Zeqing Zhang*</u>, Di Wang, <b>Lijie Hu†</b>. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
@@ -48,10 +52,6 @@ The Web Conference (WWW 2026). </p>
 
 
 <h2>2025</h2>
-
-<li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. [Link] [ArXiv] [code] </i><br>
-Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
-Revision, Advanced Science. </p>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] <a href="https://arxiv.org/abs/2502.06852">[ArXiv]</a> [code] </i><br>
 Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, Pan Zhou, Di Wang. <br>
