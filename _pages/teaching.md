@@ -50,7 +50,7 @@ Master Student
 Research Assistant
 ===
 - Hongji Li (B.S.@LZU) <br>
-[WWW 2026]
+[WWW 2026], [CVPR 2026]
 - Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 [ICLR 2026]
