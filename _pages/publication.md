@@ -18,6 +18,10 @@ Publications
 
 <h2>2026</h2>
 
+<li><p><i><b style="color: #C89933">[CVPR]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. [Link] [ArXiv] [code] </i><br>
+<u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026). </p>
+
 <li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. [Link] [ArXiv] [code] </i><br>
 Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
 Advanced Science. </p>
