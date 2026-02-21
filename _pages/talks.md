@@ -15,6 +15,7 @@ author_profile: true
 - <b style="color: #C89933">2025:</b> ACML
 
 ### Action Editor
+- The Journal of Data-centric Machine Learning Research (DMLR)
 - ARR (ACL Rolling Review)
 
 ### Session Chair
