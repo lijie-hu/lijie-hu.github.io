@@ -42,6 +42,8 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper has been accepted at CVPR 2026! Congratulations to Hongji, Manjiang, and Junchi!
+- *2026.02*: &nbsp;🎉 I'm happy to serve as Action Editor of The Journal of Data-centric Machine Learning Research (DMLR)!
 - *2026.02*: &nbsp;🎉 One paper has been accepted at Advanced Science!
 - *2026.01*: &nbsp;🎉 Six papers have been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang!
 - *2026.01*: &nbsp;🎉 One paper has been accepted at WWW 2026! Congratulations to Manjiang and Hongji!
