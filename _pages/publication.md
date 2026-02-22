@@ -50,7 +50,7 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, <b>Lijie Hu</b>, Di Wang, Lu Liu, Tianjin Huang. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
-<li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. <a href="https://arxiv.org/abs/2510.10205">[Link]</a> [ArXiv] <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
+<li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. [Link] <a href="https://arxiv.org/abs/2510.10205">[ArXiv]</a> <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
 <u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
 The Web Conference (WWW 2026). </p>
 
