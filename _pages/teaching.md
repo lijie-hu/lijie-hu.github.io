@@ -9,7 +9,6 @@ I feel extremely fortunate to work with such talented students.
 
 Postdoc
 ===
-
 - Wei Tang (Ph.D.@Southeast), co-supervised with Fakhri Karray, 2026- <br>
 [中国科协青年人才托举工程 (博士生专项)]
 
@@ -20,6 +19,10 @@ Ph.D. Student
 - Jiahao Zhang (B.S.@HUST), 2025- <br>
 [ICLR 2026]
 - Mahardika Krisna Ihsani, co-supervised with Kentaro Inui, 2025- <br>
+- Hongji Li (B.S.@LZU), 2026- <br>
+[CIKM 2025], [WSDM 2025, Best Paper], [WWW 2026], [CVPR 2026]
+- Junchi Yao (B.S.@UESTC), 2026- <br>
+[ACL 2025], [NeurIPS 2025]
 
 <hr />
 
@@ -28,7 +31,6 @@ Visiting Student
 - Zikang Ding (CSC Ph.D. Student, UESTC) <br>
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Xinyue Xu (Ph.D. Student, HKUST) <br>
-- Junchi Yao (B.S.@UESTC) <br>
 - Ziyue Liu (Ph.D. Student, Politecnico di Torino) <br>
 
 
@@ -43,14 +45,13 @@ Master Student
 - Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
 - Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br>
 - Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br>
-
+- Zhipeng Yang, 2026- <br>
+[EMNLP 2025]
 
 <hr />
 
 Research Assistant
 ===
-- Hongji Li (B.S.@LZU) <br>
-[WWW 2026], [CVPR 2026]
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 [ICLR 2026]
 - Guangyu Li (B.S.@USTC) <br>
