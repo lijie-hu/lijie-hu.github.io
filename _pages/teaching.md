@@ -10,7 +10,8 @@ I feel extremely fortunate to work with such talented students.
 Postdoc
 ===
 
-
+- Wei Tang (Ph.D.@Southeast), co-supervised with Fakhri Karray, 2026- <br>
+[中国科协青年人才托举工程 (博士生专项)]
 
 <hr />
 
@@ -25,12 +26,11 @@ Ph.D. Student
 Visiting Student
 ===
 - Zikang Ding (CSC Ph.D. Student, UESTC) <br>
-- Meng Ding (Ph.D. Student, University at Buffalo) <br>
 - Tingxu Han (Ph.D. Student, Nanjing University) <br>
 - Xinyue Xu (Ph.D. Student, HKUST) <br>
 - Junchi Yao (B.S.@UESTC) <br>
-- Wenjie Sun (M.S.@SUSTech) <br>
-[ICLR 2026]
+- Ziyue Liu (Ph.D. Student, Politecnico di Torino) <br>
+
 
 <hr />
 
@@ -51,7 +51,6 @@ Research Assistant
 ===
 - Hongji Li (B.S.@LZU) <br>
 [WWW 2026], [CVPR 2026]
-- Liuxuan Jiao (B.S.@Cambridge) <br>
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 [ICLR 2026]
 - Guangyu Li (B.S.@USTC) <br>
@@ -66,11 +65,13 @@ Research Assistant
 
 Collaborative Student 
 ===
+- Luqing Wang (Ph.D. Student, Southeast University) <br>
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 [WWW 2026]
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
 - Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
 - Wenrui Zhou (Ph.D. Student, HKUST) <br>
+[ACL 2026]
 - Xilin Gong (Ph.D. Student, University of Georgia) <br>
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025]
@@ -84,6 +85,10 @@ Collaborative Student
 
 Alumni 
 ===
+- Meng Ding (University at Buffalo, Ph.D. Student), 08/2025-02/2026 <br>
+- Liuxuan Jiao (University of Cambridge, B.S.), 10/2025-01/2026 <br>
+- Wenjie Sun (Southern University of Science and Technology, M.S.), 06/2025-03/2026 <br>
+[ICLR 2026]
 - Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 04/2025-09/2025 <br>
 - Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
 [NAACL 2025], [NeurIPS 2025]
