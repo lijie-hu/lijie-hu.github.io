@@ -18,7 +18,7 @@ Publications
 
 <h2>2026</h2>
 
-<h2>Conference Papers</h2>
+<h3>Conference Papers</h3>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs. [Link] [ArXiv] [code] </i><br>
 <u>Wenrui Zhou</u>, <u>Mohamed Hendy</u>, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, <b>Lijie Hu†</b>, Di Wang. <br>
@@ -64,7 +64,7 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 <u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
 The Web Conference (WWW 2026). </p>
 
-<h2>Journal Papers</h2>
+<h3>Journal Papers</h3>
 
 <li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514340?af=R">[Link]</a> [ArXiv] [code] </i><br>
 Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
@@ -77,7 +77,7 @@ Transactions on Machine Learning Research (TMLR). </p>
 
 <h2>2025</h2>
 
-<h2>Conference Papers</h2>
+<h3>Conference Papers</h3>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification. [Link] <a href="https://arxiv.org/abs/2502.06852">[ArXiv]</a> [code] </i><br>
 Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, <b>Lijie Hu</b>, Ninghao Liu, Pan Zhou, Di Wang. <br>
@@ -157,7 +157,7 @@ Zhen Tan, Jie Peng, Song Wang, <b>Lijie Hu</b>, Tianlong Chen, Huan Liu.<br>
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025). <br>
 <b style="color: #C00000">Selected as an Oral paper (~4.6% acceptance rate).</b></p>
 
-<h2>Journal Papers</h2>
+<h3>Journal Papers</h3>
 
 <li><p><i><b style="color: #C89933">[TMLR]</b> Faithful Interpretation for Graph Neural Networks. <a href="https://openreview.net/pdf?id=Y8EspxaksH">[Link]</a> <a href="https://arxiv.org/abs/2410.06950">[ArXiv]</a> <a href="https://github.com/Skyyyy0920/FGAI">[code]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Tianhao Huang*</u>, Lu Yu, Wanyu Lin, Tianhang Zheng, and Di Wang.<br>
@@ -171,7 +171,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 <h2>2024</h2>
 
-<h2>Conference Papers</h2>
+<h3>Conference Papers</h3>
 
 <li><p><i><b style="color: #C89933">[NeurIPS]</b> Towards Multi-dimensional Explanation Alignment for Medical Classification. <a href="https://openreview.net/pdf?id=3A5VgiH5Pw">[Link]</a> <a href="https://arxiv.org/abs/2410.21494">[ArXiv]</a> </i><br>
 <b>Lijie Hu*</b>, <u>Songning Lai*</u>, <u>Wenshuo Chen*</u>, Hongru Xiao, Hongbin Lin, Lu Yu, Jingfeng Zhang, Di Wang. <br>
@@ -216,7 +216,7 @@ Findings of the 2024 European Chapter of the Association for Computational Lingu
 <u>Songning Lai*</u>, <b>Lijie Hu*†</b>, Junxiao Wang, Laure Berti-Equille, and Di Wang. <br>
 The 12th International Conference on Learning Representations (ICLR 2024).</p>
 
-<h2>Journal Papers</h2>
+<h3>Journal Papers</h3>
 
 <li><p><i><b style="color: #C89933">[JMLR]</b> Faster Rates of Private Stochastic Convex Optimization. <a href="https://jmlr.org/papers/v25/22-0079.html">[Link]</a></i><br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
@@ -224,7 +224,7 @@ Journal of Machine Learning Research, Volume 25, 114 (2024), Pages 1−41 (JMLR)
 
 <h2>2023</h2>
 
-<h2>Conference Papers</h2>
+<h3>Conference Papers</h3>
 
 <li><p><i><b style="color: #C89933">[AISTATS]</b> Privacy-preserving Sparse Generalized Eigenvalue Problem. <a href="https://proceedings.mlr.press/v206/hu23a/hu23a.pdf">[Link]</a></i><br>
 <b>Lijie Hu*</b>, Zihang Xiang*, Jiabin Liu, and Di Wang.<br>
@@ -239,7 +239,7 @@ The 37th AAAI Conference on Artificial Intelligence (AAAI 2023).<br>
 Di Wang*, Jiahao Ding*, <b>Lijie Hu</b>, Zejun Xie, Miao Pan, and Jinhui Xu.<br>
 The 26th European Conference on Artificial Intelligence (ECAI 2023).</p>
 
-<h2>Journal Papers</h2>
+<h3>Journal Papers</h3>
 
 <li><p><i><b style="color: #C89933">[JMLR]</b> Generalized Linear Models in Non-interactive Local Differential Privacy with Public Data. <a href="https://jmlr.org/papers/v24/21-0523.html">[Link]</a></i><br>
 Di Wang*, <b>Lijie Hu*</b>, Huanyu Zhang, Marco Gaboardi, and Jinhui Xu.<br>
@@ -251,7 +251,7 @@ IEEE Transactions on Knowledge and Data Engineering, 2023 (01): 1-14 (TKDE).</p>
 
 <h2>2022</h2>
 
-<h2>Conference Papers</h2>
+<h3>Conference Papers</h3>
 
 <li><p><i><b style="color: #C89933">[ALT]</b> Faster Rates of Differentially Private Stochastic Convex Optimization. <a href="https://proceedings.mlr.press/v167/su22a/su22a.pdf">[Link]</a></i><br>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
