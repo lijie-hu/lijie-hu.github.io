@@ -45,7 +45,7 @@ Master Student
 - Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
 - Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br>
 - Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br>
-- Zhipeng Yang, 2026- <br>
+- Zhipeng Yang (B.S.@Southeast), 2026- <br>
 [EMNLP 2025]
 
 <hr />
