@@ -16,7 +16,7 @@ Publications
 
 <ol>
 
-<h2>2026</h2>
+<h2><b style="color: #C89933">2026</b></h2>
 
 <h3>Conference Papers</h3>
 
@@ -75,7 +75,7 @@ Songning Lai, Jiayu Yang, Yu Huang, <b>Lijie Hu</b>, TianlangXue, Zhangyi Hu, Ji
 Transactions on Machine Learning Research (TMLR). </p>
 
 
-<h2>2025</h2>
+<h2><b style="color: #C89933">2025</b></h2>
 
 <h3>Conference Papers</h3>
 
@@ -169,7 +169,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE).</p>
 
 
 
-<h2>2024</h2>
+<h2><b style="color: #C89933">2024</b></h2>
 
 <h3>Conference Papers</h3>
 
@@ -222,7 +222,7 @@ The 12th International Conference on Learning Representations (ICLR 2024).</p>
 Jinyan Su, <b>Lijie Hu</b>, and Di Wang.<br>
 Journal of Machine Learning Research, Volume 25, 114 (2024), Pages 1−41 (JMLR).</p>
 
-<h2>2023</h2>
+<h2><b style="color: #C89933">2023</b></h2>
 
 <h3>Conference Papers</h3>
 
@@ -249,7 +249,7 @@ Journal of Machine Learning Research, Volume 24, 132 (2023), Pages 1-57 (JMLR).<
 <b>Lijie Hu*</b>, Zihang Xiang*, Jiabin Liu, and Di Wang.<br>
 IEEE Transactions on Knowledge and Data Engineering, 2023 (01): 1-14 (TKDE).</p>
 
-<h2>2022</h2>
+<h2><b style="color: #C89933">2022</b></h2>
 
 <h3>Conference Papers</h3>
 
