@@ -45,8 +45,6 @@ Master Student
 - Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
 - Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br>
 - Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br>
-- Zhipeng Yang (B.S.@Southeast), 2026- <br>
-[EMNLP 2025]
 
 <hr />
 
@@ -59,6 +57,7 @@ Research Assistant
 - Wenshuo Dong (M.S.@Copenhagen) <br>
 - Xinyan Jiang (M.S.@CAS) <br>
 - Jizhi Zhang (B.S.@NJU) <br>
+- Zhipeng Yang (B.S.@Southeast) <br>
 ......
 
 
