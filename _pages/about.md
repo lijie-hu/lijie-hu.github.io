@@ -42,6 +42,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper has been accepted at TKDD!
 - *2026.04*: &nbsp;🎉 Three papers have been accepted at ACL 2026!
 - *2026.03*: &nbsp;🎉 One paper has been accepted at TMLR 2026!
 - *2026.02*: &nbsp;🎉 One paper has been accepted at CVPR 2026! Congratulations to Hongji, Manjiang, and Junchi!
