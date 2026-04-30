@@ -59,7 +59,7 @@ Research Assistant
 - Wenshuo Dong (M.S.@Copenhagen) <br>
 [ICML 2026]
 - Xinyan Jiang (M.S.@CAS) <br>
-[ICML 2026]
+[ICML 2026] <br>
 ......
 
 
