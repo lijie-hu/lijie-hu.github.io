@@ -88,7 +88,7 @@ Collaborative Student
 Alumni 
 ===
 - Jizhi Zhang (Nanjing University, B.S. -> KAUST, Ph.D. Student), 06/2025-04/2026 <br>
-- Zhipeng Yang (Southeast University, B.S. -> Rutgers University), 06/2025-04/2026 <br>
+- Zhipeng Yang (Southeast University, B.S. -> Rutgers University, Ph.D. Student), 06/2025-04/2026 <br>
 - Meng Ding (University at Buffalo, Ph.D. Student -> Tenure-track Assistant Professor at UMass Boston), 08/2025-02/2026 <br>
 [ICML 2026]
 - Liuxuan Jiao (University of Cambridge, B.S.), 10/2025-01/2026 <br>
