@@ -103,6 +103,10 @@ The Web Conference (WWW 2026). </p>
 Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
 Advanced Science. </p>
 
+<li><p><i><b style="color: #C89933">[TMLR]</b> Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment. [Link] [ArXiv] [code] </i><br>
+<u>Huanyi Xie</u>, <b>Lijie Hu</b>, Lu Yu, Tianhao Huang, Longfei Li, Meng Li, Jun Zhou, Di Wang. <br>
+Transactions on Machine Learning Research (TMLR). </p>
+
 <li><p><i><b style="color: #C89933">[TMLR]</b> Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models. [Link] [ArXiv] [code] </i><br>
 Songning Lai, Jiayu Yang, Yu Huang, <b>Lijie Hu</b>, TianlangXue, Zhangyi Hu, Jiaxu Li, Haicheng Liao, Zongyang Liu, Yutao Yue. <br>
 Transactions on Machine Learning Research (TMLR). </p>
