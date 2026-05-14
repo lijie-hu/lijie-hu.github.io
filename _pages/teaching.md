@@ -40,11 +40,11 @@ Master Student
 ===
 - Xinyue Bi (B.S.@U Ottawa), 2025- <br>
 - Daniil Ognev (B.S.@CUHK), 2025- <br>
-- Changjiang Han, co-supervised with Steve Liu, 2025- <br>
-- Mohamed Mahmoud Mohamed Hendy, co-supervised with Nils Lukas, 2025- <br>
 - Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
-- Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br>
-- Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br>
+<!-- - Changjiang Han, co-supervised with Steve Liu, 2025- <br> 
+- Mohamed Mahmoud Mohamed Hendy, co-supervised with Nils Lukas, 2025- <br> 
+- Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br> 
+- Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br> -->
 
 <hr />
 
