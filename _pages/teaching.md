@@ -41,10 +41,12 @@ Master Student
 - Xinyue Bi (B.S.@U Ottawa), 2025- <br>
 - Daniil Ognev (B.S.@CUHK), 2025- <br>
 - Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
-<!-- - Changjiang Han, co-supervised with Steve Liu, 2025- <br> 
+<!-- 
+- Changjiang Han, co-supervised with Steve Liu, 2025- <br> 
 - Mohamed Mahmoud Mohamed Hendy, co-supervised with Nils Lukas, 2025- <br> 
 - Jenna Nashat Khanfar, co-supervised with Aziz Khan, 2025- <br> 
-- Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br> -->
+- Aruzhan Zhamalbek, co-supervised with Aziz Khan, 2025- <br> 
+-->
 
 <hr />
 
@@ -52,15 +54,17 @@ Research Assistant
 ===
 - Zeqing Zhang (B.S.@Tsinghua) <br>
 [ICLR 2026]
-- Guangyu Li (B.S.@USTC) <br>
-[ICML 2026]
 - Peng Cui (M.S.@HKUST) <br>
 [ICML 2026]
+- Hongjun Li (B.S.@PKU) <br>
+......
+
+<!--
 - Wenshuo Dong (M.S.@Copenhagen) <br>
 [ICML 2026]
 - Xinyan Jiang (M.S.@CAS) <br>
 [ICML 2026] <br>
-......
+-->
 
 
 <hr />
@@ -71,10 +75,8 @@ Collaborative Student
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 [WWW 2026], [ICML 2026]
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
-- Tiancheng Yang (Ph.D. Student, Chinese Academy of Sciences) <br>
 - Wenrui Zhou (Ph.D. Student, HKUST) <br>
 [ACL 2026]
-- Xilin Gong (Ph.D. Student, University of Georgia) <br>
 - Zhuoran Zhang (Ph.D. Student, Peking University) <br>
 [ICML 2025], [ICML 2026]
 - Keyuan Cheng (Ph.D. Student, Peking University) <br>
@@ -87,6 +89,8 @@ Collaborative Student
 
 Alumni 
 ===
+- Guangyu Li (University of Science and Technology of China, B.S. -> HKUST, Ph.D. Student), 11/2025-05/2026 <br>
+[ICML 2026]
 - Jizhi Zhang (Nanjing University, B.S. -> KAUST, Ph.D. Student), 06/2025-04/2026 <br>
 - Zhipeng Yang (Southeast University, B.S. -> Rutgers University, Ph.D. Student), 06/2025-04/2026 <br>
 - Meng Ding (University at Buffalo, Ph.D. Student -> Tenure-track Assistant Professor at UMass Boston), 08/2025-02/2026 <br>
