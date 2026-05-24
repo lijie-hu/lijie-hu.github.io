@@ -54,19 +54,19 @@ Guanxu Chen, Dongrui Liu, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Jing Shao. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Controlling Repetition in Protein Language Models. <a href="https://openreview.net/forum?id=X0QxVexIJX">[Link]</a> <a href="https://www.arxiv.org/abs/2602.00782">[ArXiv]</a> <a href="https://github.com/JiahaoZhang-Public/Controlling-Repetition-in-Protein-Language-Models">[code]</a> </i><br>
-<u>Jiahao Zhang*</u>, <u>Zeqing Zhang*</u>, Di Wang, <b>Lijie Hu†</b>. <br>
+<u>Jiahao Zhang*</u>, <u>Zeqing Zhang*</u>, Di Wang, <b>Lijie Hu</b>. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> The Price of Amortized Inference in Sparse Autoencoders. <a href="https://openreview.net/forum?id=33wY6AI13k">[Link]</a> [ArXiv] <a href="https://github.com/wenjie1835/Local_Amotized_SAEs">[code]</a> </i><br>
-<u>Wenjie Sun</u>, Di Wang, <b>Lijie Hu†</b>. <br>
+<u>Wenjie Sun</u>, Di Wang, <b>Lijie Hu</b>. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Dissecting Representation Misalignment in Contrastive Learning via Influence Function. <a href="https://openreview.net/forum?id=uDCCSXyqBE">[Link]</a> <a href="https://arxiv.org/abs/2411.11667">[ArXiv]</a> [code] </i><br>
-<u>Huanyi Xie*</u>, <u>Chenyang Ren*</u>, Khouloud Saadi, Shu Yang, Zhen Tan, Jingfeng Zhang, <b>Lijie Hu†</b>, Di Wang. <br>
+<u>Huanyi Xie*</u>, <u>Chenyang Ren*</u>, Khouloud Saadi, Shu Yang, Zhen Tan, Jingfeng Zhang, <b>Lijie Hu†</b>, Di Wang†. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Evaluating Data Influence in Meta Learning. <a href="https://openreview.net/forum?id=0gh7haE5tc">[Link]</a> <a href="https://arxiv.org/abs/2501.15963">[ArXiv]</a> [code] </i><br>
-<u>Chenyang Ren*</u>, <u>Huanyi Xie*</u>, Shu Yang, Meng Ding, Dongrui Liu, <b>Lijie Hu†</b>, Di Wang. <br>
+<u>Chenyang Ren*</u>, <u>Huanyi Xie*</u>, Shu Yang, Meng Ding, Dongrui Liu, <b>Lijie Hu†</b>, Di Wang†. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Predicting LLM Output Length via Entropy-Guided Representations. <a href="https://openreview.net/pdf?id=3loQDtveWI">[Link]</a> <a href="https://arxiv.org/abs/2602.11812">[ArXiv]</a> [code] </i><br>
@@ -78,11 +78,11 @@ Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie 
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[CVPR]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. [Link] <a href="https://arxiv.org/abs/2512.17911">[ArXiv]</a> [code] </i><br>
-<u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
+<u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs. [Link] [ArXiv] [code] </i><br>
-<u>Wenrui Zhou</u>, <u>Mohamed Hendy</u>, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, <b>Lijie Hu†</b>, Di Wang. <br>
+<u>Wenrui Zhou</u>, <u>Mohamed Hendy</u>, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, <b>Lijie Hu†</b>, Di Wang†. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main). </p>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images. [Link] [ArXiv] [code] </i><br>
@@ -90,11 +90,11 @@ Qishun Yang, Shu Yang, <b>Lijie Hu</b>, Di Wang. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main). </p>
 
 <li><p><i><b style="color: #C89933">[ACL]</b> Deciphering Cultural Representations in Large Language Models via Sparse Autoencoders. [Link] [ArXiv] [code] </i><br>
-<u>Chenye Zou</u>, <u>Difan Jiao</u>, <b>Lijie Hu†</b>. <br>
+<u>Chenye Zou</u>, <u>Difan Jiao</u>, <b>Lijie Hu</b>. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings). </p>
 
 <li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. [Link] <a href="https://arxiv.org/abs/2510.10205">[ArXiv]</a> <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
-<u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu†</b>. <br>
+<u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The Web Conference (WWW 2026). </p>
 
 <h3>Journal Papers</h3>
