@@ -111,6 +111,10 @@ Transactions on Machine Learning Research (TMLR). </p>
 Songning Lai, Jiayu Yang, Yu Huang, <b>Lijie Hu</b>, TianlangXue, Zhangyi Hu, Jiaxu Li, Haicheng Liao, Zongyang Liu, Yutao Yue. <br>
 Transactions on Machine Learning Research (TMLR). </p>
 
+<li><p><i><b style="color: #C89933">[TMLR]</b> Towards Representation Backdoor on CLIP via Concept Confusion. [Link] [ArXiv] [code] </i><br>
+<b>Lijie Hu*</b>, Weimin Lyu*, <u>Junchi Liao*</u>, Shaopeng Fu, Tianhao Huang, Shu Yang, Jie Li, Di Wang. <br>
+Transactions on Machine Learning Research (TMLR), Minor Revision. </p>
+
 <li><p><i><b style="color: #C89933">[TKDD]</b> Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era. [Link] [ArXiv] [code] </i><br>
 Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, <b>Lijie Hu</b>, Tianming Liu, Xiaoming Zhai, Wenlin Yao, Jundong Li, Mengnan Du, Ninghao Liu. <br>
 The ACM Transactions on Knowledge Discovery from Data (TKDD). </p>
