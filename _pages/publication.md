@@ -112,7 +112,7 @@ Songning Lai, Jiayu Yang, Yu Huang, <b>Lijie Hu</b>, TianlangXue, Zhangyi Hu, Ji
 Transactions on Machine Learning Research (TMLR). </p>
 
 <li><p><i><b style="color: #C89933">[TMLR]</b> Towards Representation Backdoor on CLIP via Concept Confusion. [Link] [ArXiv] [code] </i><br>
- <u>Junchi Liao*</u>, Weimin Lyu*, <b>Lijie Hu</b>, Shaopeng Fu, Tianhao Huang, Shu Yang, Jie Li, Di Wang. <br>
+<u>Junchi Liao*</u>, Weimin Lyu*, <b>Lijie Hu</b>, Shaopeng Fu, Tianhao Huang, Shu Yang, Jie Li, Di Wang. <br>
 Transactions on Machine Learning Research (TMLR), Minor Revision. </p>
 
 <li><p><i><b style="color: #C89933">[TKDD]</b> Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era. [Link] [ArXiv] [code] </i><br>
