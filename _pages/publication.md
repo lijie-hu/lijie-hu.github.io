@@ -47,7 +47,7 @@ The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 <li><p><i><b style="color: #C89933">[ICML]</b> Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs. [Link] [ArXiv] [code] </i><br>
 Zhongzhi Li, Xuansheng Wu, Yijiang Li, <b>Lijie Hu</b>, Ninghao Liu. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). <br>
-<b style="color: #C00000">Selected as a Spotlight paper (~2.2% acceptance rate).</b></p>
+<b style="color: #C00000">Selected as an Oral paper (~0.7% acceptance rate).</b></p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. [Link] [ArXiv] [code] </i><br>
 Guanxu Chen, Dongrui Liu, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Jing Shao. <br>
