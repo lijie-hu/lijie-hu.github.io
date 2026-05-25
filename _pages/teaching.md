@@ -18,7 +18,6 @@ Ph.D. Student
 ===
 - Jiahao Zhang (B.S.@HUST), 2025- <br>
 [ICLR 2026], [ICML 2026]
-- Mahardika Krisna Ihsani, co-supervised with Kentaro Inui, 2025- <br>
 - Hongji Li (B.S.@LZU), 2026- <br>
 [CIKM 2025], [WSDM 2025, Best Paper], [WWW 2026], [CVPR 2026], [ICML 2026]
 - Junchi Yao (B.S.@UESTC), 2026- <br>
@@ -26,28 +25,25 @@ Ph.D. Student
 
 <hr />
 
-Visiting Student
+Master Student
 ===
-- Zikang Ding (CSC Ph.D. Student, UESTC) <br>
-- Tingxu Han (Ph.D. Student, Nanjing University) <br>
-- Xinyue Xu (Ph.D. Student, HKUST) <br>
-- Ziyue Liu (Ph.D. Student, Politecnico di Torino) <br>
+- Daniil Ognev (B.S.@CUHK), 2025- <br>
+- Zeqing Zhang (B.S.@Tsinghua), 2026- <br>
+[ICLR 2026]
 
 
 <hr />
 
-Master Student
+Visiting Student
 ===
-- Xinyue Bi (B.S.@U Ottawa), 2025- <br>
-- Daniil Ognev (B.S.@CUHK), 2025- <br>
-- Xinmin Hou, co-supervised with Guangyu (Gus) Xia, 2025- <br>
+- Zikang Ding (CSC Ph.D. Student, UESTC) <br>
+- Xinyue Xu (Ph.D. Student, HKUST) <br>
+- Ziyue Liu (Ph.D. Student, Politecnico di Torino) <br>
 
 <hr />
 
 Research Assistant
 ===
-- Zeqing Zhang (B.S.@Tsinghua) <br>
-[ICLR 2026]
 - Peng Cui (M.S.@HKUST) <br>
 [ICML 2026]
 - Hongjun Li (B.S.@PKU) <br>
@@ -69,6 +65,7 @@ Research Assistant
 
 Collaborative Student 
 ===
+- Mahardika Krisna Ihsani (Ph.D. Student, MBZUAI)  <br>
 - Luqing Wang (Ph.D. Student, Southeast University) <br>
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 [WWW 2026], [ICML 2026]
@@ -87,34 +84,59 @@ Collaborative Student
 
 Alumni 
 ===
-- Guangyu Li (University of Science and Technology of China, B.S. -> HKUST, Ph.D. Student), 11/2025-05/2026 <br>
-[ICML 2026]
-- Jizhi Zhang (Nanjing University, B.S. -> KAUST, Ph.D. Student), 06/2025-04/2026 <br>
-- Zhipeng Yang (Southeast University, B.S. -> Rutgers University, Ph.D. Student), 06/2025-04/2026 <br>
-- Meng Ding (University at Buffalo, Ph.D. Student -> Tenure-track Assistant Professor at UMass Boston), 08/2025-02/2026 <br>
-[ICML 2026]
-- Liuxuan Jiao (University of Cambridge, B.S.), 10/2025-01/2026 <br>
-- Wenjie Sun (Southern University of Science and Technology, M.S.), 06/2025-03/2026 <br>
-[ICLR 2026]
-- Difan Jiao (University of Toronto, M.S. -> University of Toronto, Ph.D. Student), 04/2025-09/2025 <br>
-- Lin Zhang (Harbin Institute of Technology, Shenzhen, M.S. Student), 07/2024-07/2025 <br>
-[NAACL 2025], [NeurIPS 2025]
-- Chenyang Ren (Shanghai Jiao Tong University, M.S. -> HKUST, Ph.D. Student), 02/2024-04/2025 <br>
-[ICML 2025], [ICLR 2026, a], [ICLR 2026, b], [TMLR]
-- Yuan Hua (Shandong University, B.S. -> Tsinghua University, Ph.D. Student), 12/2023-05/2024 <br>
-[ECML 2025]
-- Wenshuo Chen (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 12/2023-05/2024 <br>
-[NeurIPS 2024], [ACM MM 2024]
-- Shu Yang (University of Macau, M.S. -> KAUST, Ph.D. Student), 08/2023-05/2024  <br>
-[COLM 2024]
-- Xinhai Wang (Xi’an Jiaotong University, B.S. -> KAUST, M.S. Student), 08/2023-11/2023  <br>
-[TKDE]
-- Huanyi Xie (Harbin Institute of Technology, B.S. -> KTH Royal Institute of Technology -> KAUST, Ph.D. Student), 07/2023-08/2025 <br>
-[ICLR 2026, a], [ICLR 2026, b], [ICLR 2026, c]
-- Jia Li (Chinese Academy of Sciences, M.S. -> JD.com, Algorithm Engineer), 05/2023-05/2024 <br>
-[AAAI 2025, Oral]
-- Songning Lai (Shandong University, B.S. -> HKUST(GZ), Ph.D. Student), 04/2023-05/2024 <br>
-[ICLR 2024], [NeurIPS 2024], [ECML 2025]
-- Tianhao Huang (Nankai University, B.S. -> University of Virginia, Ph.D Student), 04/2023-10/2024 <br>
-[EMNLP 2024, Oral], [TMLR], [ICCV 2025] <br>
+Visiting Student
+
+- Tingxu Han (Nanjing University, Ph.D. Student), 12/2025-06/2026 <br>
+Now a research intern at the Institute of Foundation Models (IFM).
+- Junchi Yao (University of Electronic Science and Technology of China, Undergraduate Student), 11/2025-05/2026 <br>
+Now an incoming Ph.D. student at MBZUAI.
+- Meng Ding (University at Buffalo, Ph.D. Student), 08/2025-02/2026 <br>
+Now a tenure-track assistant professor at UMass Boston.
+
+
+Research Assistant
+
+- Guangyu Li (University of Science and Technology of China, Undergraduate Student), 11/2025-05/2026 <br>
+Research: [ICML 2026] <br>
+Now an incoming Ph.D. student at HKUST.
+- Jizhi Zhang (Nanjing University, Undergraduate Student), 06/2025-04/2026 <br>
+Now an incoming Ph.D. student at KAUST.
+- Zhipeng Yang (Southeast University, Undergraduate Student), 06/2025-04/2026 <br>
+Now an incoming Ph.D. student at Rutgers University.
+- Liuxuan Jiao (University of Cambridge, Undergraduate Student), 10/2025-01/2026 <br>
+- Wenjie Sun (Southern University of Science and Technology, Master Student), 06/2025-03/2026 <br>
+Research: [ICLR 2026] <br>
+Now an incoming Ph.D. student at the University of British Columbia.
+- Difan Jiao (University of Toronto, Master Student), 04/2025-09/2025 <br>
+Now a Ph.D. student at the University of Toronto.
+- Lin Zhang (Harbin Institute of Technology, Shenzhen, Master Student), 07/2024-07/2025 <br>
+Research: [NAACL 2025], [NeurIPS 2025]
+- Chenyang Ren (Shanghai Jiao Tong University, Master Student), 02/2024-04/2025 <br>
+Research: [ICML 2025], [ICLR 2026, a], [ICLR 2026, b] <br>
+Now a Ph.D. student at HKUST.
+- Yuan Hua (Shandong University, Undergraduate Student), 12/2023-05/2024 <br>
+Research: [ECML 2025] <br>
+Now a Ph.D. student at Tsinghua University.
+- Wenshuo Chen (Shandong University, Undergraduate Student), 12/2023-05/2024 <br>
+Research: [NeurIPS 2024], [ACM MM 2024] <br>
+Now a Ph.D. student at HKUST(GZ).
+- Shu Yang (University of Macau, Master Student), 08/2023-05/2024  <br>
+Research: [COLM 2024] <br>
+Now a Ph.D. student at KAUST.
+- Xinhai Wang (Xi’an Jiaotong University, Undergraduate Student), 08/2023-11/2023  <br>
+Research: [TKDE] <br>
+Now a Master's student at KAUST.
+- Huanyi Xie (Harbin Institute of Technology, Undergraduate Student), 07/2023-08/2025 <br>
+Research: [ICLR 2026, a], [ICLR 2026, b], [ICLR 2026, c] <br>
+Now a Ph.D. student at KAUST.
+- Jia Li (Chinese Academy of Sciences, Master Student), 05/2023-05/2024 <br>
+Research: [AAAI 2025, Oral]  <br>
+Now an algorithm engineer at JD.com.
+- Songning Lai (Shandong University, Undergraduate Student), 04/2023-05/2024 <br>
+Research: [ICLR 2024], [NeurIPS 2024], [ECML 2025]  <br>
+Now a researcher at JoinQuant.
+- Tianhao Huang (Nankai University, Undergraduate Student), 04/2023-10/2024 <br>
+Research: [EMNLP 2024, Oral], [TMLR], [ICCV 2025] <br>
+Now a Ph.D. student at the University of Virginia.
+
 ......
