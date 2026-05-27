@@ -33,7 +33,7 @@ The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Multi-Adapter Representation Interventions via Energy Calibration. [Link] [ArXiv] [code] </i><br>
-<u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Junwei Chen, Xue Li, PRIYANKA SINGH, Yang Cao, <b>Lijie Hu</b>. <br>
+<u>Manjiang Yu</u>, <u>Hongji Li</u>, Junwei Chen, Xue Li, PRIYANKA SINGH, Yang Cao, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Algorithmic Recourse of In-Context Learning for Tabular Data. [Link] [ArXiv] [code] </i><br>
@@ -41,7 +41,7 @@ The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts. [Link] [ArXiv] [code] </i><br>
-<u>Zhuoran Zhang</u>, <u>Tengyue Wang</u>, Xilin Gong, Yang Shi, Haotian Wang, Di Wang, <b>Lijie Hu</b>. <br>
+<u>Zhuoran Zhang*</u>, <u>Tengyue Wang*</u>, Xilin Gong, Yang Shi, Haotian Wang, Di Wang, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs. [Link] [ArXiv] [code] </i><br>
