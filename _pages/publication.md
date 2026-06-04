@@ -49,7 +49,7 @@ Zhongzhi Li, Xuansheng Wu, Yijiang Li, <b>Lijie Hu</b>, Ninghao Liu. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). <br>
 <b style="color: #C00000">Selected as an Oral paper (~0.7% acceptance rate).</b></p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. <a href="">[Link]</a> <a href="https://arxiv.org/abs/2502.05242">[ArXiv]</a> [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. [Link] <a href="https://arxiv.org/abs/2502.05242">[ArXiv]</a> [code] </i><br>
 Guanxu Chen, Dongrui Liu, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Jing Shao. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
