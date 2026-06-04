@@ -20,36 +20,36 @@ Publications
 
 <h3>Conference Papers</h3>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Bayesian Gated Non-Negative Contrastive Learning. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Bayesian Gated Non-Negative Contrastive Learning. [Link] <a href="https://arxiv.org/abs/2605.28441">[ArXiv]</a> [code] </i><br>
 <u>Peng Cui*</u>, <u>Jiahao Zhang*</u>, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Understanding Generalization and Forgetting in In-Context Continual Learning. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Understanding Generalization and Forgetting in In-Context Continual Learning. [Link] <a href="https://arxiv.org/abs/2605.28705">[ArXiv]</a> [code] </i><br>
 <u>Guangyu Li*</u>, <u>Meng Ding*</u>, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability. [Link] <a href="https://arxiv.org/abs/2603.10384">[ArXiv]</a> [code] </i><br>
 <u>Xinyan Jiang</u>, Ninghao Liu, Di Wang, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Multi-Adapter Representation Interventions via Energy Calibration. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Multi-Adapter Representation Interventions via Energy Calibration. [Link] <a href="https://arxiv.org/abs/2605.28722">[ArXiv]</a> [code] </i><br>
 <u>Manjiang Yu</u>, <u>Hongji Li</u>, Junwei Chen, Xue Li, PRIYANKA SINGH, Yang Cao, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Algorithmic Recourse of In-Context Learning for Tabular Data. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Algorithmic Recourse of In-Context Learning for Tabular Data. [Link] <a href="https://arxiv.org/abs/2605.31272">[ArXiv]</a> [code] </i><br>
 <u>Wenshuo Dong*</u>, Jiaming Zhang*, Shaopeng Fu, Hongbin Lin, Di Wang, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts. [Link] <a href="https://arxiv.org/abs/2511.02243">[ArXiv]</a> [code] </i><br>
 <u>Zhuoran Zhang*</u>, <u>Tengyue Wang*</u>, Xilin Gong, Yang Shi, Haotian Wang, Di Wang, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs. [Link] <a href="https://arxiv.org/abs/2602.10388">[ArXiv]</a> [code] </i><br>
 Zhongzhi Li, Xuansheng Wu, Yijiang Li, <b>Lijie Hu</b>, Ninghao Liu. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). <br>
 <b style="color: #C00000">Selected as an Oral paper (~0.7% acceptance rate).</b></p>
 
-<li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. <a href="">[Link]</a> <a href="https://arxiv.org/abs/2502.05242">[ArXiv]</a> [code] </i><br>
 Guanxu Chen, Dongrui Liu, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Jing Shao. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
@@ -77,15 +77,15 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 Ziquan Zhu, Hanruo Zhu, Si-Yuan Lu, Xiang Li, Yanda Meng, Yunxiao Zhang, Gaojie Jin, Lu Yin, <b>Lijie Hu</b>, Di Wang, Lu Liu, Tianjin Huang. <br>
 The Fourteenth International Conference on Learning Representations (ICLR 2026). </p>
 
-<li><p><i><b style="color: #C89933">[CVPR]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. [Link] <a href="https://arxiv.org/abs/2512.17911">[ArXiv]</a> [code] </i><br>
+<li><p><i><b style="color: #C89933">[CVPR]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Towards_Reasoning-Preserving_Unlearning_in_Multimodal_Large_Language_Models_CVPR_2026_paper.pdf">[Link]</a> <a href="https://arxiv.org/abs/2512.17911">[ArXiv]</a> [code] </i><br>
 <u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ACL]</b> Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs. [Link] <a href="https://arxiv.org/abs/2506.07180">[ArXiv]</a> [code] </i><br>
 <u>Wenrui Zhou</u>, <u>Mohamed Hendy</u>, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, <b>Lijie Hu†</b>, Di Wang†. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main). </p>
 
-<li><p><i><b style="color: #C89933">[ACL]</b> Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[ACL]</b> Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images. [Link] <a href="https://arxiv.org/abs/2603.08486">[ArXiv]</a> [code] </i><br>
 Qishun Yang, Shu Yang, <b>Lijie Hu</b>, Di Wang. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main). </p>
 
@@ -93,7 +93,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 <u>Chenye Zou</u>, <u>Difan Jiao</u>, <b>Lijie Hu</b>. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings). </p>
 
-<li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. [Link] <a href="https://arxiv.org/abs/2510.10205">[ArXiv]</a> <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
+<li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. <a href="https://dl.acm.org/doi/10.1145/3774904.3792273">[Link]</a> <a href="https://arxiv.org/abs/2510.10205">[ArXiv]</a> <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
 <u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The Web Conference (WWW 2026). </p>
 
@@ -103,19 +103,19 @@ The Web Conference (WWW 2026). </p>
 Qizhe Chen*, Yifei Ren*, <b>Lijie Hu*</b>, Yanyan Li*, Wenyue Liang, Jin Wang, Han Gao, Xinhai Wang, Jiajun Li, Qiutao He, Yingfeng Zhu, Haifeng Hu, Qiwen Zhan, Imed Gallouzi, Jasmeen Merzaban, Di Wang, Zunguo Du, Xiaodong Gu, Qiaoqiang Gan. <br>
 Advanced Science. </p>
 
-<li><p><i><b style="color: #C89933">[TMLR]</b> Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[TMLR]</b> Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment. [Link] <a href="https://arxiv.org/abs/2506.07168">[ArXiv]</a> [code] </i><br>
 <u>Huanyi Xie</u>, <b>Lijie Hu</b>, Lu Yu, Tianhao Huang, Longfei Li, Meng Li, Jun Zhou, Di Wang. <br>
 Transactions on Machine Learning Research (TMLR). </p>
 
-<li><p><i><b style="color: #C89933">[TMLR]</b> Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[TMLR]</b> Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models. <a href="https://openreview.net/forum?id=bntZBG9fBY">[Link]</a> <a href="https://arxiv.org/abs/2410.04823">[ArXiv]</a> [code] </i><br>
 Songning Lai, Jiayu Yang, Yu Huang, <b>Lijie Hu</b>, TianlangXue, Zhangyi Hu, Jiaxu Li, Haicheng Liao, Zongyang Liu, Yutao Yue. <br>
 Transactions on Machine Learning Research (TMLR). </p>
 
-<li><p><i><b style="color: #C89933">[TMLR]</b> Towards Representation Backdoor on CLIP via Concept Confusion. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[TMLR]</b> Towards Representation Backdoor on CLIP via Concept Confusion. [Link] <a href="https://arxiv.org/abs/2503.09095v2">[ArXiv]</a> [code] </i><br>
 <u>Junchi Liao*</u>, Weimin Lyu*, <b>Lijie Hu</b>, Shaopeng Fu, Tianhao Huang, Shu Yang, Jie Li, Di Wang. <br>
 Transactions on Machine Learning Research (TMLR), Minor Revision. </p>
 
-<li><p><i><b style="color: #C89933">[TKDD]</b> Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era. [Link] [ArXiv] [code] </i><br>
+<li><p><i><b style="color: #C89933">[TKDD]</b> Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era. <a href="https://dl.acm.org/doi/abs/10.1145/3816150">[Link]</a> <a href="https://arxiv.org/abs/2403.08946">[ArXiv]</a> [code] </i><br>
 Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, <b>Lijie Hu</b>, Tianming Liu, Xiaoming Zhai, Wenlin Yao, Jundong Li, Mengnan Du, Ninghao Liu. <br>
 The ACM Transactions on Knowledge Discovery from Data (TKDD). </p>
 
