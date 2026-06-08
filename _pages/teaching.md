@@ -137,5 +137,5 @@ Research: [ICLR 2024], [NeurIPS 2024], [ECML 2025]  <br>
 Now a researcher at JoinQuant.
 - Tianhao Huang (Nankai University, Undergraduate Student), 04/2023-10/2024 <br>
 Research: [EMNLP 2024, Oral], [TMLR], [ICCV 2025] <br>
-Now a Ph.D. student at the University of Virginia.
+Now a Ph.D. student at the University of Virginia. <br>
 ......
