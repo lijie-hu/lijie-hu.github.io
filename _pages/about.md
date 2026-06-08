@@ -42,6 +42,7 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 One paper has been early accepted at MICCAI 2026!
 - *2026.05*: &nbsp;🎉 One paper has been accepted at TMLR!
 - *2026.04*: &nbsp;🎉 Eight papers have been accepted at ICML 2026! Congratulations to all students and co-authors! 
 - *2026.04*: &nbsp;🎉 One paper has been accepted at TKDD!
