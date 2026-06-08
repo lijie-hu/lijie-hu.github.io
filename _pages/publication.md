@@ -81,6 +81,11 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 <u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026). </p>
 
+<li><p><i><b style="color: #C89933">[MICCAI]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. [Link] <a href="https://arxiv.org/abs/2605.19027">[ArXiv]</a> <a href="https://abnerai.github.io/MedFM-Robust/">[code]</a> </i><br>
+Xiangxiang Cui, Tianjin Huang, Yifang Wang, <b>Lijie Hu</b>, Lu Yin. <br>
+The 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026). <br>
+<b style="color: #C00000">Early accepted by MICCAI 2026 (~Top 9%).</b></p>
+
 <li><p><i><b style="color: #C89933">[ACL]</b> Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs. [Link] <a href="https://arxiv.org/abs/2506.07180">[ArXiv]</a> [code] </i><br>
 <u>Wenrui Zhou</u>, <u>Mohamed Hendy</u>, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, <b>Lijie Hu†</b>, Di Wang†. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main). </p>
