@@ -50,7 +50,7 @@ The Forty-Third International Conference on Machine Learning (ICML 2026). <br>
 <b style="color: #C00000">Selected as an Oral paper (~0.7% acceptance rate).</b></p>
 
 <li><p><i><b style="color: #C89933">[ICML]</b> Beyond External Monitors: Enhancing Transparency of Large Language Models for Easier Monitoring. [Link] <a href="https://arxiv.org/abs/2502.05242">[ArXiv]</a> [code] </i><br>
-Guanxu Chen, Jing Shao, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Dongrui Liu. <br>
+Guanxu Chen*, Jing Shao*, Tao Luo, <b>Lijie Hu</b>, Qihao Lin, Dongrui Liu. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
 
 <li><p><i><b style="color: #C89933">[ICLR]</b> Controlling Repetition in Protein Language Models. <a href="https://openreview.net/forum?id=X0QxVexIJX">[Link]</a> <a href="https://www.arxiv.org/abs/2602.00782">[ArXiv]</a> <a href="https://github.com/JiahaoZhang-Public/Controlling-Repetition-in-Protein-Language-Models">[code]</a> </i><br>
