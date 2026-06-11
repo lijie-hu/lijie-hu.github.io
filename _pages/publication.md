@@ -81,7 +81,7 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026).
 <u>Hongji Li</u>, <u>Manjiang Yu</u>, <u>Junchi Yao</u>, PRIYANKA SINGH, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026). </p>
 
-<li><p><i><b style="color: #C89933">[MICCAI]</b> Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models. [Link] <a href="https://arxiv.org/abs/2605.19027">[ArXiv]</a> <a href="https://abnerai.github.io/MedFM-Robust/">[code]</a> </i><br>
+<li><p><i><b style="color: #C89933">[MICCAI]</b> MedFM-Robust: Benchmarking Robustness of Medical Foundation Models. [Link] <a href="https://arxiv.org/abs/2605.19027">[ArXiv]</a> <a href="https://abnerai.github.io/MedFM-Robust/">[code]</a> </i><br>
 Xiangxiang Cui, Tianjin Huang, Yifang Wang, <b>Lijie Hu</b>, Lu Yin. <br>
 The 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026). <br>
 <b style="color: #C00000">Early accepted by MICCAI 2026 (~Top 9%).</b></p>
