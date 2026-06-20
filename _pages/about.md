@@ -42,6 +42,8 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 <hr />
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 I'm happy to serve as Action Editor of Transactions on Machine Learning Research (TMLR)!
+- *2026.05*: &nbsp;🎉 I'm happy to serve as Area Chair of NeurIPS 2026 and EMNLP 2026!
 - *2026.05*: &nbsp;🎉 One paper has been early accepted at MICCAI 2026!
 - *2026.05*: &nbsp;🎉 One paper has been accepted at TMLR!
 - *2026.04*: &nbsp;🎉 Eight papers have been accepted at ICML 2026! Congratulations to all students and co-authors! 
@@ -53,9 +55,9 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 - *2026.02*: &nbsp;🎉 One paper has been accepted at Advanced Science!
 - *2026.01*: &nbsp;🎉 Six papers have been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang!
 - *2026.01*: &nbsp;🎉 One paper has been accepted at WWW 2026! Congratulations to Manjiang and Hongji!
-- *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL!
-- *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML!
-- *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair of EACL!
+- *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL 2026!
+- *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML 2026!
+- *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair of EACL 2026!
 - *2025.10*: &nbsp;🎉 I'm happy to serve as Action Editor of ARR (ACL Rolling Review)!
 - *2025.09*: &nbsp;🎉 Our paper "EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification" has been accepted at NeurIPS 2025!
 - *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ICLR 2026!
