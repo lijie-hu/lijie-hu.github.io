@@ -102,6 +102,10 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 <u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The Web Conference (WWW 2026). </p>
 
+<li><p><i><b style="color: #C89933">[ACM MM]</b> Free-T2M: Frequency-Aware Coarse-to-Fine Text-to-Motion Generation. [Link] <a href="https://arxiv.org/abs/2501.18232">[ArXiv]</a> [code] </i><br>
+Wenshuo Chen, Haozhe Jia, Songning Lai, Lei Wang, Pengyu Yin, Shaofeng Liang, Yuqi Lin, Hongru Xiao, <b>Lijie Hu</b>, Yutao Yue. <br>
+The ACM Multimedia (ACM MM 2026), the Brave New Topics (BNI) Track. </p>
+
 <h3>Journal Papers</h3>
 
 <li><p><i><b style="color: #C89933">[Advanced Science]</b> Intelligent Stain-free Histology on Structural Colorimetric Nanocavities. <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514340?af=R">[Link]</a> [ArXiv] [code] </i><br>
@@ -118,7 +122,7 @@ Transactions on Machine Learning Research (TMLR). </p>
 
 <li><p><i><b style="color: #C89933">[TMLR]</b> Towards Representation Backdoor on CLIP via Concept Confusion. [Link] <a href="https://arxiv.org/abs/2503.09095v2">[ArXiv]</a> [code] </i><br>
 <u>Junchi Liao*</u>, Weimin Lyu*, <b>Lijie Hu</b>, Shaopeng Fu, Tianhao Huang, Shu Yang, Jie Li, Di Wang. <br>
-Transactions on Machine Learning Research (TMLR), Minor Revision. </p>
+Transactions on Machine Learning Research (TMLR). </p>
 
 <li><p><i><b style="color: #C89933">[TKDD]</b> Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era. <a href="https://dl.acm.org/doi/abs/10.1145/3816150">[Link]</a> <a href="https://arxiv.org/abs/2403.08946">[ArXiv]</a> [code] </i><br>
 Xuansheng Wu, Haiyan Zhao, Yaochen Zhu, Yucheng Shi, Fan Yang, <b>Lijie Hu</b>, Tianming Liu, Xiaoming Zhai, Wenlin Yao, Jundong Li, Mengnan Du, Ninghao Liu. <br>
