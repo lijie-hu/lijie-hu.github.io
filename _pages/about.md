@@ -12,7 +12,7 @@ Hi, I am Lijie Hu! I am an Assistant Professor in the <a href="https://mbzuai.ac
 
 ## Openings
 
-My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting PhD students. PhD positions begin in Fall 2026. Postdocs/RAs/Visiting PhD students can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan. <b> We enthusiastically welcome Ph.D. students committed to long-term, in-depth research. Prior publications are not required. </b>
+My lab is seeking several highly motivated PhD students and Postdocs. PhD positions begin in Fall 2027. Postdocs can start anytime. If you are interested in working with me, please email your CV, academic transcript, and a brief outline of your research plan. <b> Ph.D. students committed to in-depth research are highly welcome. </b>
 
 <hr />
 
