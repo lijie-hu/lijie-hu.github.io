@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Towards Usable and Useful Explainable AI"
+title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
