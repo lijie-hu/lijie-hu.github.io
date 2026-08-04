@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Lijie Hu! I am an Assistant Professor in the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Machine Learning Department</a> at <a href="https://mbzuai.ac.ae/"> Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>. I received my Ph.D. in Computer Science from King Abdullah University of Science and Technology (KAUST) in 2025, where I had the privilege of being advised by Prof. <a href="https://shao3wangdi.github.io/">Di Wang</a>, who leads the <a href="https://pradalab1.github.io/">PRADA Lab</a> (Provable Responsible AI and Data Analytics Lab). Prior to that, I obtained my Master’s degree in Mathematics from Renmin University of China.
 
-My research centers on Responsible AI, particularly Explainable AI (XAI) and Privacy‑preserving Machine Learning. My current efforts are devoted to provable and rigorous XAI that ensures transparency and accountability. Further details can be found on my <a href="https://lijie-hu.github.io/portfolio/">research page</a>
+My research centers on Responsible AI, particularly Explainable AI (XAI) and Privacy‑preserving Machine Learning. My current efforts are devoted to provable and rigorous XAI that ensures transparency and accountability. Further details can be found on my <a href="https://lijie-hu.github.io/portfolio/">research page</a>.
 
 
 ## Openings
