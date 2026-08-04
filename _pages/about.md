@@ -36,6 +36,9 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 - *2026.04*: &nbsp;🎉 One paper has been accepted at TKDD!
 - *2026.04*: &nbsp;🎉 Three papers have been accepted at ACL 2026!
 - *2026.03*: &nbsp;🎉 One paper has been accepted at TMLR!
+
+<details>
+  <summary> More... </summary>
 - *2026.02*: &nbsp;🎉 One paper has been accepted at CVPR 2026! Congratulations to Hongji, Manjiang, and Junchi!
 - *2026.02*: &nbsp;🎉 I'm happy to serve as Action Editor of The Journal of Data-centric Machine Learning Research (DMLR)!
 - *2026.02*: &nbsp;🎉 One paper has been accepted at Advanced Science!
@@ -50,6 +53,8 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 - *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ACML 2025!
 - *2025.08*: &nbsp;🎉 Two papers have been accepted at Empirical Methods in Natural Language Processing (EMNLP 2025)!
 - *2025.08*: &nbsp;🎉 Beginning my new role as a Tenure-Track Assistant Professor of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)!
+  <br>
+</details>
 
 
 <!-- *2025.07*: &nbsp;🎉 Two papers have been accepted at 2025 ACM Multimedia!
