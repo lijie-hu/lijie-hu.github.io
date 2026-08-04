@@ -21,6 +21,8 @@ Here, Usable XAI refers to <b>human-centric explanation services</b> that suppor
 
 For privacy-preserving machine learning, I mainly focused on private statistical estimation(<a href="https://jmlr.org/papers/v24/21-0523.html">[JMLR,a]</a>,<a href="https://jmlr.org/papers/v25/22-0079.html">[JMLR,b]</a>,<a href="https://arxiv.org/abs/2010.13520">[ECAI'23]</a>,<a href="https://proceedings.mlr.press/v206/hu23a/hu23a.pdf">[AISTATS'23]</a>,<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314000">[TKDE]</a>,<a href="https://dl.acm.org/doi/abs/10.1145/3517804.3524144">[PODS'22]</a>,<a href="https://proceedings.mlr.press/v167/su22a/su22a.pdf">[ALT'22]</a>) and its application to natural language models(<a href="https://arxiv.org/abs/2410.08027">[EMNLP'24 Oral,c]</a>,<a href="https://aclanthology.org/2024.findings-eacl.33/">[EACL'24]</a>).
 
+<hr />
+
 ## Theoretical Foundations of Usable XAI
 Several interpretation techniques have been developed to enhance the explainability of deep learning models. However, few of them have delved into a fundamental question: do we truly trust these explainers? In other words, are these interpretable methods faithful to the underlying models? This problem hinders the practical application of XAI. Thus, a usable XAI should provide faithful interpretations. I mainly focused on achieving Usable XAI from three aspects. Specifically, my research mainly focuses on improving the explanation faithfulness for current methods from three aspects: <b>stability</b>, <b>controllability</b>, and <b>consistency</b>.
 
