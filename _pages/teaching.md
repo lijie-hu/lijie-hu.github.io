@@ -10,18 +10,17 @@ I feel extremely fortunate to work with such talented students.
 Postdoc
 ===
 - Wei Tang (Ph.D.@Southeast), co-supervised with Fakhri Karray, 2026- <br>
-[中国科协青年人才托举工程 (博士生专项)]
 
 <hr />
 
 Ph.D. Student
 ===
 - Jiahao Zhang (B.S.@HUST), 2025- <br>
-[ICLR 2026], [ICML 2026]
 - Hongji Li (B.S.@LZU), 2026- <br>
-[CIKM 2025], [WSDM 2025, Best Paper], [WWW 2026], [CVPR 2026], [ICML 2026]
 - Junchi Yao (B.S.@UESTC), 2026- <br>
-[ACL 2025], [NeurIPS 2025]
+- Zikang Ding (CSC Ph.D. Student, UESTC), 2025- <br>
+- Ziyue Liu (Visiting Ph.D. Student, Politecnico di Torino), 2026- <br>
+- Luqing Wang (CSC Ph.D. Student, Southeast University), 2026- <br>
 
 <hr />
 
@@ -29,25 +28,17 @@ Master Student
 ===
 - Daniil Ognev (B.S.@CUHK), 2025- <br>
 - Zeqing Zhang (B.S.@Tsinghua), 2026- <br>
-[ICLR 2026]
-
 
 <hr />
 
-Visiting Student
-===
-- Zikang Ding (CSC Ph.D. Student, UESTC) <br>
-- Xinyue Xu (Ph.D. Student, HKUST) <br>
-- Ziyue Liu (Ph.D. Student, Politecnico di Torino) <br>
-
-<hr />
-
+<!--
 Research Assistant
 ===
 - Peng Cui (M.S.@HKUST) <br>
 [ICML 2026]
 - Hongjun Li (B.S.@PKU) <br>
 ......
+-->
 
 <!--
 - Changjiang Han, co-supervised with Steve Liu, 2025- <br> 
@@ -58,15 +49,15 @@ Research Assistant
 [ICML 2026]
 - Xinyan Jiang (M.S.@CAS) <br>
 [ICML 2026] <br>
--->
-
 
 <hr />
 
+-->
+
+<!--
 Collaborative Student 
 ===
 - Mahardika Krisna Ihsani (Ph.D. Student, MBZUAI)  <br>
-- Luqing Wang (Ph.D. Student, Southeast University) <br>
 - Manjiang Yu (Ph.D. Student, University of Queensland) <br>
 [WWW 2026], [ICML 2026]
 - Zhaoyi Li (Ph.D. Student, University of Science and Technology of China) <br>
@@ -78,22 +69,21 @@ Collaborative Student
 [COLM 2024], [ACL 2025 a], [ACL 2025 b] <br>
 ......
 
-
 <hr />
 
+-->
 
 Alumni 
 ===
-Visiting Student
-
-- Tingxu Han (Nanjing University, Ph.D. Student), 12/2025-06/2026 <br>
+- Tingxu Han (Nanjing University, Ph.D. Student), Visiting from 12/2025-06/2026 <br>
 Now a research intern at the Institute of Foundation Models (IFM).
-- Junchi Yao (University of Electronic Science and Technology of China, Undergraduate Student), 11/2025-05/2026 <br>
+- Junchi Yao (University of Electronic Science and Technology of China, Undergraduate Student), Visiting from 11/2025-05/2026 <br>
 Now an incoming Ph.D. student at MBZUAI.
-- Meng Ding (University at Buffalo, Ph.D. Student), 08/2025-02/2026 <br>
+- Meng Ding (University at Buffalo, Ph.D. Student), Visiting from 08/2025-02/2026 <br>
 Now a tenure-track assistant professor at UMass Boston.
 
 
+<!--
 Research Assistant
 
 - Guangyu Li (University of Science and Technology of China, Undergraduate Student), 11/2025-05/2026 <br>
@@ -139,3 +129,4 @@ Now a researcher at JoinQuant.
 Research: [EMNLP 2024, Oral], [TMLR], [ICCV 2025] <br>
 Now a Ph.D. student at the University of Virginia. <br>
 ......
+-->
