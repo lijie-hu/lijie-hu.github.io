@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Instructor
-- - ML8516 Generative AI Memorization
+- ML8516 Generative AI Memorization
   - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
   - Fall 2026
 - ML8506 Interpretable AI
