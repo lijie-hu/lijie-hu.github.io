@@ -39,21 +39,20 @@ My lab is seeking several highly motivated PhD students/Postdocs/RAs/Visiting Ph
 
 <details>
   <summary> More... </summary>
-- *2026.02*: &nbsp;🎉 One paper has been accepted at CVPR 2026! Congratulations to Hongji, Manjiang, and Junchi!
-- *2026.02*: &nbsp;🎉 I'm happy to serve as Action Editor of The Journal of Data-centric Machine Learning Research (DMLR)!
-- *2026.02*: &nbsp;🎉 One paper has been accepted at Advanced Science!
-- *2026.01*: &nbsp;🎉 Six papers have been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang!
-- *2026.01*: &nbsp;🎉 One paper has been accepted at WWW 2026! Congratulations to Manjiang and Hongji!
-- *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL 2026!
-- *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML 2026!
-- *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair of EACL 2026!
-- *2025.10*: &nbsp;🎉 I'm happy to serve as Action Editor of ARR (ACL Rolling Review)!
-- *2025.09*: &nbsp;🎉 Our paper "EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification" has been accepted at NeurIPS 2025!
-- *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ICLR 2026!
-- *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ACML 2025!
-- *2025.08*: &nbsp;🎉 Two papers have been accepted at Empirical Methods in Natural Language Processing (EMNLP 2025)!
-- *2025.08*: &nbsp;🎉 Beginning my new role as a Tenure-Track Assistant Professor of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)!
-  <br>
+- *2026.02*: &nbsp;🎉 One paper has been accepted at CVPR 2026! Congratulations to Hongji, Manjiang, and Junchi! <br>
+- *2026.02*: &nbsp;🎉 I'm happy to serve as Action Editor of The Journal of Data-centric Machine Learning Research (DMLR)! <br>
+- *2026.02*: &nbsp;🎉 One paper has been accepted at Advanced Science! <br>
+- *2026.01*: &nbsp;🎉 Six papers have been accepted at ICLR 2026! Congratulations to Jiahao, Wenjie, Huanyi, and Chenyang! <br>
+- *2026.01*: &nbsp;🎉 One paper has been accepted at WWW 2026! Congratulations to Manjiang and Hongji! <br>
+- *2025.12*: &nbsp;🎉 I'm happy to serve as Area Chair of ACL 2026! <br>
+- *2025.11*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML 2026! <br>
+- *2025.10*: &nbsp;🎉 I'm happy to serve as Area Chair of EACL 2026! <br>
+- *2025.10*: &nbsp;🎉 I'm happy to serve as Action Editor of ARR (ACL Rolling Review)! <br>
+- *2025.09*: &nbsp;🎉 Our paper "EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification" has been accepted at NeurIPS 2025! <br>
+- *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ICLR 2026! <br>
+- *2025.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ACML 2025! <br>
+- *2025.08*: &nbsp;🎉 Two papers have been accepted at Empirical Methods in Natural Language Processing (EMNLP 2025)! <br>
+- *2025.08*: &nbsp;🎉 Beginning my new role as a Tenure-Track Assistant Professor of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)! <br>
 </details>
 
 
