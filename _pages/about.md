@@ -29,6 +29,7 @@ My lab is seeking several highly motivated PhD students and Postdocs. PhD positi
 <hr />
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 I'm happy to serve as Area Chair of ACML 2026 and Senior Program Committee of AAAI 2027!
 - *2026.06*: &nbsp;🎉 One paper has been accepted at ACM MM 2026!
 - *2026.06*: &nbsp;🎉 I'm happy to serve as Action Editor of Transactions on Machine Learning Research (TMLR)!
 - *2026.05*: &nbsp;🎉 I'm happy to serve as Area Chair of NeurIPS 2026 and EMNLP 2026!
