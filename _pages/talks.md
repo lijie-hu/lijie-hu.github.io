@@ -11,7 +11,8 @@ author_profile: true
 ### <a href="https://aaai.org/about-aaai/aaai-officers-and-committees/">AAAI Student Committee</a>
 
 ### Area Chair
-- <b style="color: #C89933">2026:</b> ICML, ICLR, NeurIPS, EACL, ACL, EMNLP
+- <b style="color: #C89933">2027:</b> ICLR
+- <b style="color: #C89933">2026:</b> ICML, ICLR, NeurIPS, EACL, ACML, ACL, EMNLP
 - <b style="color: #C89933">2025:</b> ACML
 
 ### Action Editor
@@ -20,6 +21,7 @@ author_profile: true
 - ARR (ACL Rolling Review)
 
 ### Session Chair
+- ICML 2026
 - Virtual Session Chair, NAACL 2025
 
 ### Program Committee Member/Reviewer
