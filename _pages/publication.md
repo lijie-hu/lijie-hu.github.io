@@ -98,6 +98,34 @@ The 64th Annual Meeting of the Association for Computational Linguistics (ACL 20
 <u>Chenye Zou</u>, <u>Difan Jiao</u>, <b>Lijie Hu</b>. <br>
 The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings). </p>
 
+<li><p><i><b style="color: #C89933">[EMNLP]</b> From Instance Selection to Fixed-Pool Data Recipe Search for Supervised Fine-Tuning. [Link] [ArXiv] [code] </i><br>
+Haodong Wu, Jiahao Zhang, <b>Lijie Hu</b>, Yongqi Zhang. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> LLMs Regret Before They Say It: Early Detection and Compositional Architecture of Regret in Hidden States. [Link] [ArXiv] [code] </i><br>
+Xiangxiang Cui, Shu Yang, Tianjin Huang, Wanyu Lin, <b>Lijie Hu</b>, Di Wang. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Understanding and Mitigating Cross-lingual Privacy Leakage via Language-specific and Universal Privacy Neurons. [Link] [ArXiv] [code] </i><br>
+Wenshuo Dong, Qingsong Yang, Shu Yang, <b>Lijie Hu</b>, Meng Ding, Wanyu Lin, Tianhang Zheng, Di Wang. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> When the Strongest Teacher Is Not the Best Teacher: Student-Centric Answer Selection. [Link] [ArXiv] [code] </i><br>
+Zhengyu Hu, Zheyuan Xiao, Linxin Song, Fengqing Jiang, Yuetai Li, Zhihan Xiong, Junhao Lin, Yue Liu, Yao Su, <b>Lijie Hu</b>, Kaize Ding, Teng Xiao, Radha Poovendran. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> SFAD: Speculative Factuality-Aware Decoding. [Link] [ArXiv] [code] </i><br>
+<u>Guanqiao Chen</u>, Di Wang, <b>Lijie Hu</b>. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency. [Link] [ArXiv] [code] </i><br>
+<u>Xinyan Jiang</u>, Wenjing Yu, Di Wang, <b>Lijie Hu</b>. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings). </p>
+
+<li><p><i><b style="color: #C89933">[EMNLP]</b> RULE-EDIT: Benchmarking Rule-Level Knowledge Editing in Large Language Models. [Link] [ArXiv] [code] </i><br>
+<u>Jizhi Zhang</u>, Dylan Xinming Hou, Zhaoyi Li, Qishun Yang, Mahardika Krisna Ihsani, Muhammad Asif Ali, Gus Xia, <b>Lijie Hu</b>. <br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings). </p>
+
 <li><p><i><b style="color: #C89933">[WWW]</b> PIXEL: Adaptive Steering Via Position-wise Injection with eXact Estimated Levels under a Subspace Calibration. <a href="https://dl.acm.org/doi/10.1145/3774904.3792273">[Link]</a> <a href="https://arxiv.org/abs/2510.10205">[ArXiv]</a> <a href="https://github.com/V1centNevwake/PIXEL-Adaptive-Steering">[code]</a> </i><br>
 <u>Manjiang Yu*</u>, <u>Hongji Li*</u>, Priyanka Singh, Xue Li, Di Wang, <b>Lijie Hu</b>. <br>
 The Web Conference (WWW 2026). </p>
