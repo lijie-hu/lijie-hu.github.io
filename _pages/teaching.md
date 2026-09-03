@@ -10,6 +10,8 @@ I feel extremely fortunate to work with such talented students.
 Postdoc
 ===
 - Wei Tang (Ph.D.@Southeast), co-supervised with Fakhri Karray, 2026- <br>
+- (incoming) Baofu Han (Ph.D.@Southeast), co-supervised with Mohsen Guizani, 2026- <br>
+- (incoming) Wei Chen (Ph.D.@SCUT), co-supervised with Mohsen Guizani, 2027- <br>
 
 <hr />
 
@@ -28,6 +30,13 @@ Master Student
 ===
 - Daniil Ognev (B.S.@CUHK), 2025- <br>
 - Zeqing Zhang (B.S.@Tsinghua), 2026- <br>
+
+<hr />
+
+Undergraduate Student
+===
+- Yinjun Liu, 2026- <br>
+
 
 <hr />
 
