@@ -89,7 +89,7 @@ Now a Research Scientist at the Institute of Foundation Models (IFM), MBZUAI.
 - Junchi Yao (University of Electronic Science and Technology of China, Undergraduate Student), Visiting from 11/2025-05/2026 <br>
 Now a Ph.D. student at MBZUAI.
 - Meng Ding (University at Buffalo, Ph.D. Student), Visiting from 08/2025-02/2026 <br>
-Now a tenure-track assistant professor at UMass Boston.
+Now a Tenure-track Assistant Professor at UMass Boston.
 
 
 <!--
