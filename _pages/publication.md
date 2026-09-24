@@ -20,6 +20,14 @@ Publications
 
 <h3>Conference Papers</h3>
 
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> How Do Agentic LLMs Decide to Call Tools? A Scaffold Default Controlled by Suppression. [Link] [ArXiv] [code] </i><br>
+<u>Xijie Gong*</u>, <u>Tingxu Han*</u>, <u>Jiahao Zhang</u>, Wei Song, Ziqi Ding, Hanqi Yan, Youcheng Sun, <b>Lijie Hu</b>. <br>
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). </p>
+
+<li><p><i><b style="color: #C89933">[NeurIPS]</b> Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO. [Link] [ArXiv] [code] </i><br>
+<u>Junchi Yao</u>, Lokranjan Lakshmikanthan, Annie Zhao, Danielle Zhao, Shu Yang, Zikang Ding, Di Wang, <b>Lijie Hu</b>. <br>
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). </p>
+
 <li><p><i><b style="color: #C89933">[ICML]</b> Bayesian Gated Non-Negative Contrastive Learning. [Link] <a href="https://arxiv.org/abs/2605.28441">[ArXiv]</a> [code] </i><br>
 <u>Peng Cui*</u>, <u>Jiahao Zhang*</u>, <b>Lijie Hu</b>. <br>
 The Forty-Third International Conference on Machine Learning (ICML 2026). </p>
