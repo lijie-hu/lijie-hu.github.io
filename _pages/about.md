@@ -29,6 +29,8 @@ My lab is seeking several highly motivated PhD students and Postdocs. PhD positi
 <hr />
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 I'm happy to serve as Area Chair of ICML 2027!
+- *2026.10*: &nbsp;🎉 I'm happy to serve as Session Chair of EMNLP 2026!
 - *2026.09*: &nbsp;🎉 Two papers have been accepted at NeurIPS 2026!
 - *2026.08*: &nbsp;🎉 Seven papers have been accepted at EMNLP 2026!
 - *2026.08*: &nbsp;🎉 I'm happy to serve as Area Chair of ICLR 2027!
