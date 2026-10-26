@@ -22,8 +22,6 @@ Ph.D. Student
 - Jiahao Zhang (B.S.@HUST), 2025- <br>
 - Hongji Li (B.S.@LZU), 2026- <br>
 - Junchi Yao (B.S.@UESTC), 2026- <br>
-- Zikang Ding (CSC Ph.D. Student, UESTC), 2025- <br>
-- Ziyue Liu (Visiting Ph.D. Student, Politecnico di Torino), 2026- <br>
 - Luqing Wang (CSC Ph.D. Student, Southeast University), 2026- <br>
 
 <hr />
@@ -89,6 +87,8 @@ Collaborative Student
 
 Alumni 
 ===
+- Zikang Ding (CSC Ph.D. Student, UESTC), Visiting from 10/2025-10/2026 <br>
+- Ziyue Liu (Ph.D. Student, Politecnico di Torino), Visiting from 04/2026-10/2026 <br>
 - Tingxu Han (Nanjing University, Ph.D. Student), Visiting from 12/2025-06/2026 <br>
 Now a Research Scientist at the Institute of Foundation Models (IFM), MBZUAI.
 - Junchi Yao (University of Electronic Science and Technology of China, Undergraduate Student), Visiting from 11/2025-05/2026 <br>
