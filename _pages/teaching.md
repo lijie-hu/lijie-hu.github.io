@@ -14,6 +14,7 @@ Postdoc
 - Baofu Han (Ph.D.@Southeast), co-supervised with Mohsen Guizani, 2026- <br>
 - (incoming) Yuan Xiao (Ph.D.@NJU), co-supervised with Mohsen Guizani, 2026- <br>
 - (incoming) Wei Chen (Ph.D.@SCUT), co-supervised with Mohsen Guizani, 2027- <br>
+- (incoming) Yuan Chang (Ph.D.@SJTU), co-supervised with Mohsen Guizani, 2027- <br>
 
 <hr />
 
